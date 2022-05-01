@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="dracula">
 
 <head>
     <meta charset="UTF-8">
@@ -19,7 +19,7 @@
     <div class="relative">
         <section>
             <div class="grid grid-cols-6 h-auto bg-white overflow-hidden inline-block">
-                <div class="h-[100%] bg-[#2A303C] -rotate-45 transform origin-bottom-right"></div>
+                <div class="h-[100%] bg-[#272935] -rotate-45 transform origin-bottom-right"></div>
                 <div class="col-span-3 pt-5 text-center">
                     <div class="mt-3 mb-3">
                         <span class="text-gray-900 font-bold text-2xl">8TH INTERNATIONAL CONFERENCE ON SIGNAL
@@ -44,8 +44,8 @@
                     </div>
 
                 </div>
-                <div class="h-[100%] bg-[#2A303C] rotate-45 transform origin-bottom-left"> </div>
-                <div class="h-[100%] bg-[#2A303C]"> </div>
+                <div class="h-[100%] bg-[#272935] rotate-45 transform origin-bottom-left"> </div>
+                <div class="h-[100%] bg-[#272935]"> </div>
             </div>
         </section>
         <section class="text-center">
@@ -103,66 +103,107 @@
                     </div>
                 </div>
                 <div class="pt-12">
-                    <div class="card bg-base-100 shadow-2xl bg-gray-900">
+                    <div class="card bg-base-100 shadow-2xl dark:bg-gray-900">
                         <div class="card-body text-justify">
                             <h2 class="card-title">Important Dates</h2>
                             <hr>
                             <div class="mt-2 content-center">
-                                <span class="mr-5">Full Paper Submission :</span> 
-                                <span class="bg-primary text-white p-1 rounded">July 31, 2022</span>
+                                <span class="mr-5">Full Paper Submission :</span>
+                                <span class="bg-primary dark:text-white p-1 rounded">July 31, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Notification of acceptance :</span> 
-                                <span class="bg-primary text-white p-1 rounded">October 10, 2022</span>
+                                <span class="mr-5">Notification of acceptance :</span>
+                                <span class="bg-primary dark:text-white p-1 rounded">October 10, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Final Paper Submission :</span> 
-                                <span class="bg-primary text-white p-1 rounded">November 1, 2022</span>
+                                <span class="mr-5">Final Paper Submission :</span>
+                                <span class="bg-primary dark:text-white p-1 rounded">November 1, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Registration :</span> 
-                                <span class="bg-primary text-white p-1 rounded">October 25, 2022</span>
+                                <span class="mr-5">Registration :</span>
+                                <span class="bg-primary dark:text-white p-1 rounded">October 25, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Link to paper submission :</span> 
-                                <a href="https://edas.info/N29278" target="_blank"><span class="bg-primary text-white p-1 rounded">EDAS Website</span></a>
+                                <span class="mr-5">Link to paper submission :</span>
+                                <a href="https://edas.info/N29278" target="_blank"><span
+                                        class="bg-primary dark:text-white p-1 rounded">EDAS Website</span></a>
                             </div>
                         </div>
                     </div>
 
-                    <div class="card bg-base-100 shadow-2xl mt-5 bg-gray-900">
+                    <div class="card bg-base-100 shadow-2xl mt-5 dark:bg-gray-900">
                         <div class="card-body text-justify">
                             <h2 class="card-title">Conference Organizers</h2>
                             <hr>
                             <div class="content-center">
                                 <span class="font-bold">Chief Patron</span> <br>
                                 <span class="">
-                                    Sh. Jaiprakash Gaur Ji  <br>
-                                    Sh. Manoj Gaur Ji   <br>
+                                    Sh. Jaiprakash Gaur Ji <br>
+                                    Sh. Manoj Gaur Ji <br>
                                 </span>
                             </div>
                             <div class="content-center">
                                 <span class="font-bold">Patron</span> <br>
                                 <span class="">
-                                Prof. S. C. Saxena <br>
-                                Prof. Y. R. Sood <br>
+                                    Prof. S. C. Saxena <br>
+                                    Prof. Y. R. Sood <br>
                                 </span>
                             </div>
                             <div class="content-center">
                                 <span class="font-bold">General Chair</span> <br>
                                 <span class="">
-                                Prof. Hari Om Gupta  <br>
-                                Prof. Shweta Srivastava  <br>
+                                    Prof. Hari Om Gupta <br>
+                                    Prof. Shweta Srivastava <br>
                                 </span>
                             </div>
                             <div class="content-center">
                                 <span class="font-bold">Organizing Secretary</span> <br>
                                 <span class="">
-                                Prof. Jitendra Mohan <br>
+                                    Prof. Jitendra Mohan <br>
                                 </span>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="col-span-3 m-5 p-5">
+
+                    <span class="text-3xl dark:text-white font-bold text-center w-100 m-5">Gallery</span>
+                    <div class="divider"></div>
+                    <div class="carousel w-full">
+                        <div id="slide1" class="carousel-item relative w-full">
+                            <img src="img/slider/1.jpeg" class="w-full h-[80vh]"> /
+                            <div
+                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                                <a href="#slide4" class="btn btn-circle">❮</a>
+                                <a href="#slide2" class="btn btn-circle">❯</a>
+                            </div>
+                        </div>
+                        <div id="slide2" class="carousel-item relative w-full">
+                            <img src="img/slider/5.jpeg" class="w-full h-[80vh]"> /
+                            <div
+                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                                <a href="#slide1" class="btn btn-circle">❮</a>
+                                <a href="#slide3" class="btn btn-circle">❯</a>
+                            </div>
+                        </div>
+                        <!-- <div id="slide3" class="carousel-item relative w-full">
+                            <img src="https://api.lorem.space/image/car?w=800&h=200&hash=A89D0DE6" class="w-full"> /
+                            <div
+                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                                <a href="#slide2" class="btn btn-circle">❮</a>
+                                <a href="#slide4" class="btn btn-circle">❯</a>
+                            </div>
+                        </div>
+                        <div id="slide4" class="carousel-item relative w-full">
+                            <img src="https://api.lorem.space/image/car?w=800&h=200&hash=225E6693" class="w-full"> /
+                            <div
+                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
+                                <a href="#slide3" class="btn btn-circle">❮</a>
+                                <a href="#slide1" class="btn btn-circle">❯</a>
+                            </div>
+                        </div> -->
+                    </div>
+
                 </div>
             </div>
         </section>

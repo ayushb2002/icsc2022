@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,18 +16,18 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-6 bg-gray-900">
+            <div class="grid grid-cols-6 dark:bg-gray-900">
                 <div class="col-span-6 flex justify-center m-5">
-                    <span class="text-white text-3xl font-bold">Technical Program Committee</span>
+                    <span class="dark:text-white text-3xl font-bold">Technical Program Committee</span>
                 </div>
                 <div></div>
                 <div class="col-span-4 p-5 text-justify overflow-hidden">
 
 
-                    <table class="table table-normal text-justify" id="tpcData">
+                    <table class="table table-normal text-center m-auto" id="tpcData">
                         <tr>
                             <th>Name</th>
-                            <th>Email Address</th>
+                           <!-- <th>Email Address</th> -->
                         </tr>
 
                     </table>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,9 +16,9 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-6 bg-gray-900">
+            <div class="grid grid-cols-6 dark:bg-gray-900">
                 <div class="col-span-6 flex justify-center p-5">
-                    <span class="text-white font-bold text-3xl capitalize">Guidline to authors</span>
+                    <span class="dark:text-white font-bold text-3xl capitalize">Guidline to authors</span>
                 </div>
                 <div></div>
                 <div class="col-span-3 m-5 p-5">
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-span-2 m-5 p-5 text-center">
 
-                <span class="text-2xl text-white">Instructions</span>
+                <span class="text-2xl dark:text-white">Instructions</span>
                     <p>
 
                         

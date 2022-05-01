@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,7 +18,7 @@
         <section>
             <div class="grid grid-cols-5">
                 <div class="col-span-5 flex justify-center p-5">
-                    <span class="text-3xl font-bold text-white capitalize">Call for papers - scope</span>
+                    <span class="text-3xl font-bold dark:text-white capitalize">Call for papers - scope</span>
                 </div>
                 <div></div>
                 <div class="col-span-3 m-5 text-justify">
@@ -28,7 +28,7 @@
 <!----->
 
 
-<div class="card bg-gray-900 text-primary-content m-5 p-5">
+<div class="card bg-gray-900 text-white text-primary-content m-5 p-5">
           
                 <div class="card-body">
                     <div class="card-title">SIGNAL PROCESSING</div>
@@ -68,7 +68,7 @@
 
     </div>
 
-        <div class="bg-gray-900 text-primary-content card m-5 p-5">
+        <div class="bg-gray-900 text-white text-primary-content card m-5 p-5">
            
                 <div class="card-body">
                     <div class="card-title">
@@ -116,7 +116,7 @@
                 </div>
         </div>
 
-                <div class="bg-gray-900 text-primary-content card m-5 p-5">
+                <div class="bg-gray-900 text-white text-primary-content card m-5 p-5">
 
                         <div class="card-body">
                             <div class="card-title">
@@ -159,7 +159,7 @@
                         relevance and significance.
                     <br>
 <br>
-                                Authors should submit their papers online at <a href="https://www.edas.info/N29278" target="_blank" class="underline text-white font-bold">EDAS</a>
+                                Authors should submit their papers online at <a href="https://www.edas.info/N29278" target="_blank" class="underline dark:text-white font-bold">EDAS</a>
 
                                     </p>
 

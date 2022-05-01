@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en" data-theme="dracula">
 
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
         <section>
             <div class="grid grid-cols-4">
                 <div class="col-span-4 flex justify-center m-5">
-                    <span class="text-3xl font-bold text-white capitalize">Organizing Committee</span>
+                    <span class="text-3xl font-bold dark:text-white capitalize">Organizing Committee</span>
                 </div>
 
                 <div></div>
@@ -31,7 +31,7 @@
                     <table class="table table-normal">
                         <tr class="my-2">
                             <td class="">
-                                <b class="text-white">General Chair:</b>
+                                <b class="dark:text-white">General Chair:</b>
                                 <br><br>
                                 <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. Hariom Gupta</a>
                                 <br>
@@ -40,7 +40,7 @@
                             </td>
 
                             <td>
-                                <b class="text-white">Organizing Secretary:</b>
+                                <b class="dark:text-white">Organizing Secretary:</b>
                                 <br><br>
                                 <a href="http://www.jiit.ac.in/dr-vikram-karwal" target="_blank" class="underline">Prof. Jitendra Mohan</a>
                                 <br>Department of Electronics & Communication<br>
@@ -102,7 +102,6 @@
                             <td>Parul Arora</td>
                         </tr>
                         <tr>
-                            <td>Kirmender Singh</td>
                             <td>Reema Buddhiraja</td>
                             <td>Saurabh Chaturvedi</td>
                         </tr>

@@ -4,7 +4,7 @@
     <p class="font-bold text-center text-xl">ICSC Conference 2022</p>
   </div>
   <div>
-    <span class="footer-title text-2xl text-white">Previous year websites</span>
+    <span class="footer-title text-2xl dark:text-white">Previous year websites</span>
     <ul>
     <li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/">ICSC 2021</a></li>
 				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC20/">ICSC 2020</a></li>
@@ -16,7 +16,7 @@
     </ul>
   </div>
   <div class="grid grid-row-3">
-    <span class="footer-title text-2xl text-white">Quick Links</span>
+    <span class="footer-title text-2xl dark:text-white">Quick Links</span>
   <div>
     <span class="footer-title">Register</span> <br>
     <a class="link link-hover" href="registration.php">Click here!</a>
@@ -31,7 +31,7 @@
     </div>
   </div>
   <div>
-    <span class="footer-title text-2xl text-white">Contact Us</span>
+    <span class="footer-title text-2xl dark:text-white">Contact Us</span>
     <p>
       Jaypee Institute of Information Technology <br>
       JIIT Sector - 62, Noida - 201309 <br>

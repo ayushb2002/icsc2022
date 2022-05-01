@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 
 <head>
     <meta charset="UTF-8">
@@ -18,13 +18,13 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 bg-gray-900">
+            <div class="grid grid-cols-4 dark:bg-gray-900">
                 <div class="col-span-4 flex justify-center m-10">
-                    <span class="text-3xl text-white font-bold capitalize">Contact Us</span>
+                    <span class="text-3xl dark:text-white font-bold capitalize">Contact Us</span>
                 </div>
                 <div></div>
                 <div class="col-span-2">
-                    <span class="text-2xl text-white font-bold capitalize">Prof. Jitendra Mohan</span>
+                    <span class="text-2xl dark:text-white font-bold capitalize">Prof. Jitendra Mohan</span>
                     <div class="divider"></div>
                     <p>
                         Department of Electronics & Communication
@@ -38,7 +38,7 @@
                         Phone: (+91)-120-4195865 (Office), (+91)-9910909863 (Mobile)
                     </p>
                     <br><br>
-                    <span class="text-2xl text-white font-bold capitalize">How to reach</span>
+                    <span class="text-2xl dark:text-white font-bold capitalize">How to reach</span>
                     <div class="divider"></div>
                     <span class="font-bold">Metro: </span>
                     <br>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,13 +16,13 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 bg-gray-900">
+            <div class="grid grid-cols-4 dark:bg-gray-900">
                 <div class="col-span-4 flex justify-center">
-                    <span class="m-5 text-3xl font-bold text-white">About Us</span>
+                    <span class="m-5 text-3xl font-bold dark:text-white">About Us</span>
                 </div>
                 <div></div>
                 <div class="col-span-2 p-5">
-                <span class="text-2xl text-white">JIIT</span>
+                <span class="text-2xl dark:text-white">JIIT</span>
                 <div class="divider"></div>
             <p>Jaypee Institute of Information Technology (JIIT) was founded in 2001 with the vision of becoming a
                 centre of excellence in the field of IT and related emerging areas of education, training and research
@@ -30,7 +30,7 @@
                 entrepreneurship, creativity and management. </p>
             <br><br>
 
-            <span class="text-2xl text-white">ECE Department</span>
+            <span class="text-2xl dark:text-white">ECE Department</span>
             <div class="divider"></div>
             <p>The Electronics and Communication Engineering Department was formed in the year 2002.Besides running a
                 4-year B.Tech. degree and a 5-year Integrated B.Tech - M.Tech. degree program, the Department also runs

@@ -21,7 +21,7 @@ readTextFile("resources/tpc.json", function(text){
     for(var i=0; i<data.length;i++)
     {
         var tr = document.createElement('tr');
-        for(var j=0;j<2;j++)
+        for(var j=0;j<1;j++)
         {
             var td = document.createElement('td');
             td.innerHTML = data[i][heads[j]];

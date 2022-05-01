@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="dracula">
 
 <head>
     <meta charset="UTF-8">
@@ -18,9 +18,9 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 bg-gray-900">
+            <div class="grid grid-cols-4 dark:bg-gray-900">
                 <div class="col-span-4 flex justify-center m-5">
-                    <span class="text-3xl text-white capitalize font-bold">Call for papers - Instructions</span>
+                    <span class="text-3xl dark:text-white capitalize font-bold">Call for papers - Instructions</span>
                 </div>
                 <div></div>
                 <div class="col-span-2 py-5">
@@ -58,7 +58,7 @@
                         Only the registered author with full registration fees should present the paper.
                     </p>
                     <br>
-                    <span class="text-2xl text-white capitalize">Important Dates</span>
+                    <span class="text-2xl dark:text-white capitalize">Important Dates</span>
                     <div class="divider"></div>
                     <p>
                         <span>
@@ -83,7 +83,7 @@
                         Unregistered authors
                         should first create an account on EDAS to log on.</p>
                     <br>
-                    <span class="text-2xl text-white">Previous conferences</span>
+                    <span class="text-2xl dark:text-white">Previous conferences</span>
                     <div class="divider"></div>
                     <p>To know more about the previous editions of ICSC, please click on ICSC-2013, ICSC-2015,
                         ICSC-2016,

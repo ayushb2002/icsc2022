@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dracula">
+<html lang="en" data-theme="lemonade">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,7 +18,7 @@
         <section>
             <div class="grid grid-cols-4 m-20">
                 <div class="col-span-4 text-center">
-                    <span class="dark:text-white text-3xl font-bold animate-pulse">To be updated soon...</span>
+                    <span class="dark: text-3xl font-bold animate-pulse">To be updated soon...</span>
                 </div>
             </div>
         </section>

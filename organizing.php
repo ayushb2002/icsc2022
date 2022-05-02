@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dracula">
+<html lang="en" data-theme="lemonade">
 
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
         <section>
             <div class="grid grid-cols-4">
                 <div class="col-span-4 flex justify-center m-5">
-                    <span class="text-3xl font-bold dark:text-white capitalize">Organizing Committee</span>
+                    <span class="text-3xl font-bold dark: capitalize">Organizing Committee</span>
                 </div>
 
                 <div></div>
@@ -31,7 +31,7 @@
                     <table class="table table-normal">
                         <tr class="my-2">
                             <td class="">
-                                <b class="dark:text-white">General Chair:</b>
+                                <b class="text-lg">General Chair:</b>
                                 <br><br>
                                 <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. Hariom Gupta</a>
                                 <br>
@@ -39,8 +39,8 @@
                                 <br><br>
                             </td>
 
-                            <td>
-                                <b class="dark:text-white">Organizing Secretary:</b>
+                            <td class="pl-20">
+                                <b class="text-lg">Organizing Secretary:</b>
                                 <br><br>
                                 <a href="http://www.jiit.ac.in/dr-vikram-karwal" target="_blank" class="underline">Prof. Jitendra Mohan</a>
                                 <br>Department of Electronics & Communication<br>
@@ -56,8 +56,10 @@
                         </tr>
                     </table>
 
+                    <div id="organizingTable" class="p-5">
 
-                    <table class="table table-normal mx-auto table-zebra">
+                    </div>
+                    <!-- <table class="table table-normal mx-auto table-zebra">
                         <tr>
                             <td><br><br><br></td>
                         </tr>
@@ -175,7 +177,7 @@
                             <td>Nisha Venkatesh</td>
                             <td></td>
                         </tr>
-                    </table>
+                    </table> -->
                 </div>
 
                 <div></div>

@@ -1,10 +1,10 @@
-<footer class="footer p-10 bg-base-200 text-base-content place-content-evenly">
+<footer class="footer p-10 bg-base-200 text-base-content place-content-evenly border-t-2">
   <div class="place-content-center">
     <img src="img/jaypee_logo.jpeg" alt="jaypee_logo" class="rounded-[50%] w-[200px] h-[200px]">
     <p class="font-bold text-center text-xl">ICSC Conference 2022</p>
   </div>
   <div>
-    <span class="footer-title text-2xl dark:text-white">Previous year websites</span>
+    <span class="footer-title text-2xl dark:">Previous year websites</span>
     <ul>
     <li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/">ICSC 2021</a></li>
 				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC20/">ICSC 2020</a></li>
@@ -16,7 +16,7 @@
     </ul>
   </div>
   <div class="grid grid-row-3">
-    <span class="footer-title text-2xl dark:text-white">Quick Links</span>
+    <span class="footer-title text-2xl dark:">Quick Links</span>
   <div>
     <span class="footer-title">Register</span> <br>
     <a class="link link-hover" href="registration.php">Click here!</a>
@@ -31,7 +31,7 @@
     </div>
   </div>
   <div>
-    <span class="footer-title text-2xl dark:text-white">Contact Us</span>
+    <span class="footer-title text-2xl dark:">Contact Us</span>
     <p>
       Jaypee Institute of Information Technology <br>
       JIIT Sector - 62, Noida - 201309 <br>
@@ -43,7 +43,7 @@
     </p>
   </div>
 </footer>
-<div class="w-100 h-auto bg-[#242933] text-center p-5">
+<div class="w-100 h-auto bg-base-200 text-center p-5">
   <span>Copyright © JIIT</span> <br><br>
-    <span>Designed and developed by <a href="#">Ayush Bansal</a></span>
+    <span>Designed and developed by <a href="https://www.linkedin.com/in/ayush-bansal-560597195/" target="_blank">Ayush Bansal</a></span>
   </div>

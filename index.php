@@ -41,7 +41,7 @@
                 <div class="relative m-auto z-[1] block w-[100%] h-full">
                     <div class="">
                     <div class="my-3 text-center">
-                        <span class="text-gray-900 font-bold text-3xl">8TH INTERNATIONAL CONFERENCE ON SIGNAL <br>
+                        <span class="text-gray-900 font-bold text-3xl">8<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL <br>
                             PROCESSING AND COMMUNICATION 2022</span>
                     </div>
 

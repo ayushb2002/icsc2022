@@ -27,12 +27,12 @@
         <li><a href="registration.php">Registration</a></li>
         <li tabindex="0">
         <a>
-          Commitees
+          Committees
           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
         </a>
         <ul class="p-2 bg-base-100">
-          <li><a href="organizing.php">Organizing Committees</a></li>
-          <li><a href="tpc.php">Technical Program Committees</a></li>
+          <li><a href="organizing.php">Organizing Committee</a></li>
+          <li><a href="tpc.php">Technical Program Committee</a></li>
         </ul>
       </li>
             
@@ -62,12 +62,12 @@
         <li><a href="registration.php">Registration</a></li>
         <li tabindex="0">
         <a>
-          Commitees
+          Committees
           <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M7.41,8.58L12,13.17L16.59,8.58L18,10L12,16L6,10L7.41,8.58Z"/></svg>
         </a>
         <ul class="p-2 bg-base-100">
-          <li><a href="organizing.php">Organizing <br> Committees</a></li>
-          <li><a href="tpc.php">Technical Program <br> Committees</a></li>
+          <li><a href="organizing.php">Organizing <br> Committee</a></li>
+          <li><a href="tpc.php">Technical Program <br> Committee</a></li>
         </ul>
       </li>
             

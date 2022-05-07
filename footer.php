@@ -1,18 +1,18 @@
 <footer class="footer p-10 bg-base-200 text-base-content place-content-evenly border-t-2">
   <div class="place-content-center">
     <img src="img/jaypee_logo.jpeg" alt="jaypee_logo" class="rounded-[50%] w-[200px] h-[200px]">
-    <p class="font-bold text-center text-xl">ICSC Conference 2022</p>
+    <p class="font-bold text-center text-xl flex justify-center w-full">ICSC 2022</p>
   </div>
   <div>
-    <span class="footer-title text-2xl dark:">Previous year websites</span>
+    <span class="footer-title text-2xl dark:">Previous ICSC Conferences</span>
     <ul>
-    <li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/">ICSC 2021</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC20/">ICSC 2020</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC19/">ICSC 2019</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC19/ICSC/">ICSC 2018</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC19/ICSC/icsc2016/">ICSC 2016</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2015/">ICSC 2015</a></li>
-				<li class="m-2 underline text-base"><a class="prev-links-a" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2013/">ICSC 2013</a></li>
+    <li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/">ICSC 2021</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC20/">ICSC 2020</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/">ICSC 2019</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/">ICSC 2018</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/">ICSC 2016</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2015/">ICSC 2015</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2013/">ICSC 2013</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
     </ul>
   </div>
   <div class="grid grid-row-3">

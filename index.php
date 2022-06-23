@@ -5,27 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ISCS 2022 Conference</title>
+    <title>ICSC 2022 Conference</title>
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
     <?php include 'includes.php' ?>
-    <style>
-        .triangular-section
-        {
-            position: absolute;
-            bottom: 0%;
-            right: 0%;
-            height: 100%;
-            width: 40%;
-            background: linear-gradient(rgba(100%, 100%, 100%, 0.5), rgba(100%, 100%, 100%, 0.7)), url("img/background.jpg");
-            clip-path: polygon(100% 0, 0% 100%, 100% 100%);
-        }
-        @media only screen and (max-width: 768px) {
-        .triangular-section
-        {
-            display: none;
-        }
-        }
-    </style>
-
 </head>
 
 <body>
@@ -37,41 +19,81 @@
 
     <div class="relative">
         <section>
-            <div class="h-[95vh] bg-white overflow-hidden pt-5 border-b-2">
+            <div class="h-auto bg-white overflow-hidden pt-1 border-b-2">
                 <div class="relative m-auto z-[1] block w-[100%] h-full">
                     <div class="">
-                    <div class="my-3 text-center">
-                        <span class="text-gray-900 font-bold text-3xl">8<sup>TH</sup> INTERNATIONAL CONFERENCE ON SIGNAL <br>
-                            PROCESSING AND COMMUNICATION 2022</span>
-                    </div>
+                        <div class="my-3 text-center">
+                            <span class="text-gray-900 font-bold text-4xl">8<sup>th</sup> INTERNATIONAL CONFERENCE ON
+                                SIGNAL <br>
+                                PROCESSING AND COMMUNICATION 2022</span>
+                        </div>
 
-                    <div class="my-3 text-center">
-                        <span class="text-gray-900 text-xl font-bold">December 01 - 03, 2022</span>
-                    </div>
+                        <div class="my-1 text-center">
+                            <span class="text-blue-900 text-2xl font-bold">December 01 - 03, 2022</span>
+                        </div>
+                        <div class="my-1 text-center">
+                            <span class="text-blue-900 text-2xl font-bold">IEEE Conference Record Number - 56524 </span>
+                        </div>
 
-                    <div class="my-3 flex justify-center">
-                        <img src="img/jiit.png" alt="jaypee" class="w-[25vh] h-[30vh] my-12" loading="lazy">
-                    </div>
+                        <div class="grid grid-row-5 lg:grid-cols-5">
+                            <div class="my-12 px-auto">
+                                <img src="img/jiit.png" alt="jaypee" class="w-[20vh] h-auto lg:w-[20vh] lg:h-[25vh] mx-auto" loading="lazy">
+                            </div>
+                            <div class="row-span-3 lg:col-span-3">
 
-                    <div class="mt-3 text-center">
-                        <p class="text-gray-900 font-bold">
-                            Organized by ECE Department, <br>
-                            Jaypee Institute of Information Technology, Noida, INDIA <br>
-                            (Deemed To be University Under Section 3 of UGC Act 1956)
-                        </p>
+                                <div class="flex items-center justify-center my-4" x-data="beer()" x-init="start()">
+                                    <div class="p-12 bg-gray-100">
+                                        <h1 class="lg:text-3xl text-center mb-3">FULL PAPER SUBMISSION</h1>
+                                        <div class="lg:text-6xl text-center flex w-full items-center justify-center">
+                                            <div class="lg:text-2xl lg:mr-1">IN</div>
+                                            <div class="lg:w-24 mx-1 p-2 bg-white rounded-lg">
+                                                <div class="font-mono leading-none" x-text="days">00</div>
+                                                <div class="font-mono uppercase text-sm leading-none">Days</div>
+                                            </div>
+                                            <div class="lg:w-24 mx-1 p-2 bg-white rounded-lg">
+                                                <div class="font-mono leading-none" x-text="hours">00</div>
+                                                <div class="font-mono uppercase text-sm leading-none">Hours</div>
+                                            </div>
+                                            <div class="lg:w-24 mx-1 p-2 bg-white rounded-lg">
+                                                <div class="font-mono leading-none" x-text="minutes">00</div>
+                                                <div class="font-mono uppercase text-sm leading-none">Minutes</div>
+                                            </div>
+                                            <div class="lg:text-2xl mx-1">AND</div>
+                                            <div class="lg:w-24 mx-1 p-2 bg-white rounded-lg">
+                                                <div class="font-mono leading-none" x-text="seconds">00</div>
+                                                <div class="font-mono uppercase text-sm leading-none">Seconds</div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="my-12 px-auto">
+                                <img src="img/IEEE.png" alt="IEEE" class="w-[30vh] h-auto lg:w-[40vh] lg:h-[20vh] mx-auto" loading="lazy">
+                            </div>
+                        </div>
+
+
+                        <div class="text-center">
+                            <p class="text-gray-900 text-2xl mb-3">
+                                Organized by - <br>
+                                Department of Electronics and Communication Engineering<br>
+                                Jaypee Institute of Information Technology, Noida, INDIA<br>
+                                <span class="text-xl">(Deemed To be University Under Section 3 of UGC Act 1956)</span>
+                            </p>
+                            <p class="text-gray-900 text-2xl font-bold mb-10" style="color:red">
+                                Conference is being held in <b class="animate-pulse">Online Mode (Virtual)</b>!
+                            </p>
+                        </div>
                     </div>
-                    </div>
-                    
-                    <div class="triangular-section h-full"></div>
                 </div>
-                
-                    
+
+
 
             </div>
         </section>
         <section class="text-center">
-            <div class="grid grid-cols-3 p-5">
-                <div class="col-span-2 p-5">
+            <div class="grid lg:grid-cols-3 p-5">
+                <div class="lg:col-span-2 p-5">
 
                     <div class="w-100 text-center mt-3 mb-3"><span class="text-3xl font-bold">ICSC 2022</span></div>
                     <div class="w-100 text-justify p-3">
@@ -121,6 +143,24 @@
                             expected that the conference will help in meeting the future challenges of industry,
                             academia
                             and research.</p>
+
+                            <div>
+                    <div class="flex justify-center my-5">
+                                <img src="img/IEEE_up.png" alt="IEEE" class="w-[40vh] h-[20vh]" loading="lazy">
+                    </div>
+                        <marquee>
+                            <h3>
+                                <center>
+                                    <font color="red">Technically Co-sponsored by IEEE UP Section.</font>
+                                </center>
+                                <center>
+                                    <font size="4">All the selected papers that are presented in the conference will be
+                                        considered for publication in IEEE Xplore Proceedings (IEEE Conference Record No
+                                        : 56524)</font>
+                                </center>
+                            </h3>
+                        </marquee>
+                    </div>
                     </div>
                 </div>
                 <div class="pt-12">
@@ -147,7 +187,7 @@
                             <div class="content-center">
                                 <span class="mr-5">Link to paper submission :</span>
                                 <a href="https://edas.info/N29278" target="_blank"><span
-                                        class="p-1 rounded text-primary font-bold">EDAS Website</span></a>
+                                        class="p-1 rounded text-primary font-bold">EDAS</span></a>
                             </div>
                         </div>
                     </div>
@@ -186,7 +226,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-span-3 m-5 p-5">
+                <!-- <div class="col-span-3 my-10 grid grid-cols-3">
+                    
+                    
+                </div> -->
+                <div class="lg:col-span-3 m-5 p-5">
 
                     <span class="text-3xl font-bold text-center w-100 m-5 uppercase">Gallery</span>
                     <div class="carousel w-full mt-5 rounded">

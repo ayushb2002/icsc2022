@@ -16,12 +16,12 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 dark:">
-                <div class="col-span-4 flex justify-center">
+            <div class="grid grid-cols-6  dark:">
+                <div class="col-span-6 flex justify-center">
                     <span class="m-5 text-3xl font-bold dark:">About Us</span>
                 </div>
                 <div></div>
-                <div class="col-span-2 p-5">
+                <div class="col-span-4 p-5">
                 <span class="text-2xl dark:">JIIT</span>
                 <div class="divider"></div>
             <p>Jaypee Institute of Information Technology (JIIT) was founded in 2001 with the vision of becoming a
@@ -39,7 +39,7 @@
                 to Ph.D. degree in cutting edge research areas of Electronics and Communication Engineering.</p>
                 <br>
             <p>The salient features of the degree programs are:
-                <ul class="list-disc px-20 py-5">
+                <ul class="list-disc lg:px-20 py-5">
                     <li>Inculcate analytical approach,</li>
                     <li>Adequate number of courses on humanities and personality development,</li>
                     <li>Judicious mix of hardware and software based experiments,</li>
@@ -65,7 +65,7 @@
 
                 <br> <br>
                 The department has following well equipped laboratories:
-                <ul class="list-disc px-20 py-5">
+                <ul class="list-disc lg:px-20 py-5">
                     <li>Communication Systems laboratory</li>
                     <li>Control and Instrumentation laboratory</li>
                     <li>Microprocessor laboratory</li>

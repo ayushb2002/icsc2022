@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registration | ISCS 2022</title>
+    <title>Registration | ICSC 2022</title>
     <?php include 'includes.php' ?>
 </head>
 
@@ -170,7 +170,7 @@
                     </table>
                     <br>
 
-                    <span class="text-2xl font-bold py-12">Registration Instructions</span>
+                    <!-- <span class="text-2xl font-bold py-12">Registration Instructions</span>
                     <br> <br>
                     <div class="p-5">
                         <ul class="list-disc text-justify">
@@ -195,7 +195,7 @@
                                     Goel</b> at <b>ashish.goel@mail.jiit.ac.in.</b></li>
                         </ul>
 
-                    </div>
+                    </div> -->
 
                     <span class="text-2xl text-center font-bold">Additional Instructions for Co-Authors/Non-Author participants:-</span>
                     <div class="text-justify p-5">
@@ -273,7 +273,7 @@
                                     Account Number
                                 </td>
                                 <td>
-                                    JIITICSC2021
+                                JIITICSC2022
                                 </td>
 
                             </tr>
@@ -283,7 +283,7 @@
                                     Branch Name
                                 </td>
                                 <td>
-                                    CMS Mumbai
+                                CMS Mumbai
                                 </td>
 
                             </tr>
@@ -293,14 +293,16 @@
                                     IFSC Code
                                 </td>
                                 <td>
-                                    ICIC0000104
+                                ICIC0000104
                                 </td>
 
                             </tr>
 
                         </table>
-                        <p class="font-bold">For ICICI Bank user, add payee under "Other Banks".</p>
-                        <div class="divider"></div>
+                        <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
+                        <p class="font-bold">2. UPI payment through Wallet (Phonepe, paytm etc) not applicable. </p>
+                        <p class="font-bold">3. For any query mail to <a href="mailto:fees@jiit.ac.in">fees@jiit.ac.in</a></p>
+                        <!-- <div class="divider"></div>
                         <span class="font-bold text-2xl">Wire Transfer (outside India)</span>
                         <div class="divider"></div>
                         <span class="text-justify">The Participant/Author can pay the registration fee through Fund
@@ -345,7 +347,7 @@
                         <p class="text-justify my-2">• All banks charges in foreign and in India, in connection with
                             the remittance will be charged to the account of the Remitter. Any shortage in the
                             prescribed fees amount, on account of bank charges credited to the Institute’s A/c shall be
-                            borne by the remitter.</p>
+                            borne by the remitter.</p> -->
 
 <br><br>
 

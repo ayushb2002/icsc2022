@@ -6,13 +6,13 @@
   <div>
     <span class="footer-title text-2xl dark:">Previous ICSC Conferences</span>
     <ul>
-    <li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/">ICSC 2021</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC20/">ICSC 2020</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/">ICSC 2019</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/">ICSC 2018</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/">ICSC 2016</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2015/">ICSC 2015</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
-				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2013/">ICSC 2013</a> - <a href="#" class="underline">IEEE Xplore Digital Library</a></li>
+    <li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/">ICSC 2021</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/9673137/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC20/">ICSC 2020</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/9179708/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/">ICSC 2019</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/8930208/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/">ICSC 2018</a> - <a href="https://link.springer.com/book/10.1007/978-981-13-2553-3?noAccess=true" class="underline">Springer - Lecture Notes in Electrical Engineering</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/">ICSC 2016</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/7973294/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2015/">ICSC 2015</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/7086256/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
+				<li class="m-2 text-base"><a class="prev-links-a underline" href="ICSC21/ICSC19/ICSC/icsc2016/icsc2013/">ICSC 2013</a> - <a href="https://ieeexplore.ieee.org/xpl/conhome/6709842/proceeding" class="underline">IEEE Xplore Digital Library</a></li>
     </ul>
   </div>
   <div class="grid grid-row-3">
@@ -45,5 +45,5 @@
 </footer>
 <div class="w-100 h-auto bg-base-200 text-center p-5">
   <span>Copyright © JIIT</span> <br><br>
-    <span>Designed and developed by <a href="https://www.linkedin.com/in/ayush-bansal-560597195/" target="_blank">Ayush Bansal</a></span>
+    <span>Designed and developed by <u><a href="https://www.linkedin.com/in/ayush-bansal-560597195/" target="_blank">Ayush Bansal</a></u></span>
   </div>

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guidlines | ISCS 2022</title>
+    <title>Guidlines | ICSC 2022</title>
     <?php include 'includes.php' ?>
 </head>
 <body>
@@ -108,6 +108,12 @@
                                     download="IEEE_Policy_on_Plagiarism.pdf">
                                     <button class="btn btn-primary m-5"> 
                                         Download IEEE Policy on Plagiarism</button>
+                                </a>
+
+                                <a href="resources/Call for Paper_ICSC 2022_IEEE.pdf"
+                                    download="Call for Paper_ICSC 2022_IEEE.pdf">
+                                    <button class="btn btn-primary m-5"> 
+                                        Download Call For Papers</button>
                                 </a>
                           
                     </p>

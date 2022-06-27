@@ -18,12 +18,12 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 dark:">
-                <div class="col-span-4 flex justify-center m-5">
+            <div class="grid grid-cols-5 lg:grid-cols-4 dark:">
+                <div class="col-span-5 lg:col-span-4 flex justify-center m-5">
                     <span class="text-3xl dark: capitalize font-bold">Call for papers - Instructions</span>
                 </div>
                 <div></div>
-                <div class="col-span-2 py-5">
+                <div class="col-span-3 lg:col-span-2 py-5">
 
                     <p>
                         It gives us immense pleasure to inform you that the Department of Electronics and Communication

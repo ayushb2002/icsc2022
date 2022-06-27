@@ -26,15 +26,17 @@
                 <div class="col-span-5 text-center overflow-hidden">
 
 
-                    <div class="flex justify-center">
-
+                    <div class="grid grid-rows-2 lg:grid-cols-2">
+                        <div class="flex justify-center my-2">
                         <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
                             Registration Form Download
                         </a>
+                        </div>
+                        <div class="flex justify-center my-2">
                         <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
                             Register Now
                         </a>
-
+                        </div>
                     </div>
 
                     <div class="divider"></div>
@@ -48,7 +50,7 @@
 
                     <span class="font-bold text-2xl text-primary uppercase animate-pulse">Conference will be held in online mode.</span>
                     <div class="divider"></div>
-
+                    <div class="overflow-x-auto">
                     <table class="table table-normal mx-auto text-center table-zebra">
                         <tr class="font-bold">
                             <td></td>
@@ -168,6 +170,7 @@
 
 
                     </table>
+                    </div>
                     <br>
 
                     <!-- <span class="text-2xl font-bold py-12">Registration Instructions</span>
@@ -249,6 +252,7 @@
                         Transfer. The Fund Transfer must be made to the following Account details.
                         <br>
                         <br>
+                        <div class="overflow-x-auto">
                         <table class="table table-normal table-zebra w-full px-auto text-center my-10">
                             <tr>
                                 <td>
@@ -299,6 +303,7 @@
                             </tr>
 
                         </table>
+                        </div>
                         <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
                         <p class="font-bold">2. UPI payment through Wallet (Phonepe, paytm etc) not applicable. </p>
                         <p class="font-bold">3. For any query mail to <a href="mailto:fees@jiit.ac.in">fees@jiit.ac.in</a></p>

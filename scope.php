@@ -16,19 +16,19 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-5">
-                <div class="col-span-5 flex justify-center p-5">
+            <div class="grid grid-cols-7 lg:grid-cols-5">
+                <div class="col-span-7 lg:col-span-5 flex justify-center p-5">
                     <span class="text-3xl font-bold dark: capitalize">Call for papers - scope</span>
                 </div>
                 <div></div>
-                <div class="col-span-3 m-5 text-justify">
+                <div class="col-span-5 lg:col-span-3 m-5 text-justify">
                 <p>Authors are invited to submit original unpublished research work that demonstrates the recent
                     advances in the following area of interest, but are not limited to :</p>
 
 <!----->
 
 
-<div class="card bg-base-200 border-2 m-5 p-5">
+<div class="card bg-base-200 border-2 my-5 lg:mx-5 lg:p-5">
           
                 <div class="card-body">
                     <div class="card-title">SIGNAL PROCESSING</div>
@@ -68,7 +68,7 @@
 
     </div>
 
-        <div class="bg-base-200 border-2 card m-5 p-5">
+        <div class="bg-base-200 border-2 card my-5 lg:mx-5 lg:p-5">
            
                 <div class="card-body">
                     <div class="card-title">
@@ -116,7 +116,7 @@
                 </div>
         </div>
 
-                <div class="bg-base-200 border-2 card m-5 p-5">
+                <div class="bg-base-200 border-2 card my-5 lg:mx-5 lg:p-5">
 
                         <div class="card-body">
                             <div class="card-title">

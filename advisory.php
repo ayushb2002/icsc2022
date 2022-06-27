@@ -21,8 +21,8 @@
                     <span class="dark: text-3xl font-bold">Advisory Committee</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 overflow-x-auto flex justify-center my-10" id="advisoryData">
-
+                <div class="col-span-5 flex justify-center my-10" >
+                <div class="overflow-x-auto" id="advisoryData"></div>
                 </div>
                 <div></div>
 

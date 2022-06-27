@@ -18,12 +18,12 @@
 
     <div class="relative">
         <section>
-            <div class="grid grid-cols-4 dark:">
-                <div class="col-span-4 flex justify-center m-10">
+            <div class="grid grid-cols-6 lg:grid-cols-4 dark:">
+                <div class="col-span-6 lg:col-span-4 flex justify-center m-10">
                     <span class="text-3xl dark: font-bold capitalize">Contact Us</span>
                 </div>
                 <div></div>
-                <div class="col-span-2">
+                <div class="col-span-4 lg:col-span-2">
                     <span class="text-2xl dark: font-bold capitalize">Prof. Jitendra Mohan</span>
                     <div class="divider"></div>
                     <p>

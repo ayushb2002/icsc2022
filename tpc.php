@@ -69,8 +69,10 @@
                     <span class="dark: text-3xl font-bold">Technical Program Committee</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 overflow-x-auto flex justify-center mt-10" id="tpcData">
+                <div class="col-span-5 flex justify-center mt-10" >
+                    <div class="overflow-x-auto" id="tpcData">
 
+                    </div>
                 </div>
                 <div></div>
 

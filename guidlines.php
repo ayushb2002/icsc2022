@@ -20,9 +20,8 @@
                 <div class="col-span-6 flex justify-center p-5">
                     <span class="dark: font-bold text-3xl capitalize">Guidline to authors</span>
                 </div>
-                <div></div>
-                <div class="col-span-3 m-5 p-5">
-                    <ul class="list-decimal text-justify">
+                <div class="col-span-6 lg:col-start-2 lg:col-span-3 lg:m-5">
+                    <ul class="list-decimal text-justify p-5">
                     <li>
                         Authors are invited to submit full papers in English of not more than 6 pages (including
                         figures, tables & references) in IEEE double-column format.
@@ -79,11 +78,11 @@
                     Papers submitted to ICSC 2022 should not have been submitted to any other conference or journal (multiple submissions).
                     </li></br>
                     <li>
-                        The author should cater to IEEE Plagiarism policy given at <a href='https://www.ieee.org/publications_standards/publications/rights/Section_822.html' target="_blank" class="underline">https://www.ieee.org/publications_standards/publications/rights/Section_822.html.</a>
+                        The author should cater to IEEE Plagiarism policy given at <a href='https://www.ieee.org/publications_standards/publications/rights/Section_822.html' target="_blank" class="underline">IEEE official website</a>
                     </li>
                     </ul>
                 </div>
-                <div class="col-span-2 m-5 p-5 text-center">
+                <div class="col-span-6 lg:col-span-2 lg:m-5 lg:p-5 text-center">
 
                 <span class="text-2xl dark:">Instructions</span>
                 <div class="divider"></div>

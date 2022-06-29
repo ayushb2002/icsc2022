@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="lemonade">
+<html lang="en" data-theme="cmyk">
 
 <head>
     <meta charset="UTF-8">
@@ -42,7 +42,7 @@
                             <div class="row-span-3 lg:col-span-3">
 
                                 <div class="flex items-center justify-center my-4" x-data="beer()" x-init="start()">
-                                    <div class="p-12 bg-gray-100">
+                                    <div class="p-5 lg:p-12 bg-gray-100">
                                         <h1 class="lg:text-3xl text-center mb-3">FULL PAPER SUBMISSION</h1>
                                         <div class="lg:text-6xl text-center flex w-full items-center justify-center">
                                             <div class="lg:text-2xl lg:mr-1">IN</div>

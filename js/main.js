@@ -1,7 +1,7 @@
 function changeTheme() {
     const el = document.querySelector('html');
     if(el.dataset.theme == 'night')
-        el.dataset.theme = 'lemonade';
+        el.dataset.theme = 'cmyk';
     else
         el.dataset.theme = 'night';
 
@@ -13,7 +13,7 @@ window.addEventListener('load', () => {
     if(localStorage.getItem('theme'))
     el.dataset.theme = localStorage.getItem('theme');
     else
-    el.dataset.theme = 'lemonade';
+    el.dataset.theme = 'cmyk';
   });
 
 function readTextFile(file, callback) {

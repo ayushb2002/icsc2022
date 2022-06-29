@@ -19,7 +19,7 @@
           <li><a href="instruction.php">Introduction</a></li>
           <li><a href="scope.php">Scope</a></li>
           <li><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
-          <li><a href="guidlines.php">Author Guidlines</a></li>
+          <li><a href="guidelines.php">Author guidelines</a></li>
         </ul>
       </li>
             
@@ -55,7 +55,7 @@
           <li><a href="instruction.php">Introduction</a></li>
           <li><a href="scope.php">Scope</a></li>
           <li><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
-          <li><a href="guidlines.php">Author Guidlines</a></li>
+          <li><a href="guidelines.php">Author guidelines</a></li>
         </ul>
       </li>
             

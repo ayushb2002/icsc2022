@@ -34,7 +34,8 @@
                     </p>
                     <p>
                         The objective of the conference is to promote high quality research and to provide a forum for
-                        presentation of new advances and research results in the field of <span class="font-bold text-primary"> Signal Processing,
+                        presentation of new advances and research results in the field of <span
+                            class="font-bold text-primary"> Signal Processing,
                             Communication, VLSI Technology & Embedded Systems. </span>
                     </p>
 
@@ -59,33 +60,28 @@
                     <br>
                     <span class="text-2xl dark: capitalize">Important Dates</span>
                     <div class="divider"></div>
-                    <table class="table table-compact">
-                        <tbody>
-                            <tr>
-                                <th>Full Paper Submission</th>
-                                <td class="font-bold text-primary">July 31, 2022</td>
-                            </tr>
-                            <tr>
-                                <th>Notification of Acceptance</th>
-                                <td class="font-bold text-primary">October 10, 2022</td>
-                            </tr>
-                            <tr>
-                                <th>Registration</th>
-                                <td class="font-bold text-primary">October 25, 2022</td>
-                            </tr>
-                            <tr>
-                                <th>Link for Paper Submission</th>
-                                <td class="font-bold text-primary">
-                                    Authors should submit
-                                    their papers online
-                                    <a href="https://www.edas.info/index.php?c=29278" target="_blank" class="font-bold underline">here</a>.</span><br />
-                                    Unregistered authors<br />
-                                    should first create an account on EDAS to log on.
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <p>
+                        <span>
+                            <b>Full Paper Submission </b></span>:<span class="text-primary font-bold"> July 31,
+                            2022</span> <br>
 
+                        <b> Notification of Acceptance </b>: <span class="text-primary font-bold"> October 10,
+                            2022</span> <br>
+
+                        <b>Registration</b>:<span class="text-primary font-bold"> October 25, 2022</span><br>
+
+                        <!-- <b>Session Plan </b>: <span id="blink2"><a href='resources/Session plan ICSC 2021.pdf'> Click
+                                Here</a></span></a> -->
+                    </p>
+
+                    <p>
+                        <b>Link for Paper Submission:</b> <span class="font-bold text-primary"> Authors should submit
+                            their papers online
+                            <a href="https://www.edas.info/index.php?c=29278" target="_blank"
+                                class="font-bold underline">here</a>.</span>
+                        <br>
+                        Unregistered authors
+                        should first create an account on EDAS to log on.</p>
                     <br>
                     <span class="text-2xl dark:">Previous conferences</span>
                     <div class="divider"></div>
@@ -101,6 +97,9 @@
                         We
                         look forward to seeing you at ICSC 2022.
                     </p>
+
+
+
                 </div>
                 <div></div>
             </div>

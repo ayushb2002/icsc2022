@@ -43,7 +43,7 @@
                             <td class="pl-20">
                                 <b class="text-lg">Organizing Secretary:</b>
                                 <br><br>
-                                <a href="https://www.jiit.ac.in/prof-jitendra-mohan" target="_blank" class="underline">Prof. Jitendra Mohan</a>
+                                <a href="https://www.jiit.ac.in/prof-jitendra-mohan" target="_blank" class="underline">Prof. (Dr.) Jitendra Mohan</a>
                                 <br>Department of Electronics & Communication<br>
                                 JIIT Noida
                             </td>

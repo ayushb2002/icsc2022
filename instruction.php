@@ -23,7 +23,7 @@
                     <span class="text-3xl dark: capitalize font-bold">Call for papers - Instructions</span>
                 </div>
                 <div></div>
-                <div class="col-span-3 lg:col-span-2 py-5">
+                <div class="col-span-3 lg:col-span-2 py-5 text-justify">
 
                     <p>
                         It gives us immense pleasure to inform you that the Department of Electronics and Communication

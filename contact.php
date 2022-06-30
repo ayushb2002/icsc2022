@@ -24,7 +24,7 @@
                 </div>
                 <div></div>
                 <div class="col-span-4 lg:col-span-2">
-                    <span class="text-2xl dark: font-bold capitalize">Prof. Jitendra Mohan</span>
+                    <span class="text-2xl dark: font-bold capitalize">Prof. (Dr.) Jitendra Mohan</span>
                     <div class="divider"></div>
                     <p>
                         Department of Electronics & Communication

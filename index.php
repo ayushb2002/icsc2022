@@ -37,7 +37,8 @@
 
                         <div class="grid grid-row-5 lg:grid-cols-5">
                             <div class="my-12 px-auto">
-                                <img src="img/jiit.png" alt="jaypee" class="w-[20vh] h-auto lg:w-[20vh] lg:h-[25vh] mx-auto" loading="lazy">
+                                <img src="img/jiit.png" alt="jaypee"
+                                    class="w-[20vh] h-auto lg:w-[20vh] lg:h-[25vh] mx-auto" loading="lazy">
                             </div>
                             <div class="row-span-3 lg:col-span-3">
 
@@ -68,7 +69,8 @@
                                 </div>
                             </div>
                             <div class="my-12 px-auto">
-                                <img src="img/IEEE.png" alt="IEEE" class="w-[30vh] h-auto lg:w-[40vh] lg:h-[20vh] mx-auto" loading="lazy">
+                                <img src="img/IEEE.png" alt="IEEE"
+                                    class="w-[30vh] h-auto lg:w-[40vh] lg:h-[20vh] mx-auto" loading="lazy">
                             </div>
                         </div>
 
@@ -144,23 +146,25 @@
                             academia
                             and research.</p>
 
-                            <div>
-                    <div class="flex justify-center my-5">
+                        <div>
+                            <div class="flex justify-center my-5">
                                 <img src="img/IEEE_up.png" alt="IEEE" class="w-[40vh] h-[20vh]" loading="lazy">
-                    </div>
-                        <marquee>
-                            <h3>
-                                <center>
-                                    <font color="red">Technically Co-sponsored by IEEE UP Section.</font>
-                                </center>
-                                <center>
-                                    <font size="4">All the selected papers that are presented in the conference will be
-                                        considered for publication in IEEE Xplore Proceedings (IEEE Conference Record No
-                                        : 56524)</font>
-                                </center>
-                            </h3>
-                        </marquee>
-                    </div>
+                            </div>
+                            <marquee>
+                                <h3>
+                                    <center>
+                                        <font color="red">Technically Co-sponsored by IEEE UP Section.</font>
+                                    </center>
+                                    <center>
+                                        <font size="4">All the selected papers that are presented in the conference will
+                                            be
+                                            considered for publication in IEEE Xplore Proceedings (IEEE Conference
+                                            Record No
+                                            : 56524)</font>
+                                    </center>
+                                </h3>
+                            </marquee>
+                        </div>
                     </div>
                 </div>
                 <div class="pt-12">
@@ -169,23 +173,23 @@
                             <h2 class="card-title">Important Dates</h2>
                             <hr>
                             <div class="mt-2 content-center">
-                                <span class="mr-5">Full Paper Submission :</span>
+                                <span class="">Full Paper Submission :</span> <br>
                                 <span class="p-1 rounded text-primary font-bold">July 31, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Notification of acceptance :</span>
+                                <span class="">Notification of acceptance :</span> <br>
                                 <span class="p-1 rounded text-primary font-bold">October 10, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Final Paper Submission :</span>
+                                <span class="">Final Paper Submission :</span> <br>
                                 <span class="p-1 rounded text-primary font-bold">November 1, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Registration :</span>
+                                <span class="">Registration :</span> <br>
                                 <span class="p-1 rounded text-primary font-bold">October 25, 2022</span>
                             </div>
                             <div class="content-center">
-                                <span class="mr-5">Link to paper submission :</span>
+                                <span class="">Link to paper submission :</span> <br>
                                 <a href="https://edas.info/N29278" target="_blank"><span
                                         class="p-1 rounded text-primary font-bold">EDAS</span></a>
                             </div>
@@ -220,7 +224,7 @@
                             <div class="content-center">
                                 <span class="font-bold text-primary">Organizing Secretary</span> <br>
                                 <span class="">
-                                    Prof. Jitendra Mohan <br>
+                                    Prof. (Dr.) Jitendra Mohan <br>
                                 </span>
                             </div>
                         </div>
@@ -230,12 +234,12 @@
                     
                     
                 </div> -->
-                <div class="lg:col-span-3 m-5 p-5">
+                <div class="lg:col-span-3 m-5 p-5 overflow-hidden">
 
                     <span class="text-3xl font-bold text-center w-100 m-5 uppercase">Gallery</span>
-                    <div class="carousel w-full mt-5 rounded">
+                    <!-- <div class="carousel w-full mt-5 rounded">
                         <div id="slide1" class="carousel-item relative w-full">
-                            <img src="img/slider/1.jpeg" class="w-full h-[80vh]"> /
+                            <img src="img/slider/1.jpeg" class="w-full h-[30vh] lg:h-[80vh]"> /
                             <div
                                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                                 <a href="#slide4" class="btn btn-circle">❮</a>
@@ -243,14 +247,14 @@
                             </div>
                         </div>
                         <div id="slide2" class="carousel-item relative w-full">
-                            <img src="img/slider/5.jpeg" class="w-full h-[80vh]"> /
+                            <img src="img/slider/5.jpeg" class="w-full h-[30vh] lg:h-[80vh]"> /
                             <div
                                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
                                 <a href="#slide1" class="btn btn-circle">❮</a>
                                 <a href="#slide3" class="btn btn-circle">❯</a>
                             </div>
                         </div>
-                        <!-- <div id="slide3" class="carousel-item relative w-full">
+                         <div id="slide3" class="carousel-item relative w-full">
                             <img src="https://api.lorem.space/image/car?w=800&h=200&hash=A89D0DE6" class="w-full"> /
                             <div
                                 class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -265,7 +269,46 @@
                                 <a href="#slide3" class="btn btn-circle">❮</a>
                                 <a href="#slide1" class="btn btn-circle">❯</a>
                             </div>
-                        </div> -->
+                        </div> 
+                    </div> -->
+                    <div id="carouselExampleCrossfade" class="carousel slide carousel-fade relative mt-5"
+                        data-bs-ride="carousel">
+                        <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
+                            <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="0"
+                                class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="1"
+                                aria-label="Slide 2"></button>
+                            <!-- <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="2"
+                                aria-label="Slide 3"></button> -->
+                        </div>
+                        <div class="carousel-inner relative w-full overflow-hidden">
+                            <div class="carousel-item active float-left w-full">
+                                <img src="img/slider/1.jpeg" class="block w-full h-[30vh] lg:w-[90%] lg:mx-auto lg:h-[80vh]"
+                                    alt="Wild Landscape" />
+                            </div>
+                            <div class="carousel-item float-left w-full">
+                                <img src="img/slider/2.jpeg" class="block w-full h-[30vh] lg:w-[90%] lg:mx-auto lg:h-[80vh]"
+                                    alt="Camera" />
+                            </div>
+                            <!-- <div class="carousel-item float-left w-full">
+                                <img src="https://mdbcdn.b-cdn.net/img/new/slides/043.webp" class="block w-full"
+                                    alt="Exotic Fruits" />
+                            </div> -->
+                        </div>
+                        <button
+                            class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0"
+                            type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon inline-block bg-no-repeat"
+                                aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button
+                            class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0"
+                            type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="next">
+                            <span class="carousel-control-next-icon inline-block bg-no-repeat"
+                                aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
                     </div>
 
                 </div>
@@ -277,6 +320,7 @@
         <?php include 'footer.php' ?>
     </section>
     <!-- Footer ends -->
+    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
 </body>
 
 </html>

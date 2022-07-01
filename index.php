@@ -19,20 +19,20 @@
 
     <div class="relative">
         <section>
-            <div class="h-auto light:bg-white overflow-hidden pt-1 border-b-2">
+            <div class="h-auto bg-[url('img/heroImg.jpg')] bg-cover bg-no-repeat overflow-hidden pt-1 border-b-2">
                 <div class="relative m-auto z-[1] block w-[100%] h-full">
                     <div class="">
                         <div class="my-3 text-center">
-                            <span class="text-gray-900 dark:text-white font-bold text-4xl">8<sup>th</sup> INTERNATIONAL CONFERENCE ON
+                            <span class="text-gray-900 font-bold text-4xl">8<sup>th</sup> INTERNATIONAL CONFERENCE ON
                                 SIGNAL <br>
                                 PROCESSING AND COMMUNICATION 2022</span>
                         </div>
 
                         <div class="my-1 text-center">
-                            <span class="text-blue-900 dark:text-blue-400 text-2xl font-bold">December 01 - 03, 2022</span>
+                            <span class="text-blue-900 text-2xl font-bold">December 01 - 03, 2022</span>
                         </div>
                         <div class="my-1 text-center">
-                            <span class="text-blue-900 dark:text-blue-400 text-2xl font-bold">IEEE Conference Record Number - 56524 </span>
+                            <span class="text-blue-900  text-2xl font-bold">IEEE Conference Record Number - 56524 </span>
                         </div>
 
                         <div class="grid grid-row-5 lg:grid-cols-5">
@@ -68,13 +68,13 @@
                                 </div>
                             </div>
                             <div class="my-12 px-auto">
-                                <img src="img/ieee_transparent.png" alt="IEEE" class="w-[30vh] h-auto lg:w-[40vh] lg:h-[20vh] mx-auto" loading="lazy">
+                                <img src="img/ieee_transparent.png" alt="IEEE" class="w-[30vh] h-auto lg:w-[40vh] lg:h-[9vh] mx-auto" loading="lazy">
                             </div>
                         </div>
 
 
                         <div class="text-center">
-                            <p class="text-gray-900 dark:text-white text-2xl mb-3">
+                            <p class="text-gray-900 text-2xl mb-3">
                                 Organized by - <br>
                                 Department of Electronics and Communication Engineering<br>
                                 Jaypee Institute of Information Technology, Noida, INDIA<br>

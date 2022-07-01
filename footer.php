@@ -1,4 +1,4 @@
-<footer class="footer flex flex-col items-center justify-center lg:justify-evenly space-y-3 lg:items-start lg:flex-row p-10 bg-base-200 text-base-content border-t-2">
+<footer class="footer bg-[url('img/footerImg.jpg')] flex flex-col items-center justify-center lg:justify-evenly space-y-3 lg:items-start lg:flex-row p-10 text-base-content border-t-2 bg-cover bg-no-repeat">
   <div class="place-content-center">
     <img src="img/jaypee_logo.jpeg" alt="jaypee_logo" class="rounded-[50%] w-[200px] h-[200px]">
     <p class="font-bold text-center text-xl flex justify-center w-full">ICSC 2022</p>
@@ -31,15 +31,15 @@
   </div>
   <div class="flex flex-col">
     <h3 class="font-bold text-2xl">Quick Links</h3>
-    <div class="flex lg:flex-col xs:space-x-2 lg:space-y-1">
+    <div class="flex lg:flex-col xs:space-x-3 lg:space-y-2">
       <span class="font-bold">Register</span>
       <a class="link link-hover" href="registration.php">Click here!</a>
     </div>
-    <div class="flex lg:flex-col xs:space-x-2 lg:space-y-1">
+    <div class="flex lg:flex-col xs:space-x-3 lg:space-y-2">
       <span class="font-bold">Program Plan</span>
       <a class="link link-hover" href="#">Download program plan here!</a>
     </div>
-    <div class="flex lg:flex-col xs:space-x-2 lg:space-y-1">
+    <div class="flex lg:flex-col xs:space-x-3 lg:space-y-2">
       <span class="font-bold">About JIIT</span>
       <a class="link link-hover" href="http://www.jiit.ac.in/" target="_blank">Visit official website</a>
     </div>
@@ -58,7 +58,7 @@
     </p>
   </div>
 </footer>
-<div class="w-100 h-auto bg-base-200 text-center p-5">
+<div class="w-100 h-auto text-center p-5">
   <span>Copyright 2022 © JIIT</span> <br><br>
   <span>Designed and developed by <u><a href="https://www.linkedin.com/in/ayush-bansal-560597195/" target="_blank">Ayush Bansal</a></u> &amp; <u><a href="https://www.linkedin.com/in/bhallamudi-sai-narasimha-abhiram/" target="_blank">Bhallamudi Sai Narasimha Abhiram</a></u></span>
 </div>

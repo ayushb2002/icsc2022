@@ -35,7 +35,7 @@
                                 Sh. Jaiprakash Gaur Ji, Jaypee Group, India
                                 </td>
                                 <td class="p-3">
-                                Prof. S. C. Saxena, JIIT, Noida, India
+                                Prof. (Dr.) S. C. Saxena, JIIT, Noida, India
                                 </td>
                             </tr>
                             <tr>
@@ -43,7 +43,7 @@
                                 Sh. Manoj Gaur Ji, Jaypee Group, India
                                 </td>
                                 <td class="p-3">
-                                Prof. Y. R. Sood, JIIT, Noida, India
+                                Prof. (Dr.) Y. R. Sood, JIIT, Noida, India
                                 </td>
                             </tr>
                         </tbody>

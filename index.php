@@ -210,21 +210,21 @@
                             <div class="content-center">
                                 <span class="font-bold text-primary">Patron</span> <br>
                                 <span class="">
-                                    Prof. S. C. Saxena <br>
-                                    Prof. Y. R. Sood <br>
+                                    Prof. (Dr.) S. C. Saxena <br>
+                                    Prof. (Dr.) Y. R. Sood <br>
                                 </span>
                             </div>
                             <div class="content-center">
                                 <span class="font-bold text-primary">General Chair</span> <br>
                                 <span class="">
-                                    Prof. Hari Om Gupta <br>
-                                    Prof. Shweta Srivastava <br>
+                                    Prof. (Dr.) Hari Om Gupta <br>
+                                    Prof. (Dr.) Shweta Srivastava <br>
                                 </span>
                             </div>
                             <div class="content-center">
                                 <span class="font-bold text-primary">Organizing Secretary</span> <br>
                                 <span class="">
-                                    Prof. (Dr.) Jitendra Mohan <br>
+                                    Prof. (Dr.) (Dr.) Jitendra Mohan <br>
                                 </span>
                             </div>
                         </div>

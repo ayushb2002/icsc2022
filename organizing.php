@@ -34,7 +34,7 @@
                             <td class="">
                                 <b class="text-lg">General Chair:</b>
                                 <br><br>
-                                <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. Hariom Gupta</a>
+                                <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. (Dr.) Hariom Gupta</a>
                                 <br>
                                 JIIT Noida
                                 <br><br>
@@ -49,7 +49,7 @@
                             </td>
                         </tr>
                         <tr class="my-2">
-                            <td class=""><a href="http://www.jiit.ac.in/prof-shweta-srivastava" target="_blank" class="underline">Prof. Shweta Srivastava</a>
+                            <td class=""><a href="http://www.jiit.ac.in/prof-shweta-srivastava" target="_blank" class="underline">Prof. (Dr.) Shweta Srivastava</a>
                                 <br>Department of Electronics & Communication<br>
                                 JIIT Noida
                             </td>

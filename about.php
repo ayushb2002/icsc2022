@@ -11,16 +11,16 @@
 
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
     <!-- Navbar ends -->
 
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
-            <div class="grid grid-cols-6  dark:">
-                <div class="col-span-6 flex justify-center">
-                    <span class="m-5 text-3xl font-bold dark:">About Us</span>
+            <div class="flex flex-col p-4">
+                <div class="flex justify-start p-2 bg-gray-400">
+                    <span class="m-5 text-3xl text-white font-bold dark:">About Us</span>
                 </div>
                 <div></div>
                 <div class="col-span-4 p-5">
@@ -96,12 +96,13 @@
                 <div></div>
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
 
     <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
+
     <!-- Footer ends -->
 </body>
 

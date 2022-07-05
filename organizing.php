@@ -11,12 +11,13 @@
 
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
+
     <!-- Navbar ends -->
 
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
             <div class="grid grid-cols-6 lg:grid-cols-4">
                 <div class="col-span-6 lg:col-span-4 flex justify-center m-5">
@@ -29,33 +30,33 @@
 
                     <div class="divider"></div>
                     <div class="lg:overflow-x-hidden overflow-x-auto">
-                    <table class="table table-normal w-full">
-                        <tr class="my-2">
-                            <td class="">
-                                <b class="text-lg">General Chair:</b>
-                                <br><br>
-                                <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. Hariom Gupta</a>
-                                <br>
-                                JIIT Noida
-                                <br><br>
-                            </td>
+                        <table class="table table-normal w-full">
+                            <tr class="my-2">
+                                <td class="">
+                                    <b class="text-lg">General Chair:</b>
+                                    <br><br>
+                                    <a href="http://www.jiit.ac.in/director-sector-%E2%80%93-128" target="_blank" class="underline">Prof. Hariom Gupta</a>
+                                    <br>
+                                    JIIT Noida
+                                    <br><br>
+                                </td>
 
-                            <td class="pl-20">
-                                <b class="text-lg">Organizing Secretary:</b>
-                                <br><br>
-                                <a href="https://www.jiit.ac.in/prof-jitendra-mohan" target="_blank" class="underline">Prof. (Dr.) Jitendra Mohan</a>
-                                <br>Department of Electronics & Communication<br>
-                                JIIT Noida
-                            </td>
-                        </tr>
-                        <tr class="my-2">
-                            <td class=""><a href="http://www.jiit.ac.in/prof-shweta-srivastava" target="_blank" class="underline">Prof. Shweta Srivastava</a>
-                                <br>Department of Electronics & Communication<br>
-                                JIIT Noida
-                            </td>
-                            <td></td>
-                        </tr>
-                    </table>
+                                <td class="pl-20">
+                                    <b class="text-lg">Organizing Secretary:</b>
+                                    <br><br>
+                                    <a href="https://www.jiit.ac.in/prof-jitendra-mohan" target="_blank" class="underline">Prof. (Dr.) Jitendra Mohan</a>
+                                    <br>Department of Electronics & Communication<br>
+                                    JIIT Noida
+                                </td>
+                            </tr>
+                            <tr class="my-2">
+                                <td class=""><a href="http://www.jiit.ac.in/prof-shweta-srivastava" target="_blank" class="underline">Prof. Shweta Srivastava</a>
+                                    <br>Department of Electronics & Communication<br>
+                                    JIIT Noida
+                                </td>
+                                <td></td>
+                            </tr>
+                        </table>
                     </div>
                     <div id="organizingTable" class="overflow-x-auto">
 
@@ -66,12 +67,13 @@
                 <div class="mt-5"></div>
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
 
     <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
+
     <!-- Footer ends -->
 </body>
 

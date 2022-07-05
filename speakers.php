@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="cmyk">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,14 +8,16 @@
     <title>Speakers | ICSC 2022</title>
     <?php include 'includes.php' ?>
 </head>
+
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
+
     <!-- Navbar ends -->
 
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50 ">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
             <div class="grid grid-cols-4 m-20">
                 <div class="col-span-4 text-center">
@@ -22,12 +25,14 @@
                 </div>
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
-    
+
     <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
+
     <!-- Footer ends -->
 </body>
+
 </html>

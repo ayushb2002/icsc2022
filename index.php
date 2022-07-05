@@ -12,15 +12,15 @@
 
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
-    <!-- Navbar ends -->
 
-    <div class="relative">
-        <section>
-            <div class="h-auto bg-[url('img/heroImg.jpg')] bg-cover bg-no-repeat overflow-hidden pt-1 border-b-2">
-                <div class="relative m-auto z-[1] block w-[100%] h-full">
+    <!-- Navbar ends -->
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
+        <section class="bg-[url('img/heroImg.jpg')] bg-contain">
+            <!-- <div class="h-auto bg-[url('img/heroImg.jpg')] bg-cover bg-no-repeat overflow-hidden pt-1 border-b-2">
+                <div class="m-auto z-[1] block w-[100%] h-full">
                     <div class="">
                         <div class="my-3 text-center">
                             <span class="text-gray-900 font-bold text-4xl">8<sup>th</sup> INTERNATIONAL CONFERENCE ON
@@ -87,14 +87,60 @@
                     </div>
                 </div>
 
-
-
+            </div> -->
+        </section>
+        <section class="border-b border-gray-300">
+            <div class="flex items-start justify-around">
+                <div class="pt-8">
+                    <h2 class="text-2xl font-bold">Latest News and Announcements</h2>
+                    <div class="flex flex-col space-y-4 mx-8 mt-4">
+                        <div class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Headline 1</h6>
+                            <span>For more details please click <a class="text-primary" href="h1.php">HERE</a></span>
+                        </div>
+                        <div class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Headline 2</h6>
+                            <span>For more details please click <a class="text-primary" href="h2.php">HERE</a></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="">
+                    <div class="card-body text-justify">
+                        <h2 class="card-title text-xl">Important Dates</h2>
+                        <hr>
+                        <table class="table table-compact w-full">
+                            <tbody>
+                                <tr>
+                                    <td class="text-xl">Full Paper Submission</td>
+                                    <td class="rounded text-primary font-bold text-xl">July 31, 2022</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-xl">Notification of acceptance</td>
+                                    <td class="rounded text-primary font-bold text-xl">October 10, 2022</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-xl">Final Paper Submission</td>
+                                    <td class="rounded text-primary font-bold text-xl">November 1, 2022</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-xl">Registration</td>
+                                    <td class="rounded text-primary font-bold text-xl">October 25, 2022</td>
+                                </tr>
+                                <tr>
+                                    <td class="text-xl">Link to paper submission</td>
+                                    <td class="rounded text-primary font-bold text-xl">
+                                        <a href="https://edas.info/N29278" target="_blank"><span class="rounded text-primary font-bold">EDAS</span></a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
         </section>
         <section class="text-center">
             <div class="grid lg:grid-cols-3 p-5">
                 <div class="lg:col-span-2 p-5">
-
                     <div class="w-100 text-center mt-3 mb-3"><span class="text-3xl font-bold">ICSC 2022</span></div>
                     <div class="w-100 text-justify p-3">
                         <p>Signal processing consists of representation and transformation of signals and the
@@ -167,39 +213,6 @@
                     </div>
                 </div>
                 <div class="pt-12 flex flex-col space-y-8">
-                    <div class="card shadow-2xl border-2">
-                        <div class="card-body text-justify">
-                            <h2 class="card-title">Important Dates</h2>
-                            <hr>
-                            <table class="table table-compact w-full">
-                                <tbody>
-                                    <tr>
-                                        <td>Full Paper Submission</td>
-                                        <td class="rounded text-primary font-bold">July 31, 2022</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Notification of acceptance</td>
-                                        <td class="rounded text-primary font-bold">October 10, 2022</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Final Paper Submission</td>
-                                        <td class="rounded text-primary font-bold">November 1, 2022</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Registration</td>
-                                        <td class="rounded text-primary font-bold">October 25, 2022</td>
-                                    </tr>
-                                    <tr>
-                                        <td>Link to paper submission</td>
-                                        <td class="rounded text-primary font-bold">
-                                            <a href="https://edas.info/N29278" target="_blank"><span class="rounded text-primary font-bold">EDAS</span></a>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-
                     <div class="card shadow-2xl mt-8 border-2">
                         <div class="card-body text-justify">
                             <h2 class="card-title">Conference Organizers</h2>
@@ -233,100 +246,15 @@
                             </div>
                         </div>
                     </div>
-
-                    <div class="card shadow-2xl mt-8 border-2">
-                        <div class="card-body text-justify">
-                            <h2 class="card-title">Latest News</h2>
-                            <hr>
-                            <ul class="text-error list-disc text-justify p-2">
-                                <li>News 1</li>
-                                <li>News 2</li>
-                                <li>News 3</li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                </div>
-                <!-- <div class="col-span-3 my-10 grid grid-cols-3">
-                    
-                    
-                </div> -->
-                <div class="lg:col-span-3 m-5 p-5 overflow-hidden">
-
-                    <span class="text-3xl font-bold text-center w-100 m-5 uppercase">Gallery</span>
-                    <!-- <div class="carousel w-full mt-5 rounded">
-                        <div id="slide1" class="carousel-item relative w-full">
-                            <img src="img/slider/1.jpeg" class="w-full h-[30vh] lg:h-[80vh]"> /
-                            <div
-                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                                <a href="#slide4" class="btn btn-circle">❮</a>
-                                <a href="#slide2" class="btn btn-circle">❯</a>
-                            </div>
-                        </div>
-                        <div id="slide2" class="carousel-item relative w-full">
-                            <img src="img/slider/5.jpeg" class="w-full h-[30vh] lg:h-[80vh]"> /
-                            <div
-                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                                <a href="#slide1" class="btn btn-circle">❮</a>
-                                <a href="#slide3" class="btn btn-circle">❯</a>
-                            </div>
-                        </div>
-                         <div id="slide3" class="carousel-item relative w-full">
-                            <img src="https://api.lorem.space/image/car?w=800&h=200&hash=A89D0DE6" class="w-full"> /
-                            <div
-                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                                <a href="#slide2" class="btn btn-circle">❮</a>
-                                <a href="#slide4" class="btn btn-circle">❯</a>
-                            </div>
-                        </div>
-                        <div id="slide4" class="carousel-item relative w-full">
-                            <img src="https://api.lorem.space/image/car?w=800&h=200&hash=225E6693" class="w-full"> /
-                            <div
-                                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-                                <a href="#slide3" class="btn btn-circle">❮</a>
-                                <a href="#slide1" class="btn btn-circle">❯</a>
-                            </div>
-                        </div> 
-                    </div> -->
-                    <div id="carouselExampleCrossfade" class="carousel slide carousel-fade relative mt-5" data-bs-ride="carousel">
-                        <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
-                            <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                            <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                            <!-- <button type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide-to="2"
-                                aria-label="Slide 3"></button> -->
-                        </div>
-                        <div class="carousel-inner relative w-full overflow-hidden">
-                            <div class="carousel-item active float-left w-full">
-                                <img src="img/slider/1.jpeg" class="block w-full h-[30vh] lg:w-[90%] lg:mx-auto lg:h-[80vh]" alt="Wild Landscape" />
-                            </div>
-                            <div class="carousel-item float-left w-full">
-                                <img src="img/slider/2.jpeg" class="block w-full h-[30vh] lg:w-[90%] lg:mx-auto lg:h-[80vh]" alt="Camera" />
-                            </div>
-                            <!-- <div class="carousel-item float-left w-full">
-                                <img src="https://mdbcdn.b-cdn.net/img/new/slides/043.webp" class="block w-full"
-                                    alt="Exotic Fruits" />
-                            </div> -->
-                        </div>
-                        <button class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0" type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon inline-block bg-no-repeat" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline right-0" type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="next">
-                            <span class="carousel-control-next-icon inline-block bg-no-repeat" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
-                    </div>
-
                 </div>
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
-    <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
-    <!-- Footer ends -->
     <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
 </body>
 
 </html>

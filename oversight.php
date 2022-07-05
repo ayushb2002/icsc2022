@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="cmyk">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,14 +8,16 @@
     <title>IEEE Oversight Committee | ICSC 2022 Conference</title>
     <?php include 'includes.php' ?>
 </head>
+
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
+
     <!-- Navbar ends -->
 
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
             <div class="grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
@@ -32,18 +35,18 @@
                             </thead>
                             <tr>
                                 <td class="p-3">
-                                Sh. Jaiprakash Gaur Ji, Jaypee Group, India
+                                    Sh. Jaiprakash Gaur Ji, Jaypee Group, India
                                 </td>
                                 <td class="p-3">
-                                Prof. S. C. Saxena, JIIT, Noida, India
+                                    Prof. S. C. Saxena, JIIT, Noida, India
                                 </td>
                             </tr>
                             <tr>
                                 <td class="p-3">
-                                Sh. Manoj Gaur Ji, Jaypee Group, India
+                                    Sh. Manoj Gaur Ji, Jaypee Group, India
                                 </td>
                                 <td class="p-3">
-                                Prof. Y. R. Sood, JIIT, Noida, India
+                                    Prof. Y. R. Sood, JIIT, Noida, India
                                 </td>
                             </tr>
                         </tbody>
@@ -64,24 +67,24 @@
                             </thead>
                             <tr>
                                 <td class="p-3">
-                                Dr. Bhartendu Chaturvedi, JIIT, Noida, India
+                                    Dr. Bhartendu Chaturvedi, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Reema Budhiraja, JIIT, Noida, India
+                                    Dr. Reema Budhiraja, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Ashish Goel, JIIT, Noida, India
+                                    Dr. Ashish Goel, JIIT, Noida, India
                                 </td>
                             </tr>
                             <tr>
                                 <td class="p-3">
-                                Prof. Sajai Vir Singh, JIIT, Noida, India
+                                    Prof. Sajai Vir Singh, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Ajay Kumar, JIIT, Noida, India
+                                    Dr. Ajay Kumar, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Saurabh Chaturvedi, JIIT, Noida, India
+                                    Dr. Saurabh Chaturvedi, JIIT, Noida, India
                                 </td>
                             </tr>
                             <tr>
@@ -108,18 +111,18 @@
                             </thead>
                             <tr>
                                 <td class="p-3">
-                                Dr. Alok Joshi, JIIT, Noida, India
+                                    Dr. Alok Joshi, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Gaurav Verma, JIIT, Noida, India
+                                    Dr. Gaurav Verma, JIIT, Noida, India
                                 </td>
                             </tr>
                             <tr>
                                 <td class="p-3">
-                                Mr. Raghvenda Kumar Singh, JIIT, Noida, India
+                                    Mr. Raghvenda Kumar Singh, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Shruti Kalra, JIIT, Noida, India
+                                    Dr. Shruti Kalra, JIIT, Noida, India
                                 </td>
                             </tr>
                         </tbody>
@@ -129,12 +132,14 @@
                 <!-- Table end -->
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
 
     <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
+
     <!-- Footer ends -->
 </body>
+
 </html>

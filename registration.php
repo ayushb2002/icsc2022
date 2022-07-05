@@ -10,13 +10,10 @@
 </head>
 
 <body>
-    <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
-    <!-- Navbar ends -->
-
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
             <div class="grid grid-cols-7">
                 <div class="col-span-7 my-10 flex justify-center">
@@ -28,14 +25,14 @@
 
                     <div class="grid grid-rows-2 lg:grid-cols-2">
                         <div class="flex justify-center my-2">
-                        <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
-                            Registration Form Download
-                        </a>
+                            <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
+                                Registration Form Download
+                            </a>
                         </div>
                         <div class="flex justify-center my-2">
-                        <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
-                            Register Now
-                        </a>
+                            <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
+                                Register Now
+                            </a>
                         </div>
                     </div>
 
@@ -51,125 +48,125 @@
                     <span class="font-bold text-2xl text-primary uppercase animate-pulse">Conference will be held in online mode.</span>
                     <div class="divider"></div>
                     <div class="overflow-x-auto">
-                    <table class="table table-normal mx-auto text-center table-zebra">
-                        <tr class="font-bold">
-                            <td></td>
-                            <td>
-                                Indian Participants
-                            </td>
-                            <td>
-                                Foreign Participants
-                            </td>
-                        </tr>
-                        <tr class="font-bold">
-                            <td>
-                                Authors
-                            </td>
-                            <td> IEEE Member</td>
-                            <td>Non-IEEE Member</td>
-                            <td> IEEE Member</td>
-                            <td>Non-IEEE Member</td>
-                        </tr>
+                        <table class="table table-normal mx-auto text-center table-zebra">
+                            <tr class="font-bold">
+                                <td></td>
+                                <td>
+                                    Indian Participants
+                                </td>
+                                <td>
+                                    Foreign Participants
+                                </td>
+                            </tr>
+                            <tr class="font-bold">
+                                <td>
+                                    Authors
+                                </td>
+                                <td> IEEE Member</td>
+                                <td>Non-IEEE Member</td>
+                                <td> IEEE Member</td>
+                                <td>Non-IEEE Member</td>
+                            </tr>
 
-                        <tr>
-                            <td class="font-bold">
-                                Academicians/R&D Professional
-                            </td>
-                            <td> INR 6000</td>
-                            <td> INR 8000</td>
-                            <td> USD 230</td>
-                            <td>USD 300</td>
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Students
-                            </td>
-                            <td> INR 3000</td>
-                            <td> INR 4000</td>
-                            <td> USD 140</td>
-                            <td>USD 175</td>
-                        </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Academicians/R&D Professional
+                                </td>
+                                <td> INR 6000</td>
+                                <td> INR 8000</td>
+                                <td> USD 230</td>
+                                <td>USD 300</td>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Students
+                                </td>
+                                <td> INR 3000</td>
+                                <td> INR 4000</td>
+                                <td> USD 140</td>
+                                <td>USD 175</td>
+                            </tr>
 
-                        <tr>
-                            <td class="font-bold" colspan="5">
-                                Co-Authors (If main author is already registered and Co-Author also wants to register)
-                            </td>
+                            <tr>
+                                <td class="font-bold" colspan="5">
+                                    Co-Authors (If main author is already registered and Co-Author also wants to register)
+                                </td>
 
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Academicians/R&D Professional
-                            </td>
-                            <td> INR 4000</td>
-                            <td> INR 4800</td>
-                            <td> USD 175</td>
-                            <td>USD 200</td>
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Students
-                            </td>
-                            <td> INR 2500</td>
-                            <td> INR 3000</td>
-                            <td> USD 110</td>
-                            <td>USD 140</td>
-                        </tr>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Academicians/R&D Professional
+                                </td>
+                                <td> INR 4000</td>
+                                <td> INR 4800</td>
+                                <td> USD 175</td>
+                                <td>USD 200</td>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Students
+                                </td>
+                                <td> INR 2500</td>
+                                <td> INR 3000</td>
+                                <td> USD 110</td>
+                                <td>USD 140</td>
+                            </tr>
 
-                        <tr>
-                            <td class="font-bold" colspan="5">
-                                Non-Author Participants
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Academicians/R&D Professionals <br>(3 Days Registration)
-                            </td>
-                            <td> INR 3000</td>
-                            <td> INR 4000</td>
-                            <td>
-                                /
-                            </td>
-                            <td>
-                                /
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Academicians/R&D Professionals <br>(1 Days Registration)
-                            </td>
-                            <td> INR 2000</td>
-                            <td> INR 2500</td>
-                            <td>
-                                /
-                            </td>
-                            <td>
-                                /
-                            </td>
-                        </tr>
+                            <tr>
+                                <td class="font-bold" colspan="5">
+                                    Non-Author Participants
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Academicians/R&D Professionals <br>(3 Days Registration)
+                                </td>
+                                <td> INR 3000</td>
+                                <td> INR 4000</td>
+                                <td>
+                                    /
+                                </td>
+                                <td>
+                                    /
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Academicians/R&D Professionals <br>(1 Days Registration)
+                                </td>
+                                <td> INR 2000</td>
+                                <td> INR 2500</td>
+                                <td>
+                                    /
+                                </td>
+                                <td>
+                                    /
+                                </td>
+                            </tr>
 
-                        <tr>
-                            <td class="font-bold">
-                                Industry
-                            </td>
-                            <td> INR 12000</td>
-                            <td>
-                                /
-                            </td>
-                            <td>
-                                /
-                            </td>
-                        </tr>
-                        <tr>
-                            <td class="font-bold">
-                                Sponsors
-                            </td>
-                            <td colspan="4">
-                                INR 50000/- and more entitles for 4 free registrations.
-                            </td>
-                        </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Industry
+                                </td>
+                                <td> INR 12000</td>
+                                <td>
+                                    /
+                                </td>
+                                <td>
+                                    /
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="font-bold">
+                                    Sponsors
+                                </td>
+                                <td colspan="4">
+                                    INR 50000/- and more entitles for 4 free registrations.
+                                </td>
+                            </tr>
 
 
-                    </table>
+                        </table>
                     </div>
                     <br>
 
@@ -220,8 +217,8 @@
                     </div>
 
                     <p class="text-justify my-5 font-bold">REGISTRATION FEE DOES NOT INCLUDE ACCOMMODATION. PARTICIPANTS NEED
-                            TO MAKE THEIR OWN ACCOMMODATION ARRANGEMENTS. INFORMATION REGARDING NEARBY HOTELS AND THEIR
-                            CONTACT DETAILS ARE AVAILABLE ON THE WEBSITE.</p>
+                        TO MAKE THEIR OWN ACCOMMODATION ARRANGEMENTS. INFORMATION REGARDING NEARBY HOTELS AND THEIR
+                        CONTACT DETAILS ARE AVAILABLE ON THE WEBSITE.</p>
 
                     <span class="text-2xl text-center font-bold">Instructions for Fee Payment</span>
                     <div class="p-5 text-justify">
@@ -229,14 +226,15 @@
                             <li class="my-2">Authors/Participants have to register in order to attend the conference. </li>
                             <li class="my-2">For each accepted paper, it is mandatory for at least one author to register to include
                                 their paper in conference.</li>
-                            <li class="my-2">Authors/participants are also required to complete the registration through 
-                                <a href="#" target="_blank" class="font-bold">Register Now</a></b>.</li>
+                            <li class="my-2">Authors/participants are also required to complete the registration through
+                                <a href="#" target="_blank" class="font-bold">Register Now</a></b>.
+                            </li>
                         </ul>
 
                     </div>
                     <br>
 
-                    <span class="text-3xl text-center font-bold">Payment Modes</span> 
+                    <span class="text-3xl text-center font-bold">Payment Modes</span>
                     <br>
                     <br>
                     <span class="text-xl">
@@ -245,7 +243,7 @@
                     <br>
                     <div class="divider"></div>
                     <span class="text-2xl">Funds Transfer (within India)</span>
-                    
+
                     <div class="divider"></div>
 
                     <h3 style="text-align:justify">The Participant/Author can pay the registration fee through Fund
@@ -253,56 +251,56 @@
                         <br>
                         <br>
                         <div class="overflow-x-auto">
-                        <table class="table table-normal table-zebra w-full px-auto text-center my-10">
-                            <tr>
-                                <td>
-                                    Bank Account in the name of
-                                </td>
-                                <td>
-                                    Jaypee Institute of Information Technology
-                                </td>
+                            <table class="table table-normal table-zebra w-full px-auto text-center my-10">
+                                <tr>
+                                    <td>
+                                        Bank Account in the name of
+                                    </td>
+                                    <td>
+                                        Jaypee Institute of Information Technology
+                                    </td>
 
-                            </tr>
-                            <tr>
-                                <td>
-                                    Bank Name
-                                </td>
-                                <td>
-                                    ICICI Bank
-                                </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Bank Name
+                                    </td>
+                                    <td>
+                                        ICICI Bank
+                                    </td>
 
-                            </tr>
-                            <tr>
-                                <td>
-                                    Account Number
-                                </td>
-                                <td>
-                                JIITICSC2022
-                                </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        Account Number
+                                    </td>
+                                    <td>
+                                        JIITICSC2022
+                                    </td>
 
-                            </tr>
-                            <tr>
+                                </tr>
+                                <tr>
 
-                                <td>
-                                    Branch Name
-                                </td>
-                                <td>
-                                CMS Mumbai
-                                </td>
+                                    <td>
+                                        Branch Name
+                                    </td>
+                                    <td>
+                                        CMS Mumbai
+                                    </td>
 
-                            </tr>
-                            <tr>
+                                </tr>
+                                <tr>
 
-                                <td>
-                                    IFSC Code
-                                </td>
-                                <td>
-                                ICIC0000104
-                                </td>
+                                    <td>
+                                        IFSC Code
+                                    </td>
+                                    <td>
+                                        ICIC0000104
+                                    </td>
 
-                            </tr>
+                                </tr>
 
-                        </table>
+                            </table>
                         </div>
                         <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
                         <p class="font-bold">2. UPI payment through Wallet (Phonepe, paytm etc) not applicable. </p>
@@ -354,21 +352,15 @@
                             prescribed fees amount, on account of bank charges credited to the Institute’s A/c shall be
                             borne by the remitter.</p> -->
 
-<br><br>
+                        <br><br>
 
                 </div>
                 <div></div>
 
             </div>
+        </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
-    </section>
-    </div>
-
-    <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
-    <!-- Footer ends -->
-</body>
-
 </html>

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="cmyk">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,14 +8,16 @@
     <title>Technical Program Committee | ICSC 2022 Conference</title>
     <?php include 'includes.php' ?>
 </head>
+
 <body>
     <!-- Navbar begins -->
-    <section class="sticky top-0 z-50">
-        <?php include 'navbar.php' ?>
-    </section>
+
     <!-- Navbar ends -->
 
-    <div class="relative">
+    <div class="relative w-full md:w-[80%] mx-auto">
+        <section class="z-50">
+            <?php include 'navbar_new.php' ?>
+        </section>
         <section>
             <div class="grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
@@ -37,27 +40,27 @@
                                     Chair
                                 </td>
                                 <td class="p-3">
-                                Prof. M. V. Kartikeyan, IIT, Tirupati, India
+                                    Prof. M. V. Kartikeyan, IIT, Tirupati, India
                                 </td>
                                 <td class="p-3">
-                                Prof. Rajiv Saxena, JIIT, Noida, India
+                                    Prof. Rajiv Saxena, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Prof. Sudeb Das Gupta, IIT, Roorkee, India
+                                    Prof. Sudeb Das Gupta, IIT, Roorkee, India
                                 </td>
                             </tr>
                             <tr>
                                 <td class="p-3 font-bold">
                                     Co-chair
                                 </td>
-                                <td class="p-3">  
-                                Dr. Jasmine Saini, JIIT, Noida, India
+                                <td class="p-3">
+                                    Dr. Jasmine Saini, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Richa Gupta, JIIT, Noida, India
+                                    Dr. Richa Gupta, JIIT, Noida, India
                                 </td>
                                 <td class="p-3">
-                                Dr. Satyendra Kumar, JIIT, Noida, India
+                                    Dr. Satyendra Kumar, JIIT, Noida, India
                                 </td>
                             </tr>
                         </tbody>
@@ -69,7 +72,7 @@
                     <span class="dark: text-3xl font-bold">Technical Program Committee</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 flex justify-center mt-10" >
+                <div class="col-span-5 flex justify-center mt-10">
                     <div class="overflow-x-auto" id="tpcData">
 
                     </div>
@@ -78,12 +81,14 @@
 
             </div>
         </section>
+        <section>
+            <?php include 'footer.php' ?>
+        </section>
     </div>
 
     <!-- Footer begins -->
-    <section>
-        <?php include 'footer.php' ?>
-    </section>
+
     <!-- Footer ends -->
 </body>
+
 </html>

@@ -19,7 +19,7 @@
             <?php include 'navbar_new.php' ?>
         </section>
         <section>
-            <div class="grid grid-cols-7 dark:">
+            <div class="mt-24 grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
                     <span class="dark: text-3xl font-bold">Track Chairs</span>
                 </div>

@@ -19,7 +19,7 @@
             <?php include 'navbar_new.php' ?>
         </section>
         <section>
-            <div class="grid grid-cols-6 lg:grid-cols-4">
+            <div class="mt-20 grid grid-cols-6 lg:grid-cols-4">
                 <div class="col-span-6 lg:col-span-4 flex justify-center m-5">
                     <span class="text-3xl font-bold dark: capitalize">Organizing Committee</span>
                 </div>

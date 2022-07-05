@@ -70,24 +70,24 @@
     <li class="border-l border-white"><a>Awards</a></li>
     <li class="border-l border-white" tabindex="0">
         <a>Authors</a>
-        <ul class="bg-blue-600 p-1">
-            <li><a href="instruction.php">Instructions</a></li>
-            <li><a href="scope.php">Scope</a></li>
-            <li><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
-            <li><a href="guidelines.php">Author guidelines</a></li>
+        <ul class="bg-blue-600 p-0">
+            <li class="text-sm"><a href="instruction.php">Instructions</a></li>
+            <li class="text-sm"><a href="scope.php">Scope</a></li>
+            <li class="text-sm"><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
+            <li class="text-sm"><a href="guidelines.php">Author guidelines</a></li>
         </ul>
     </li>
     <li class="border-l border-white" tabindex="0">
         <a>Committee</a>
-        <ul class="bg-blue-600 p-2">
-            <li><a href="advisory.php">Advisory <br> Committee</a></li>
-            <li><a href="organizing.php">Organizing <br> Committee</a></li>
-            <li><a href="tpc.php">Technical Program <br> Committee</a></li>
+        <ul class="bg-blue-600 p-0">
+            <li class="text-sm"><a href="advisory.php">Advisory Committee</a></li>
+            <li class="test-sm"><a href="organizing.php">Organizing Committee</a></li>
+            <li class="text-sm"><a href="tpc.php">Technical Program Committee</a></li>
         </ul>
     </li>
     <li class="border-l border-white" tabindex="0">
         <a>Program</a>
-        <ul class="bg-blue-600 p-2">
+        <ul class="bg-blue-600 p-0">
             <li><a>Submenu 1</a></li>
             <li><a>Submenu 2</a></li>
         </ul>

@@ -7,13 +7,17 @@ function changeTheme() {
 }
 
 window.addEventListener("load", () => {
-  const flexSlider = $('.flexslider')
-  flexSlider.flexslider({
-    animation: "slide",
-    animationLoop: true,
-    itemWidth: 460,
-    itemMargin: 5
-  })
+  const swiper = new Swiper(".swiper", {
+    direction: "horizontal",
+    loop: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    autoplay: {
+      delay: 5000
+    }
+  });
 });
 
 function readTextFile(file, callback) {

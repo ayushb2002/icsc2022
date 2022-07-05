@@ -19,6 +19,71 @@
             <?php include 'navbar_new.php' ?>
         </section>
         <section class="bg-[url('img/heroImg.jpg')] bg-contain">
+            <div class="h-0 lg:h-[11rem]">
+                <h2 class="text-left ml-4 mt-8 text-3xl font-bold">Gallery</h2>
+            </div>
+            <div class="swiper mx-auto">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="img/slider/1.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/2.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/3.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/4.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/5.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/6.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/7.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/8.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/9.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/10.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/11.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/12.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/13.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/14.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/15.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/16.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/17.jpeg" />
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/slider/18.jpeg" />
+                    </div>
+                </div>
+                <div class="swiper-button-prev bg-transparent"></div>
+                <div class="swiper-button-next bg-transparent"></div>
+            </div>
+
+
             <!-- <div class="h-auto bg-[url('img/heroImg.jpg')] bg-cover bg-no-repeat overflow-hidden pt-1 border-b-2">
                 <div class="m-auto z-[1] block w-[100%] h-full">
                     <div class="">
@@ -90,9 +155,9 @@
             </div> -->
         </section>
         <section class="border-b border-gray-300">
-            <div class="flex items-start justify-around">
+            <div class="flex flex-col md:flex-row items-start justify-around">
                 <div class="pt-8">
-                    <h2 class="text-2xl font-bold">Latest News and Announcements</h2>
+                    <h2 class="text-2xl font-bold ml-4">Latest News and Announcements</h2>
                     <div class="flex flex-col space-y-4 mx-8 mt-4">
                         <div class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Headline 1</h6>

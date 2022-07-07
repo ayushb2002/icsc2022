@@ -19,8 +19,8 @@
         </section>
         <section>
             <div class="flex flex-col p-4">
-                <div class="flex justify-start p-2 bg-gray-400">
-                    <span class="m-5 text-3xl text-white font-bold dark:">About Us</span>
+                <div class="flex justify-start p-2">
+                    <span class="m-5 text-3xl font-bold dark:">About Us</span>
                 </div>
                 <div></div>
                 <div class="col-span-4 p-5">

@@ -7,17 +7,18 @@ function changeTheme() {
 }
 
 window.addEventListener("load", () => {
-  const swiper = new Swiper(".swiper", {
-    direction: "horizontal",
+  const owlCarousel = $(".owl-carousel")
+  owlCarousel.owlCarousel({
+    center: true,
+    items: 4,
+    margin: 30,
+    merge: true,
     loop: true,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    autoplay: {
-      delay: 5000
-    }
-  });
+    autoWidth: true,
+    nav: false,
+    autoPlay: true,
+    autoPlayTimeout: 2000
+  })
 });
 
 function readTextFile(file, callback) {

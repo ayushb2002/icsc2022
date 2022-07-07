@@ -11,76 +11,36 @@
 </head>
 
 <body>
-    <!-- Navbar begins -->
-
-    <!-- Navbar ends -->
     <div class="relative w-full md:w-[80%] mx-auto">
         <section class="z-50">
             <?php include 'navbar_new.php' ?>
         </section>
-        <section class="bg-[url('img/heroImg.jpg')] bg-contain">
-            <div class="h-0 lg:h-[11rem]">
-                <h2 class="text-left ml-4 mt-8 text-3xl font-bold">Gallery</h2>
-            </div>
-            <div class="swiper mx-auto">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <img src="img/slider/1.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/2.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/3.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/4.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/5.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/6.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/7.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/8.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/9.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/10.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/11.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/12.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/13.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/14.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/15.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/16.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/17.jpeg" />
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/slider/18.jpeg" />
+        <section class="bg-[url('img/heroImg.jpg')] bg-cover hidden lg:flex lg:h-32"></section>
+        <section class="bg-[url('img/heroImg.jpg')] bg-cover">
+            <p></p>
+            <div class="owl-carousel owl-theme owl-loaded mt-[3.5rem] mx-auto my-auto">
+                <div class="owl-stage-outer">
+                    <div class="owl-stage">
+                        <div class="owl-item"><img src="img/slider/1.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/2.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/3.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/4.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/5.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/6.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/7.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/8.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/9.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/10.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/11.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/12.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/13.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/14.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/15.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/16.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/17.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/18.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                     </div>
                 </div>
-                <div class="swiper-button-prev bg-transparent"></div>
-                <div class="swiper-button-next bg-transparent"></div>
             </div>
 
 
@@ -156,8 +116,8 @@
         </section>
         <section class="border-b border-gray-300">
             <div class="flex flex-col md:flex-row items-start justify-around">
-                <div class="pt-8">
-                    <h2 class="text-2xl font-bold ml-4">Latest News and Announcements</h2>
+                <div class="pt-8 card-body">
+                    <h2 class="text-2xl font-bold card-title">Latest News and Announcements</h2>
                     <div class="flex flex-col space-y-4 mx-8 mt-4">
                         <div class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Headline 1</h6>
@@ -169,37 +129,35 @@
                         </div>
                     </div>
                 </div>
-                <div class="">
-                    <div class="card-body text-justify">
-                        <h2 class="card-title text-xl">Important Dates</h2>
-                        <hr>
-                        <table class="table table-compact w-full">
-                            <tbody>
-                                <tr>
-                                    <td class="text-xl">Full Paper Submission</td>
-                                    <td class="rounded text-primary font-bold text-xl">July 31, 2022</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-xl">Notification of acceptance</td>
-                                    <td class="rounded text-primary font-bold text-xl">October 10, 2022</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-xl">Final Paper Submission</td>
-                                    <td class="rounded text-primary font-bold text-xl">November 1, 2022</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-xl">Registration</td>
-                                    <td class="rounded text-primary font-bold text-xl">October 25, 2022</td>
-                                </tr>
-                                <tr>
-                                    <td class="text-xl">Link to paper submission</td>
-                                    <td class="rounded text-primary font-bold text-xl">
-                                        <a href="https://edas.info/N29278" target="_blank"><span class="rounded text-primary font-bold">EDAS</span></a>
-                                    </td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
+                <div class="card-body text-justify">
+                    <h2 class="card-title text-2xl font-bold">Important Dates</h2>
+                    <hr>
+                    <table class="table table-compact w-full">
+                        <tbody>
+                            <tr>
+                                <td class="text-sm md:text-xl">Full Paper Submission</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">July 31, 2022</td>
+                            </tr>
+                            <tr>
+                                <td class="text-sm md:text-xl">Notification of acceptance</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 10, 2022</td>
+                            </tr>
+                            <tr>
+                                <td class="text-sm md:text-xl">Final Paper Submission</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">November 1, 2022</td>
+                            </tr>
+                            <tr>
+                                <td class="text-sm md:text-xl">Registration</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 25, 2022</td>
+                            </tr>
+                            <tr>
+                                <td class="text-sm md:text-xl">Link to paper submission</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">
+                                    <a href="https://edas.info/N29278" target="_blank"><span class="rounded text-primary font-bold">EDAS</span></a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </section>
@@ -268,9 +226,7 @@
                                     <center>
                                         <font size="4">All the selected papers that are presented in the conference will
                                             be
-                                            considered for publication in IEEE Xplore Proceedings (IEEE Conference
-                                            Record No
-                                            : 56524)</font>
+                                            considered for publication in IEEE Xplore Proceedings</font>
                                     </center>
                                 </h3>
                             </marquee>

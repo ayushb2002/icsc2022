@@ -69,38 +69,38 @@
 
 </div>
 <ul class="hidden bg-blue-600 text-white lg:flex menu menu-horizontal rounded-none p-0 z-2">
-    <li class="border-r border-white font-bold uppercase"><a href="index.php">Home</a></li>
-    <li class="font-bold uppercase"><a href="about.php">About</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="awards.php">Awards</a></li>
-    <li class="border-l border-white font-bold uppercase" tabindex="0">
+    <li class="border-r border-white text-xs font-bold uppercase"><a href="index.php">Home</a></li>
+    <li class="font-bold text-xs uppercase"><a href="about.php">About</a></li>
+    <li class="border-l border-white text-xs  font-bold uppercase"><a href="awards.php">Awards</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase" tabindex="0">
         <a>Authors</a>
         <ul class="bg-blue-600 p-0 rounded-none">
-            <li class="text-sm font-bold uppercase"><a href="instruction.php">Instructions</a></li>
-            <li class="text-sm font-bold uppercase"><a href="scope.php">Scope</a></li>
-            <li class="text-sm font-bold uppercase"><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
-            <li class="text-sm font-bold uppercase"><a href="guidelines.php">Author guidelines</a></li>
+            <li class="text-xs font-bold uppercase"><a href="instruction.php">Instructions</a></li>
+            <li class="text-xs font-bold uppercase"><a href="scope.php">Scope</a></li>
+            <li class="text-xs font-bold uppercase"><a href="https://www.edas.info/N29278" target="_blank">Paper Submission</a></li>
+            <li class="text-xs font-bold uppercase"><a href="guidelines.php">Author guidelines</a></li>
         </ul>
     </li>
-    <li class="border-l border-white font-bold uppercase" tabindex="0">
+    <li class="border-l border-white text-xs font-bold uppercase" tabindex="0">
         <a>Committee</a>
         <ul class="bg-blue-600 p-0 rounded-none">
-            <li class="text-sm font-bold uppercase"><a href="advisory.php">Advisory Committee</a></li>
-            <li class="test-sm font-bold uppercase"><a href="organizing.php">Organizing Committee</a></li>
+            <li class="text-xs font-bold uppercase"><a href="advisory.php">Advisory Committee</a></li>
+            <li class="test-xs font-bold uppercase"><a href="organizing.php">Organizing Committee</a></li>
             <!-- <li class="text-sm font-bold uppercase"><a href="tpc.php">Technical Program Committee</a></li> -->
         </ul>
     </li>
-    <li class="border-l border-white font-bold uppercase rounded-none" tabindex="0">
+    <li class="border-l border-white text-xs font-bold uppercase rounded-none" tabindex="0">
         <a href="programs.php">Program</a>
         <!-- <ul class="bg-blue-600 p-0 rounded-none">
             <li class="font-bold uppercase"><a>Coming Soon</a></li>
             <li class="font-bold uppercase"><a>Submenu 2</a></li>
         </ul> -->
     </li>
-    <li class="border-l border-white font-bold uppercase"><a href="registration.php">Registration</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="speakers.php">Speakers</a></li>
-    <li class="border-l border-white w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="#">Message</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="contact.php">Contact</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="registration.php">Registration</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="speakers.php">Speakers</a></li>
+    <li class="border-l border-white text-xs w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="#">Message</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="contact.php">Contact</a></li>
     
 </ul>

@@ -101,7 +101,7 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for the Authors</h6>
-                            <span>For more details please click <a class="text-primary" href="instructions.php">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="instruction.php">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">List of Distinguished TPC Members</h6>

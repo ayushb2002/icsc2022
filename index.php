@@ -17,6 +17,7 @@
         </section>
         <section class="bg-[url('img/heroImg.jpg')] bg-cover hidden lg:flex lg:h-32"></section>
         <section class="bg-[url('img/heroImg.jpg')] bg-cover">
+            <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
             <p></p>
             <div class="owl-carousel owl-theme owl-loaded mt-[3.5rem] mx-auto my-auto">
                 <div class="owl-stage-outer">
@@ -101,7 +102,7 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for the Authors</h6>
-                            <span>For more details please click <a class="text-primary" href="instructions.php">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="instruction.php">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">List of Distinguished TPC Members</h6>
@@ -202,7 +203,9 @@
                 </div>
             </div>
         </section>
+        <?php include 'footer.php' ?>
     </div>
+    
     <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
 </body>

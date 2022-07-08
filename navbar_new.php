@@ -48,29 +48,30 @@
             <ul class="bg-blue-600 p-2">
                 <li><a href="advisory.php">Advisory <br> Committee</a></li>
                 <li><a href="organizing.php">Organizing <br> Committee</a></li>
-                <li><a href="tpc.php">Technical Program <br> Committee</a></li>
+                <!-- <li><a href="tpc.php">Technical Program <br> Committee</a></li> -->
             </ul>
         </li>
         <li tabindex="0">
-            <a>Program</a>
-            <ul class="bg-blue-600 p-2">
+            <a href="programs.php">Program</a>
+            <!-- <ul class="bg-blue-600 p-2">
                 <li><a>Submenu 1</a></li>
                 <li><a>Submenu 2</a></li>
-            </ul>
+            </ul> -->
         </li>
         <li><a href="registration.php">Registration</a></li>
-        <li class="w-[185px] p-0"><a class="w-full">Patrons / Exhibitors</a></li>
+        <li><a href="speakers.php">Speakers</a></li>
+        <li><a href="exhibitors.php">Exhibitors</a></li>
+        <li class="w-[185px] p-0"><a class="w-full" href="tpc.php">Track Chair/TPC</a></li>
+        <li><a href="message.php">Message</a></li>
+        <li><a href="contact.php">Contact</a></li>
         <li><a>TPC</a></li>
-        <li class="p-0 h-full my-auto">
-            <a>Search</a>
-        </li>
     </ul>
 
 </div>
 <ul class="hidden bg-blue-600 text-white lg:flex menu menu-horizontal rounded-none p-0 z-2">
     <li class="border-r border-white font-bold uppercase"><a href="index.php">Home</a></li>
     <li class="font-bold uppercase"><a href="about.php">About</a></li>
-    <li class="border-l border-white font-bold uppercase"><a>Awards</a></li>
+    <li class="border-l border-white font-bold uppercase"><a href="awards.php">Awards</a></li>
     <li class="border-l border-white font-bold uppercase" tabindex="0">
         <a>Authors</a>
         <ul class="bg-blue-600 p-0 rounded-none">
@@ -85,17 +86,21 @@
         <ul class="bg-blue-600 p-0 rounded-none">
             <li class="text-sm font-bold uppercase"><a href="advisory.php">Advisory Committee</a></li>
             <li class="test-sm font-bold uppercase"><a href="organizing.php">Organizing Committee</a></li>
-            <li class="text-sm font-bold uppercase"><a href="tpc.php">Technical Program Committee</a></li>
+            <!-- <li class="text-sm font-bold uppercase"><a href="tpc.php">Technical Program Committee</a></li> -->
         </ul>
     </li>
     <li class="border-l border-white font-bold uppercase rounded-none" tabindex="0">
-        <a>Program</a>
-        <ul class="bg-blue-600 p-0 rounded-none">
-            <li class="font-bold uppercase"><a>Submenu 1</a></li>
+        <a href="programs.php">Program</a>
+        <!-- <ul class="bg-blue-600 p-0 rounded-none">
+            <li class="font-bold uppercase"><a>Coming Soon</a></li>
             <li class="font-bold uppercase"><a>Submenu 2</a></li>
-        </ul>
+        </ul> -->
     </li>
     <li class="border-l border-white font-bold uppercase"><a href="registration.php">Registration</a></li>
-    <li class="border-l border-white w-[219px] p-0 font-bold uppercase"><a class="w-full">Patrons / Exhibitors</a></li>
-    <li class="border-l border-white font-bold uppercase"><a href="tpc.php">TPC</a></li>
+    <li class="border-l border-white font-bold uppercase"><a href="speakers.php">Speakers</a></li>
+    <li class="border-l border-white w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li>
+    <li class="border-l border-white font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
+    <li class="border-l border-white font-bold uppercase"><a href="#">Message</a></li>
+    <li class="border-l border-white font-bold uppercase"><a href="contact.php">Contact</a></li>
+    
 </ul>

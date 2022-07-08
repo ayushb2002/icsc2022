@@ -1,4 +1,4 @@
-<footer class="footer bg-[url('img/footerImg.jpg')] flex flex-col items-center justify-center lg:justify-evenly space-y-3 lg:items-start lg:flex-row p-10 text-base-content border-t-2 bg-cover bg-no-repeat">
+<!-- <footer class="footer bg-[url('img/footerImg.jpg')] flex flex-col items-center justify-center lg:justify-evenly space-y-3 lg:items-start lg:flex-row p-10 text-base-content border-t-2 bg-cover bg-no-repeat">
   <div class="place-content-center bg-transparent">
     <img src="img/jiit.png" alt="jaypee_logo" class="w-[150px] h-[200px]">
     <p class="font-bold text-center text-xl flex justify-center w-full">ICSC 2022</p>
@@ -57,7 +57,7 @@
       <span>Fax: 0120 - 2400986, 0120 - 2401006</span> <br>
     </p>
   </div>
-</footer>
+</footer> -->
 <div class="w-100 h-auto text-center p-5">
   <span>Copyright 2022 © JIIT</span> <br><br>
   <span>Designed and developed by <u><a href="https://www.linkedin.com/in/ayush-bansal-560597195/" target="_blank">Ayush Bansal</a></u> &amp; <u><a href="https://www.linkedin.com/in/bhallamudi-sai-narasimha-abhiram/" target="_blank">Bhallamudi Sai Narasimha Abhiram</a></u></span>

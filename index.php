@@ -15,11 +15,15 @@
         <section class="z-50">
             <?php include 'navbar_new.php' ?>
         </section>
-        <section class="bg-[url('img/heroImg.jpg')] bg-cover hidden lg:flex lg:h-32"></section>
-        <section class="bg-[url('img/heroImg.jpg')] bg-cover">
+        <section class="bg-[url('img/heroImg.jpg')] items-center ml-8 justify-center lg:justify-start bg-cover flex">
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
-            <p></p>
-            <div class="owl-carousel owl-theme owl-loaded mt-[3.5rem] mx-auto my-auto">
+            <div class="flex flex-col items-center justify-center">
+                <!-- <h3>Technically Co-Sponsored by IEEE UP Section</h3> -->
+                <img src="img/IEEE_up_transparent.png" class="w-[20rem] h-[14rem] object-contain" />
+            </div>
+        </section>
+        <section class="bg-[url('img/heroImg.jpg')] bg-cover">
+            <div class="owl-carousel owl-theme owl-loaded mx-auto my-auto">
                 <div class="owl-stage-outer">
                     <div class="owl-stage">
                         <div class="owl-item"><img src="img/slider/1.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
@@ -43,53 +47,6 @@
                     </div>
                 </div>
             </div>
-
-
-            <!-- <div class="h-auto bg-[url('img/heroImg.jpg')] bg-cover bg-no-repeat overflow-hidden pt-1 border-b-2">
-                <div class="m-auto z-[1] block w-[100%] h-full">
-                    <div class="">
-                        <div class="my-3 text-center">
-                            <span class="text-gray-900 font-bold text-4xl">8<sup>th</sup> INTERNATIONAL CONFERENCE ON
-                                SIGNAL <br>
-                                PROCESSING AND COMMUNICATION 2022</span>
-                        </div>
-
-                        <div class="my-1 text-center">
-                            <span class="text-blue-900 text-2xl font-bold">December 01 - 03, 2022</span>
-                        </div>
-                        <div class="my-1 text-center">
-                            <span class="text-blue-900  text-2xl font-bold">IEEE Conference Record Number - 56524 </span>
-                        </div>
-
-                        <div class="grid grid-row-5 lg:grid-cols-5">
-                            <div class="my-12 px-auto">
-                                <img src="img/jiit.png" alt="jaypee" class="w-[20vh] h-auto lg:w-[20vh] lg:h-[25vh] mx-auto" loading="lazy">
-                            </div>
-                            <div class="row-span-3 lg:col-span-3">
-
-                                
-                            </div>
-                            <div class="my-12 px-auto">
-                                <img src="img/ieee_transparent.png" alt="IEEE" class="w-[30vh] h-auto lg:w-[40vh] lg:h-[9vh] mx-auto" loading="lazy">
-                            </div>
-                        </div>
-
-
-                        <div class="text-center">
-                            <p class="text-gray-900 text-2xl mb-3">
-                                Organized by - <br>
-                                Department of Electronics and Communication Engineering<br>
-                                Jaypee Institute of Information Technology, Noida, INDIA<br>
-                                <span class="text-xl">(Deemed To be University Under Section 3 of UGC Act 1956)</span>
-                            </p>
-                            <p class="text-gray-900 text-2xl font-bold mb-10" style="color:red">
-                                Conference is being held in <b class="animate-pulse">Online Mode (Virtual)</b>!
-                            </p>
-                        </div>
-                    </div>
-                </div>
-
-            </div> -->
         </section>
         <section class="border-b border-gray-300">
             <div class="flex flex-col md:flex-row items-start justify-around">
@@ -173,13 +130,13 @@
         <section class="flex flex-col card-body">
             <h2 class="card-title text-3xl">Conference Organizers</h2>
             <hr class="w-full" />
-            <div class="flex justify-between items-center">
-            <div class="flex flex-col">
-                <h6 class="font-bold text-primary">Chief Patron</h6>
-                <ul>
-                    <li>Sh. Jaiprakash Gaur Ji</li>
-                    <li>Sh. Manoj Gaur Ji</li>
-                </ul>
+            <div class="flex flex-col lg:flex-row justify-between items-start space-y-4 lg:space-y-0">
+                <div class="flex flex-col">
+                    <h6 class="font-bold text-primary">Chief Patron</h6>
+                    <ul>
+                        <li>Sh. Jaiprakash Gaur Ji</li>
+                        <li>Sh. Manoj Gaur Ji</li>
+                    </ul>
                 </div>
                 <div class="flex flex-col">
                     <h6 class="font-bold text-primary">Patron</h6>
@@ -203,6 +160,7 @@
                 </div>
             </div>
         </section>
+        <hr class="w-full" />
         <?php include 'footer.php' ?>
     </div>
     

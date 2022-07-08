@@ -97,19 +97,20 @@
                     <ol class="flex flex-col space-y-4 mx-8 mt-4 list-decimal">
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Call of Papers</h6>
-                            <span>For more details please click <a class="text-primary" href="h1.php">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="resources/Call for Paper_ICSC 2022_IEEE.pdf" download="Call for Paper_ICSC 2022_IEEE.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for the Authors</h6>
-                            <span>For more details please click <a class="text-primary" href="h2.php">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="instructions.php">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">List of Distinguished TPC Members</h6>
-                            <span>For more details please click <a class="text-primary" href="h2.php">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="resources/TPC2022.pdf" download="Distinguished_Technical_Programming_Committee.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for Attendees</h6>
-                            <span>For more details please click <a class="text-primary" href="h2.php">HERE</a></span>
+                            <!-- <span>For more details please click <a class="text-primary" href="#">HERE</a></span> -->
+                            <span class="text-primary">Coming soon!</span>
                         </li>
                     </ol>
                 </div>

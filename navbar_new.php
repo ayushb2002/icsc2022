@@ -13,7 +13,7 @@
                 <h2 class="text-black font-bold text-xs lg:text-xl">
                     8<sup>th</sup> INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING AND COMMUNICATION (ICSC 2022)
                 </h2>
-                <h4 class="text-sm text-gray-600">Department of Electronics and Communication Engineering, Noida</h4>
+                <h4 class="text-sm text-gray-600">Department of Electronics and Communication Engineering, JIIT, Noida, U.P., India</h4>
             </div>
             <div class="flex md:flex-row flex-col space-x-2 items-center">
                 <p class="text-blue-700 text-xs font-bold lg:text-lg">December 01 - 03, 2022</p>

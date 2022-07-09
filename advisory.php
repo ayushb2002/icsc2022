@@ -20,7 +20,7 @@
         <section>
             <div class="grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
-                    <span class="dark: text-3xl font-bold">Advisory Committee</span>
+                    <span class="dark: text-3xl font-bold py-6">Advisory Committee</span>
                 </div>
                 <div></div>
                 <div class="col-span-5 flex justify-center my-10">

@@ -19,7 +19,7 @@
             <?php include 'navbar_new.php' ?>
         </section>
         <section>
-            <div class="grid grid-cols-4 m-20">
+            <div class="grid grid-cols-4 mx-20 my-36">
                 <div class="col-span-4 text-center">
                     <span class="dark: text-3xl font-bold animate-pulse">To be updated soon...</span>
                 </div>

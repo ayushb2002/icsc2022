@@ -100,7 +100,7 @@
     <li class="border-l border-white text-xs font-bold uppercase"><a href="speakers.php">Speakers</a></li>
     <li class="border-l border-white text-xs w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
-    <li class="border-l border-white text-xs font-bold uppercase"><a href="#">Message</a></li>
+    <li class="border-l border-white text-xs font-bold uppercase"><a href="message.php">Message</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="contact.php">Contact</a></li>
     
 </ul>

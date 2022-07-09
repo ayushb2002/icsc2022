@@ -106,6 +106,7 @@
                 <div></div>
             </div>
         </section>
+        <hr class="w-full" />
         <section>
             <?php include 'footer.php' ?>
         </section>

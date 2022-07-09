@@ -67,6 +67,7 @@
                 <div class="mt-5"></div>
             </div>
         </section>
+        <hr class="w-full" />
         <section>
             <?php include 'footer.php' ?>
         </section>

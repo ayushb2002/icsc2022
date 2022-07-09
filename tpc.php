@@ -9,7 +9,7 @@
     <?php include 'includes.php' ?>
 </head>
 
-<body>
+<body onload="getTPCTable();">
     <!-- Navbar begins -->
 
     <!-- Navbar ends -->

@@ -7,7 +7,7 @@ function changeTheme() {
 }
 
 window.addEventListener("load", () => {
-  const owlCarousel = $(".owl-carousel")
+  const owlCarousel = $(".owl-carousel");
   owlCarousel.owlCarousel({
     center: true,
     items: 4,
@@ -17,8 +17,8 @@ window.addEventListener("load", () => {
     autoWidth: true,
     nav: false,
     autoPlay: true,
-    autoPlayTimeout: 2000
-  })
+    autoPlayTimeout: 2000,
+  });
 });
 
 function readTextFile(file, callback) {
@@ -35,85 +35,91 @@ function readTextFile(file, callback) {
 
 //usage:
 
-readTextFile("resources/tpcNew.json", function (text) {
-  var data = JSON.parse(text);
-  var tableContainer = document.getElementById("tpcData");
-  var table = document.createElement("table");
-  table.setAttribute("class", "table table-zebra text-center");
-  var tbody = document.createElement("tbody");
-  var thead = document.createElement("thead");
-  var headr = document.createElement("tr");
-  var th = document.createElement("th");
-  th.innerHTML = "Name";
-  th.setAttribute("class", "text-2xl capitalize");
-  headr.appendChild(th);
-  thead.appendChild(headr);
-  table.appendChild(thead);
-  var heads = ["name", "email"];
-  for (var i = 0; i < data.length; i++) {
-    var tr = document.createElement("tr");
-    for (var j = 0; j < 1; j++) {
-      var td = document.createElement("td");
-      td.innerHTML = data[i][heads[j]];
-      tr.appendChild(td);
+function getTPCTable() {
+  readTextFile("resources/tpcNew.json", function (text) {
+    var data = JSON.parse(text);
+    var tableContainer = document.getElementById("tpcData");
+    var table = document.createElement("table");
+    table.setAttribute("class", "table table-zebra text-center");
+    var tbody = document.createElement("tbody");
+    var thead = document.createElement("thead");
+    var headr = document.createElement("tr");
+    var th = document.createElement("th");
+    th.innerHTML = "Name";
+    th.setAttribute("class", "text-2xl capitalize");
+    headr.appendChild(th);
+    thead.appendChild(headr);
+    table.appendChild(thead);
+    var heads = ["name", "email"];
+    for (var i = 0; i < data.length; i++) {
+      var tr = document.createElement("tr");
+      for (var j = 0; j < 1; j++) {
+        var td = document.createElement("td");
+        td.innerHTML = data[i][heads[j]];
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
     }
-    tbody.appendChild(tr);
-  }
-  table.appendChild(tbody);
-  tableContainer.appendChild(table);
-});
+    table.appendChild(tbody);
+    tableContainer.appendChild(table);
+  });
+}
 
-readTextFile("resources/organizing.json", function (text) {
-  var data = JSON.parse(text);
-  var tableContainer = document.getElementById("organizingTable");
-  var table = document.createElement("table");
-  table.setAttribute(
-    "class",
-    "table table-normal table-zebra text-center mx-auto"
-  );
-  var tbody = document.createElement("tbody");
-  var heads = ["name1", "name2", "name3"];
-  for (var i = 0; i < data.length; i++) {
-    var tr = document.createElement("tr");
-    for (var j = 0; j < 3; j++) {
-      var td = document.createElement("td");
-      td.innerHTML = data[i][heads[j]];
-      tr.appendChild(td);
+function getOrganizingCommitteeTable() {
+  readTextFile("resources/organizing.json", function (text) {
+    var data = JSON.parse(text);
+    var tableContainer = document.getElementById("organizingTable");
+    var table = document.createElement("table");
+    table.setAttribute(
+      "class",
+      "table table-normal table-zebra text-center mx-auto"
+    );
+    var tbody = document.createElement("tbody");
+    var heads = ["name1", "name2", "name3"];
+    for (var i = 0; i < data.length; i++) {
+      var tr = document.createElement("tr");
+      for (var j = 0; j < 3; j++) {
+        var td = document.createElement("td");
+        td.innerHTML = data[i][heads[j]];
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
     }
-    tbody.appendChild(tr);
-  }
 
-  table.appendChild(tbody);
-  tableContainer.appendChild(table);
-});
+    table.appendChild(tbody);
+    tableContainer.appendChild(table);
+  });
+}
 
-readTextFile("resources/advisory.json", function (text) {
-  var data = JSON.parse(text);
-  var tableContainer = document.getElementById("advisoryData");
-  var table = document.createElement("table");
-  table.setAttribute("class", "table table-zebra text-center");
-  var tbody = document.createElement("tbody");
-  // var thead = document.createElement('thead');
-  // var headr = document.createElement('tr');
-  // var th = document.createElement('th');
-  // th.innerHTML = "Name";
-  // th.setAttribute('class', 'text-2xl capitalize');
-  // headr.appendChild(th);
-  // thead.appendChild(headr);
-  // table.appendChild(thead);
-  var heads = ["name"];
-  for (var i = 0; i < data.length; i++) {
-    var tr = document.createElement("tr");
-    for (var j = 0; j < 1; j++) {
-      var td = document.createElement("td");
-      td.innerHTML = data[i][heads[j]];
-      tr.appendChild(td);
+function getAdvisoryCommitteeTable() {
+  readTextFile("resources/advisory.json", function (text) {
+    var data = JSON.parse(text);
+    var tableContainer = document.getElementById("advisoryData");
+    var table = document.createElement("table");
+    table.setAttribute("class", "table table-zebra text-center");
+    var tbody = document.createElement("tbody");
+    // var thead = document.createElement('thead');
+    // var headr = document.createElement('tr');
+    // var th = document.createElement('th');
+    // th.innerHTML = "Name";
+    // th.setAttribute('class', 'text-2xl capitalize');
+    // headr.appendChild(th);
+    // thead.appendChild(headr);
+    // table.appendChild(thead);
+    var heads = ["name"];
+    for (var i = 0; i < data.length; i++) {
+      var tr = document.createElement("tr");
+      for (var j = 0; j < 1; j++) {
+        var td = document.createElement("td");
+        td.innerHTML = data[i][heads[j]];
+        tr.appendChild(td);
+      }
+      tbody.appendChild(tr);
     }
-    tbody.appendChild(tr);
-  }
-  table.appendChild(tbody);
-  tableContainer.appendChild(table);
-});
+    table.appendChild(tbody);
+    tableContainer.appendChild(table);
+  });
+}
 
 function beer() {
   return {

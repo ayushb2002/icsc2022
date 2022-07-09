@@ -9,7 +9,7 @@
     <?php include 'includes.php' ?>
 </head>
 
-<body>
+<body onload="getAdvisoryCommitteeTable();">
     <!-- Navbar begins -->
     <!-- Navbar ends -->
 

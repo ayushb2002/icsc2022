@@ -21,50 +21,37 @@
         <section>
             <div class="mt-24 grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
-                    <span class="dark: text-3xl font-bold">Track Chairs</span>
+                    <span class="dark: text-2xl font-bold">Track Chairs</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 overflow-x-auto my-10">
-                    <table class="table text-center mx-auto">
-                        <thead>
-                            <tr>
-                                <th></th>
-                                <th class="p-3">Communication</th>
-                                <th class="p-3">Signal Processing</th>
-                                <th class="p-3">VLSI Technology & Embedded Systems</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <td class="p-3 font-bold">
-                                    Chair
-                                </td>
-                                <td class="p-3">
-                                    Prof. M. V. Kartikeyan, IIT, Tirupati, India
-                                </td>
-                                <td class="p-3">
-                                    Prof. Rajiv Saxena, JIIT, Noida, India
-                                </td>
-                                <td class="p-3">
-                                    Prof. Sudeb Das Gupta, IIT, Roorkee, India
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="p-3 font-bold">
-                                    Co-chair
-                                </td>
-                                <td class="p-3">
-                                    Dr. Jasmine Saini, JIIT, Noida, India
-                                </td>
-                                <td class="p-3">
-                                    Dr. Richa Gupta, JIIT, Noida, India
-                                </td>
-                                <td class="p-3">
-                                    Dr. Satyendra Kumar, JIIT, Noida, India
-                                </td>
-                            </tr>
-                        </tbody>
+                <div class="col-span-5 overflow-x-auto my-5">
+                    <table class="table table-center mx-auto text-md">
+                    <thead>
+                        <tr class="text-center">
+                            <th></th>
+                            <th class="font-bold">Chair</th>
+                            <th class="font-bold">Co-Chair</th>
+                        </tr>
+                    </thead>
+                    <tbody class="text-center">
+                        <tr>
+                            <td class="font-bold">Communication</td>
+                            <td>Prof. M. V. Kartikeyan, IIT, Tirupati, India</td>
+                            <td>Dr. Jasmine Saini, JIIT, Noida, India</td>
+                        </tr>
+                        <tr>
+                            <td class="font-bold">Signal Processing</td>
+                            <td>Prof. Rajiv Saxena, JIIT, Noida, India</td>
+                            <td>Dr. Richa Gupta, JIIT, Noida, India</td>
+                        </tr>
+                        <tr>
+                            <td class="font-bold">VLSI Technology & <br> Embedded Systems</td>
+                            <td>Prof. Sudeb Das Gupta, IIT, Roorkee, India</td>
+                            <td>Dr. Satyendra Kumar, JIIT, Noida, India</td>
+                        </tr>
+                    </tbody>
                     </table>
+
                 </div>
                 <div></div>
 

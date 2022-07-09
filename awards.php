@@ -19,10 +19,58 @@
             <?php include 'navbar_new.php' ?>
         </section>
         <section>
-            <div class="grid grid-cols-4 m-20">
-                <div class="col-span-4 text-center">
-                    <span class="dark: text-3xl font-bold animate-pulse">To be updated soon...</span>
+            <div class="grid grid-cols-6 m-5">
+                <div></div>
+                <div class="col-span-4 text-center mt-5">
+                    <span class="text-3xl font-bold">ICSC 2021 Best Paper Award</span>
+                    <div class="divider"></div>
+                    <p class="text-justify">
+                        The "Best Paper Award" will be given to the few research papers i.e. one paper from each of the
+                        three tracks: Signal Processing, Communication, and VLSI/Embedded. Only presented papers at ICSC
+                        2022 will be considered for evaluation process. The evaluation will be done based on following
+                        points: the novelty in the paper, the quality of the presentation and the justification to
+                        questions raised by audience.
+                    </p>
+                    <br><br>
+                    <span class="text-3xl font-bold">Winners of ICSC 2021 "Best Paper Award" were</span>
+                    <div class="divider"></div>
+                    <div class="overflow-x-auto">
+                        <table class="table table-center table-normal mx-auto">
+                            <thead>
+                                <tr>
+                                    <th>Tracks</th>
+                                    <th>Winners</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="font-bold">Communication</td>
+                                    <td>
+                                        <b>“Stub-loaded Dual-Band Planar Antenna for 28/38 <br> GHz 5G Applications”</b> by Shobit
+                                        Agarwal, Umair Rafique <br> and Vasu Jain.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="font-bold">Signal Processing</td>
+                                    <td>
+                                        <b>“Prediction of Heart Disease Risk using Machine <br> learning with Correlation-based
+                                        Feature Selection and <br> Optimization Techniques”</b> by Karna Vishnu Vardhana <br> Reddy,
+                                        Irraivan Elamvazuthi, Azrina Abd Aziz, Sivajothi <br> Paramasivam, Hui Na Chua, S.
+                                        Pranavanand.
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="font-bold">VLSI Technology & <br> Embedded Systems</td>
+                                    <td>
+                                        <b>“High Efficiency Broadband Mixed Mode Power <br> Amplifier for Patient Monitoring”</b> by
+                                        Vaishnavi Surve, <br> Sandeep Kumar, Pradeep Gorre
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
                 </div>
+                <div></div>
             </div>
         </section>
         <section>

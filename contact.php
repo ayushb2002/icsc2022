@@ -16,7 +16,7 @@
 
     <div class="relative w-full md:w-[80%] mx-auto">
         <section class="z-50">
-            <?php include 'navbar_new.php' ?>
+            <?php include 'navbar.php' ?>
         </section>
         <section>
             <div class="grid grid-cols-6 lg:grid-cols-4 dark:">
@@ -25,7 +25,7 @@
                 </div>
                 <div></div>
                 <div class="col-span-6 lg:col-span-2">
-                    <span class="text-2xl dark: font-bold capitalize">Prof. (Dr.) Jitendra Mohan</span>
+                    <span class="text-2xl dark: font-bold capitalize">Prof. Jitendra Mohan</span>
                     <div class="divider"></div>
                     <p>
                         Department of Electronics & Communication

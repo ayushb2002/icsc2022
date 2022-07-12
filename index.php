@@ -13,7 +13,7 @@
 <body>
     <div class="relative w-full md:w-[80%] mx-auto pb-4">
         <section class="z-50">
-            <?php include 'navbar_new.php' ?>
+            <?php include 'navbar.php' ?>
         </section>
         <section class="bg-[url('img/heroImg.jpg')] items-center ml-8 justify-center lg:justify-start bg-cover flex">
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
@@ -159,7 +159,7 @@
                 <div class="flex flex-col">
                     <h6 class="font-bold text-primary">Organizing Secretary</h6>
                     <ul>
-                        <li>Prof. (Dr.) Jitendra Mohan</li>
+                        <li>Prof. Jitendra Mohan</li>
                     </ul>
                 </div>
             </div>

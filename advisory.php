@@ -15,7 +15,7 @@
 
     <div class="relative w-full md:w-[80%] mx-auto">
         <section class="relatve z-1">
-            <?php include 'navbar_new.php' ?>
+            <?php include 'navbar.php' ?>
         </section>
         <section>
             <div class="grid grid-cols-7 dark:">

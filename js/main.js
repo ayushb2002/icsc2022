@@ -14,8 +14,8 @@ window.addEventListener("load", () => {
     margin: 30,
     loop: true,
     autoWidth: true,
-    autoPlay: true,
-    autoPlayTimeout: 1000,
+    autoplay: true,
+    autoplayTimeout: 2400
   });
 });
 

@@ -16,7 +16,7 @@
 
     <div class="relative w-full md:w-[80%] mx-auto">
         <section class="z-50">
-            <?php include 'navbar_new.php' ?>
+            <?php include 'navbar.php' ?>
         </section>
         <section>
             <div class="grid grid-cols-7 lg:grid-cols-5">
@@ -32,8 +32,8 @@
 
 
                     <div class="card bg-base-200 border-2 my-5 lg:mx-5 lg:p-5">
-                        <div class="card-body">
-                            <div class="card-title">SIGNAL PROCESSING</div>
+                        <div class="card-body bg-base-200">
+                            <div class="card-title bg-base-200">SIGNAL PROCESSING</div>
                             <hr>
                             <p>
                             <ul class="list-disc">
@@ -72,8 +72,8 @@
 
                     <div class="bg-base-200 border-2 card my-5 lg:mx-5 lg:p-5">
 
-                        <div class="card-body">
-                            <div class="card-title">
+                        <div class="card-body bg-base-200">
+                            <div class="card-title bg-base-200">
                                 COMMUNICATION
                             </div>
                             <hr>
@@ -120,8 +120,8 @@
 
                     <div class="bg-base-200 border-2 card my-5 lg:mx-5 lg:p-5">
 
-                        <div class="card-body">
-                            <div class="card-title">
+                        <div class="card-body bg-base-200">
+                            <div class="card-title bg-base-200">
                                 VLSI Technology and Embedded Systems
                             </div>
                             <hr>

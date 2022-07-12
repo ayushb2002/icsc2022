@@ -6,7 +6,6 @@
 <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="js/owl.carousel.min.js"></script>
 <style>
   body {
     background: #bdc3c7;

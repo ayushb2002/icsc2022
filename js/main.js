@@ -12,12 +12,10 @@ window.addEventListener("load", () => {
     center: true,
     items: 4,
     margin: 30,
-    merge: true,
     loop: true,
     autoWidth: true,
-    nav: false,
     autoPlay: true,
-    autoPlayTimeout: 2000,
+    autoPlayTimeout: 1000,
   });
 });
 
@@ -40,16 +38,9 @@ function getTPCTable() {
     var data = JSON.parse(text);
     var tableContainer = document.getElementById("tpcData");
     var table = document.createElement("table");
-    table.setAttribute("class", "table table-zebra text-center");
+    table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
-    var thead = document.createElement("thead");
-    var headr = document.createElement("tr");
-    var th = document.createElement("th");
-    th.innerHTML = "Name";
-    th.setAttribute("class", "text-2xl capitalize");
-    headr.appendChild(th);
-    thead.appendChild(headr);
-    table.appendChild(thead);
+    
     var heads = ["name", "email"];
     for (var i = 0; i < data.length; i++) {
       var tr = document.createElement("tr");
@@ -72,7 +63,7 @@ function getOrganizingCommitteeTable() {
     var table = document.createElement("table");
     table.setAttribute(
       "class",
-      "table table-normal table-zebra text-center mx-auto"
+      "table table-compact table-zebra text-center mx-auto"
     );
     var tbody = document.createElement("tbody");
     var heads = ["name1", "name2", "name3"];
@@ -96,7 +87,7 @@ function getAdvisoryCommitteeTable() {
     var data = JSON.parse(text);
     var tableContainer = document.getElementById("advisoryData");
     var table = document.createElement("table");
-    table.setAttribute("class", "table table-zebra text-center");
+    table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
     // var thead = document.createElement('thead');
     // var headr = document.createElement('tr');

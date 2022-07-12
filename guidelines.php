@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>guidelines | ICSC 2022</title>
+    <title>Guidelines | ICSC 2022</title>
     <?php include 'includes.php' ?>
 </head>
 
@@ -86,7 +86,7 @@
                 </div>
                 <div class="col-span-6 lg:col-span-2 lg:m-5 lg:p-5 text-center">
 
-                    <span class="text-2xl dark:">Instructions</span>
+                    <span class="text-xl font-bold dark:">Links</span>
                     <div class="divider"></div>
                     <p>
 

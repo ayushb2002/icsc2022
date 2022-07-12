@@ -19,7 +19,7 @@
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
             <div class="flex flex-col items-center justify-center">
                 <!-- <h3>Technically Co-Sponsored by IEEE UP Section</h3> -->
-                <img src="img/IEEE_up_transparent.png" class="w-[20rem] h-[14rem] object-contain" />
+                <img src="img/IEEE_up_transparent.png" class="w-[16rem] h-[10rem] object-contain" />
             </div>
         </section>
         <section class="bg-[url('img/heroImg.jpg')] bg-cover">
@@ -53,6 +53,10 @@
                 <div class="pt-8 card-body">
                     <h2 class="text-2xl font-bold card-title">Latest News and Announcements</h2>
                     <ol class="flex flex-col space-y-4 mx-8 mt-4 list-decimal">
+                    <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Previous ICSC Conferences</h6>
+                            <span>For more details please click <a class="text-primary" href="about.php">HERE</a></span>
+                        </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Call of Papers</h6>
                             <span>For more details please click <a class="text-primary" href="resources/Call for Paper_ICSC 2022_IEEE.pdf" download="Call for Paper_ICSC 2022_IEEE.pdf">HERE</a></span>
@@ -103,7 +107,7 @@
                     </table>
                 </div>
             </div>
-            <div class="flex items-center justify-center my-4 border-t border-gray-300" x-data="beer()" x-init="start()">
+            <!-- <div class="flex items-center justify-center my-4 border-t border-gray-300" x-data="beer()" x-init="start()">
                 <div class="p-5 lg:p-12 bg-white">
                     <h1 class="lg:text-5xl text-center mb-3 text-blue-800">FULL PAPER SUBMISSION ENDS IN</h1>
                     <div class="lg:text-6xl text-center flex w-full items-center justify-center">
@@ -125,7 +129,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </section>
         <section class="flex flex-col card-body">
             <h2 class="card-title text-3xl">Conference Organizers</h2>
@@ -163,8 +167,6 @@
         <hr class="w-full" />
         <?php include 'footer.php' ?>
     </div>
-    
-    <script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
 </body>
 

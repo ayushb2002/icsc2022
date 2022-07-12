@@ -24,17 +24,6 @@
                 </div>
                 <div></div>
                 <div class="col-span-4 p-5">
-                    <span class="text-2xl dark:">JIIT</span>
-                    <div class="divider"></div>
-                    <p class="text-justify">Jaypee Institute of Information Technology (JIIT) was founded in 2001 with
-                        the vision of becoming a
-                        centre of excellence in the field of IT and related emerging areas of education, training and
-                        research
-                        comparable to the best in the world for producing professionals who shall be leaders in
-                        innovation,
-                        entrepreneurship, creativity and management. </p>
-                    <br><br>
-
                     <span class="text-2xl dark:">ECE Department</span>
                     <div class="divider"></div>
                     <p class="text-justify">The Electronics and Communication Engineering Department was formed in the
@@ -126,7 +115,7 @@
                         signal processing, communications, and VLSI/Embedded, as well as plenary speeches by renowned
                         international speakers.</p>
                     <br><br>
-                    <span class="text-2xl">Previous Year Conferences</span>
+                    <span class="text-2xl">Previous ICSC Conferences</span>
                     <div class="divider"></div>
                     <div class="flex flex-col bg-transparent items-center lg:items-start">
                         <ul>

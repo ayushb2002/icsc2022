@@ -20,7 +20,7 @@
                     <span class="text-3xl font-bold text-center">Registration Details</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 text-center overflow-hidden">
+                <div class="col-span-5 overflow-hidden">
 
 
                     <div class="grid grid-rows-2 lg:grid-cols-2">
@@ -38,17 +38,17 @@
 
                     <div class="divider"></div>
 
-                    <span class="font-bold">It is mandatory for at least one author of an accepted paper to register for
+                    <span class="font-bold text-justify">It is mandatory for at least one author of an accepted paper to register for
                         the paper to appear in the proceedings and included in the Technical Program. The registered
                         author must present the paper in the conference for getting the paper to be published in IEEE
                         Xplore. Otherwise the paper will be removed from the conference proceedings. </span><br><br>
 
                     <div class="divider"></div>
 
-                    <span class="font-bold text-2xl text-primary uppercase animate-pulse">Conference will be held in online mode.</span>
+                    <span class="font-bold text-2xl text-primary text-center mx-auto uppercase animate-pulse">Conference will be held in online mode.</span>
                     <div class="divider"></div>
                     <div class="overflow-x-auto">
-                        <table class="table table-normal mx-auto text-center table-zebra">
+                        <table class="table table-normal table-compact mx-auto text-center table-zebra">
                             <tr class="font-bold">
                                 <td></td>
                                 <td>
@@ -70,7 +70,7 @@
 
                             <tr>
                                 <td class="font-bold">
-                                    Academicians/R&D Professional
+                                    Academicians/<br />R&D Professional
                                 </td>
                                 <td> INR 6000</td>
                                 <td> INR 8000</td>
@@ -95,7 +95,7 @@
                             </tr>
                             <tr>
                                 <td class="font-bold">
-                                    Academicians/R&D Professional
+                                    Academicians/<br />R&D Professional
                                 </td>
                                 <td> INR 4000</td>
                                 <td> INR 4800</td>
@@ -119,7 +119,7 @@
                             </tr>
                             <tr>
                                 <td class="font-bold">
-                                    Academicians/R&D Professionals <br>(3 Days Registration)
+                                    Academicians/<br />R&D Professionals <br />(3 Days Registration)
                                 </td>
                                 <td> INR 3000</td>
                                 <td> INR 4000</td>
@@ -132,7 +132,7 @@
                             </tr>
                             <tr>
                                 <td class="font-bold">
-                                    Academicians/R&D Professionals <br>(1 Days Registration)
+                                    Academicians/<br />R&D Professionals <br>(1 Days Registration)
                                 </td>
                                 <td> INR 2000</td>
                                 <td> INR 2500</td>

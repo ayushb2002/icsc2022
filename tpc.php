@@ -21,11 +21,11 @@
         <section>
             <div class="mt-24 grid grid-cols-7 dark:">
                 <div class="col-span-7 flex justify-center m-5">
-                    <span class="dark: text-2xl font-bold">Track Chairs</span>
+                    <span class="dark: text-3xl font-bold">Track Chairs</span>
                 </div>
                 <div></div>
                 <div class="col-span-5 overflow-x-auto my-5">
-                    <table class="table table-center mx-auto text-md">
+                    <table class="table table-compact table-center mx-auto text-md">
                     <thead>
                         <tr class="text-center">
                             <th></th>
@@ -59,7 +59,7 @@
                     <span class="dark: text-3xl font-bold">Technical Program Committee</span>
                 </div>
                 <div></div>
-                <div class="col-span-5 flex justify-center mt-10">
+                <div class="col-span-5 flex justify-center mt-2">
                     <div class="overflow-x-auto" id="tpcData">
 
                     </div>

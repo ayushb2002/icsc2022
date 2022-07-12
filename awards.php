@@ -25,11 +25,9 @@
                     <span class="text-3xl font-bold">ICSC 2021 Best Paper Award</span>
                     <div class="divider"></div>
                     <p class="text-justify">
-                        The "Best Paper Award" will be given to the few research papers i.e. one paper from each of the
-                        three tracks: Signal Processing, Communication, and VLSI/Embedded. Only presented papers at ICSC
-                        2022 will be considered for evaluation process. The evaluation will be done based on following
-                        points: the novelty in the paper, the quality of the presentation and the justification to
-                        questions raised by audience.
+                    The Best Paper Awards are presented at ICSC conferences to authors whose work represents groundbreaking research in their respective areas. By recognizing these select papers for their ingenuity and importance, ICSC highlights some of the theoretical and practical innovations that are likely to shape the future especially in the areas of Signal Processing, Communication and VLSI Technology and Embedded Systems. The accepted works which are properly presented in the conference as per the guidelines of ICSC 2022 will only be considered for "Best Paper Award". 
+
+Below, you can find the list of the recipients of the Best Paper Award of previous Conference: ICSC 2021.
                     </p>
                     <br><br>
                     <span class="text-3xl font-bold">Winners of ICSC 2021 "Best Paper Award" were</span>
@@ -44,14 +42,7 @@
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td class="font-bold">Communication</td>
-                                    <td>
-                                        <b>“Stub-loaded Dual-Band Planar Antenna for 28/38 <br> GHz 5G Applications”</b> by Shobit
-                                        Agarwal, Umair Rafique <br> and Vasu Jain.
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td class="font-bold">Signal Processing</td>
+                                <td class="font-bold">Signal Processing</td>
                                     <td>
                                         <b>“Prediction of Heart Disease Risk using Machine <br> learning with Correlation-based
                                         Feature Selection and <br> Optimization Techniques”</b> by Karna Vishnu Vardhana <br> Reddy,
@@ -59,6 +50,14 @@
                                         Pranavanand.
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td class="font-bold">Communication</td>
+                                    <td>
+                                        <b>“Stub-loaded Dual-Band Planar Antenna for 28/38 <br> GHz 5G Applications”</b> by Shobit
+                                        Agarwal, Umair Rafique <br> and Vasu Jain.
+                                    </td>
+                                </tr>
+                                
                                 <tr>
                                     <td class="font-bold">VLSI Technology & <br> Embedded Systems</td>
                                     <td>

@@ -7,10 +7,6 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <style>
-  body {
-    padding-top: 10px;
-  }
-
   div {
     background-color: white;
   }

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="relative w-full md:w-[80%] mx-auto">
+    <div class="relative w-full  mx-auto">
         <section class="z-50">
             <?php include 'navbar.php' ?>
         </section>

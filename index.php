@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="relative w-full md:w-[80%] mx-auto pb-4">
+    <div class="relative w-full  mx-auto pb-4">
         <section class="z-50">
             <?php include 'navbar.php' ?>
         </section>

@@ -15,7 +15,7 @@
         <section class="z-50">
             <?php include 'navbar.php' ?>
         </section>
-        <section class="bg-[url('img/heroImg.jpg')] items-center ml-8 justify-center lg:justify-start bg-cover flex">
+        <section class="bg-[url('img/frontImg.jpg')] bg-repeat items-center ml-8 justify-center lg:justify-start flex">
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
             <div class="flex flex-col items-center justify-center">
                 <!-- <h3>Technically Co-Sponsored by IEEE UP Section</h3> -->

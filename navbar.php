@@ -68,7 +68,7 @@
     </ul>
 
 </div>
-<ul class="hidden bg-blue-600 text-white lg:flex menu menu-horizontal rounded-none p-0 z-2">
+<ul class="hidden bg-blue-600 text-white lg:flex menu menu-horizontal rounded-none p-0 z-2 text-center justify-center">
     <li class="border-r border-white text-xs font-bold uppercase"><a href="index.php">Home</a></li>
     <li class="font-bold text-xs uppercase"><a href="about.php">About</a></li>
     <li class="border-l border-white text-xs  font-bold uppercase"><a href="awards.php">Awards</a></li>

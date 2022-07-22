@@ -15,12 +15,9 @@
         <section class="z-50">
             <?php include 'navbar.php' ?>
         </section>
-        <section class="bg-[url('img/frontImg.jpg')] bg-repeat items-center ml-8 justify-center lg:justify-start flex">
+        <section class="bg-[url('img/frontImg.jpg')] bg-repeat items-center justify-center lg:justify-start flex">
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
-            <div class="flex flex-col items-center justify-center">
-                <!-- <h3>Technically Co-Sponsored by IEEE UP Section</h3> -->
-                <img src="img/IEEE_up_transparent.png" class="w-[16rem] h-[10rem] object-contain" />
-            </div>
+            <img src="img/IEEE_up_transparent.png" class="ml-8 w-[16rem] h-[10rem] bg-transparent object-contain" />
         </section>
         <section class="bg-[url('img/heroImg.jpg')] bg-cover">
             <div class="owl-carousel owl-theme owl-loaded mx-auto my-auto">

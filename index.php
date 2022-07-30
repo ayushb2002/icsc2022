@@ -80,7 +80,7 @@
                         <tbody>
                             <tr>
                                 <td class="text-sm md:text-xl">Full Paper Submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">July 31, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl"><span class="text-red-500 animate-pulse italic">Extended</span> August 31, 2022</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>

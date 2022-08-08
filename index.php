@@ -41,6 +41,7 @@
                         <div class="owl-item"><img src="img/slider/16.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                         <div class="owl-item"><img src="img/slider/17.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                         <div class="owl-item"><img src="img/slider/18.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
+                        <div class="owl-item"><img src="img/slider/19.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                     </div>
                 </div>
             </div>
@@ -50,6 +51,13 @@
                 <div class="pt-8 card-body">
                     <h2 class="text-2xl font-bold card-title">Latest News and Announcements</h2>
                     <ol class="flex flex-col space-y-4 mx-8 mt-4 list-decimal">
+                    <li class="flex flex-col space-y-1 animate-pulse">
+                            <span class="text-red-500 font-bold">All accepted papers will be included in ICSC 2022 Conference Proceedings. <br> All presented papers will be published in IEEE Xplore Digital Library (Indexed by Scopus).</span>
+                        </li>
+                        <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">IEEE Conference Calender</h6>
+                            <span>Find us on official calender, please click <a class="text-primary" href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/56524">HERE</a></span>
+                        </li>
                     <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Previous ICSC Conferences</h6>
                             <span>For more details please click <a class="text-primary" href="about.php">HERE</a></span>

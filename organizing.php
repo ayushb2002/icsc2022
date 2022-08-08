@@ -42,6 +42,11 @@
                                     <span>Department of Electronics & Communication</span>
                                     <span>JIIT Noida</span>
                                 </div>
+                                <div class="flex flex-col">
+                                    <b class="text-lg mb-1">Publication Chairs</b>
+                                    <a href="https://www.jiit.ac.in/dr-bhartendu-chaturvedi" target="_blank" class="underline">Dr. Bhartendu Chaturvedi</a>
+                                    <a href="https://www.jiit.ac.in/prof-sajai-vir-singh" class="underline">Prof. Sajai Vir Singh</a>
+                                </div>
                             </div>
                             <div class="divider"></div>
                             <div class="flex flex-col">

@@ -41,14 +41,12 @@ function getTPCTable() {
     table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
     
-    var heads = ["name", "email"];
+    var heads = ["name"];
     for (var i = 0; i < data.length; i++) {
       var tr = document.createElement("tr");
-      for (var j = 0; j < 1; j++) {
         var td = document.createElement("td");
-        td.innerHTML = data[i][heads[j]];
+        td.innerHTML = data[i][heads[0]];
         tr.appendChild(td);
-      }
       tbody.appendChild(tr);
     }
     table.appendChild(tbody);

@@ -109,7 +109,7 @@
                                 Download IEEE Policy on Plagiarism</button>
                         </a>
 
-                        <a href="resources/Call for Paper_ICSC 2022_IEEE.pdf" download="Call for Paper_ICSC 2022_IEEE.pdf">
+                        <a href="resources/Final Call for Papers_ICSC 2022.pdf" download="Call for Paper_ICSC 2022_IEEE.pdf">
                             <button class="btn btn-primary m-5">
                                 Download Call For Papers</button>
                         </a>

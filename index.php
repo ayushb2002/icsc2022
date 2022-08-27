@@ -88,19 +88,19 @@
                         <tbody>
                             <tr>
                                 <td class="text-sm md:text-xl">Full Paper Submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl"><span class="text-red-500 animate-pulse italic">Extended</span> August 31, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">September 20, 20022 <span class="text-red-500 animate-pulse italic">Final Extension</span></td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">October 10, 2022</td>
                             </tr>
                             <tr>
-                                <td class="text-sm md:text-xl">Final Paper Submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">November 1, 2022</td>
-                            </tr>
-                            <tr>
                                 <td class="text-sm md:text-xl">Registration</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">October 25, 2022</td>
+                            </tr>
+                            <tr>
+                                <td class="text-sm md:text-xl">Camera Ready Paper Submission</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">November 1, 2022</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Link to paper submission</td>

@@ -88,7 +88,7 @@
                         <tbody>
                             <tr>
                                 <td class="text-sm md:text-xl">Full Paper Submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">September 20, 20022 <span class="text-red-500 animate-pulse italic">Final Extension</span></td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">September 20, 2022 <span class="text-red-500 animate-pulse italic">[Final Extension]</span></td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>

@@ -15,7 +15,7 @@ window.addEventListener("load", () => {
     loop: true,
     autoWidth: true,
     autoplay: true,
-    autoplayTimeout: 2400
+    autoplayTimeout: 2400,
   });
 });
 
@@ -40,13 +40,26 @@ function getTPCTable() {
     var table = document.createElement("table");
     table.setAttribute("class", "table table-compact table-zebra text-center");
     var tbody = document.createElement("tbody");
-    
+
     var heads = ["name"];
-    for (var i = 0; i < data.length; i++) {
+    for (var i = 0; i < data.length - 3; i+=3) {
       var tr = document.createElement("tr");
-        var td = document.createElement("td");
-        td.innerHTML = data[i][heads[0]];
-        tr.appendChild(td);
+      var td = document.createElement("td");
+
+      td.innerHTML = data[i][heads[0]];
+      var td = document.createElement("td");
+      tr.appendChild(td);
+
+      td.innerHTML = data[i+1][heads[0]];
+      tr.appendChild(td);
+
+      var td = document.createElement("td");
+      td.innerHTML = data[i+2][heads[0]];
+      tr.appendChild(td);
+
+      var td = document.createElement("td");
+      td.innerHTML = data[i+3][heads[0]];
+      tr.appendChild(td);
       tbody.appendChild(tr);
     }
     table.appendChild(tbody);

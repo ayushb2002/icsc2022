@@ -42,23 +42,12 @@ function getTPCTable() {
     var tbody = document.createElement("tbody");
 
     var heads = ["name"];
-    for (var i = 0; i < data.length - 3; i+=3) {
+    for (var i = 0; i < data.length; i++) {
       var tr = document.createElement("tr");
       var td = document.createElement("td");
 
       td.innerHTML = data[i][heads[0]];
-      var td = document.createElement("td");
-      tr.appendChild(td);
 
-      td.innerHTML = data[i+1][heads[0]];
-      tr.appendChild(td);
-
-      var td = document.createElement("td");
-      td.innerHTML = data[i+2][heads[0]];
-      tr.appendChild(td);
-
-      var td = document.createElement("td");
-      td.innerHTML = data[i+3][heads[0]];
       tr.appendChild(td);
       tbody.appendChild(tr);
     }
@@ -77,14 +66,21 @@ function getOrganizingCommitteeTable() {
       "table table-compact table-zebra text-center mx-auto"
     );
     var tbody = document.createElement("tbody");
-    var heads = ["name1", "name2", "name3"];
-    for (var i = 0; i < data.length; i++) {
+    var heads = ["name"];
+    for (var i = 0; i < data.length - 3; i += 3) {
       var tr = document.createElement("tr");
-      for (var j = 0; j < 3; j++) {
-        var td = document.createElement("td");
-        td.innerHTML = data[i][heads[j]];
-        tr.appendChild(td);
-      }
+      var td = document.createElement("td");
+      td.innerHTML = data[i][heads[0]];
+      tr.appendChild(td);
+
+      var td = document.createElement("td");
+      td.innerHTML = data[i+1][heads[0]];
+      tr.appendChild(td);
+
+      var td = document.createElement("td");
+      td.innerHTML = data[i+2][heads[0]];
+      tr.appendChild(td);
+
       tbody.appendChild(tr);
     }
 

@@ -64,7 +64,7 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Call of Papers</h6>
-                            <span>For more details please click <a class="text-primary" href="resources/Call for Paper_ICSC 2022_IEEE.pdf" download="Call for Paper_ICSC 2022_IEEE.pdf">HERE</a></span>
+                            <span>For more details please click <a class="text-primary" href="resources/Final Call for Papers_ICSC 2022.pdf" download="Final Call for Papers_ICSC 2022.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for the Authors</h6>

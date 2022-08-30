@@ -63,7 +63,7 @@
                             <span>For more details please click <a class="text-primary" href="about.php">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
-                            <h6 class="font-bold text-lg">Call of Papers</h6>
+                            <h6 class="font-bold text-lg">Call for Papers</h6>
                             <span>For more details please click <a class="text-primary" href="resources/Final Call for Papers_ICSC 2022.pdf" download="Final Call for Papers_ICSC 2022.pdf">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
@@ -76,7 +76,6 @@
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Instructions for Attendees</h6>
-                            <!-- <span>For more details please click <a class="text-primary" href="#">HERE</a></span> -->
                             <span class="text-primary">Coming soon!</span>
                         </li>
                     </ol>
@@ -112,29 +111,6 @@
                     </table>
                 </div>
             </div>
-            <!-- <div class="flex items-center justify-center my-4 border-t border-gray-300" x-data="beer()" x-init="start()">
-                <div class="p-5 lg:p-12 bg-white">
-                    <h1 class="lg:text-5xl text-center mb-3 text-blue-800">FULL PAPER SUBMISSION ENDS IN</h1>
-                    <div class="lg:text-6xl text-center flex w-full items-center justify-center">
-                        <div class="lg:w-24 mx-1 p-2 border border-gray-300 text-error rounded-lg">
-                            <div class="font-mono leading-none" x-text="days">00</div>
-                            <div class="font-mono uppercase text-sm leading-none">Days</div>
-                        </div>
-                        <div class="lg:w-24 mx-1 p-2 border border-gray-300 text-error bg-white rounded-lg">
-                            <div class="font-mono leading-none" x-text="hours">00</div>
-                            <div class="font-mono uppercase text-sm leading-none">Hours</div>
-                        </div>
-                        <div class="lg:w-24 mx-1 p-2 border border-gray-300 text-error bg-white rounded-lg">
-                            <div class="font-mono leading-none" x-text="minutes">00</div>
-                            <div class="font-mono uppercase text-sm leading-none">Minutes</div>
-                        </div>
-                        <div class="lg:w-24 mx-1 p-2 border border-gray-300 bg-white text-error rounded-lg">
-                            <div class="font-mono leading-none" x-text="seconds">00</div>
-                            <div class="font-mono uppercase text-sm leading-none">Seconds</div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </section>
         <section class="flex flex-col card-body">
             <h2 class="card-title text-3xl">Conference Organizers</h2>

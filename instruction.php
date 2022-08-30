@@ -64,7 +64,7 @@
                         <tbody>
                             <tr>
                                 <th>Full Paper Submission</th>
-                                <td class="font-bold text-primary"><span class="text-red-500 animate-pulse italic">Extended</span> August 31, 2022</td>
+                                <td class="font-bold text-primary"><span class="text-red-500 animate-pulse italic">Final Extension</span> September 20, 2022</td>
                             </tr>
                             <tr>
                                 <th>Notification of Acceptance</th>
@@ -75,11 +75,15 @@
                                 <td class="font-bold text-primary">October 25, 2022</td>
                             </tr>
                             <tr>
+                                <th>Camera Ready Paper Submission</th>
+                                <td class="font-bold text-primary">November 01, 2022</td>
+                            </tr>
+                            <tr>
                                 <th>Link for Paper Submission</th>
                                 <td class="font-bold text-primary">
                                     Authors should submit
                                     their papers online
-                                    <a href="https://www.edas.info/index.php?c=29278" target="_blank" class="font-bold underline">here</a>.</span><br />
+                                    <a href="https://www.edas.info/index.php?c=29278" target="_blank" class="font-bold underline" style="color:blue">here</a>.</span><br />
                                     Unregistered authors<br />
                                     should first create an account on EDAS to log on.
                                 </td>

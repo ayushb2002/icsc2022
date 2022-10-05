@@ -64,7 +64,7 @@
                         <tbody>
                             <tr>
                                 <th>Full Paper Submission</th>
-                                <td class="font-bold text-primary"><span class="text-red-500 animate-pulse italic">Final Extension</span> September 20, 2022</td>
+                                <td class="font-bold text-primary"><s>September 20, 2022</s></td>
                             </tr>
                             <tr>
                                 <th>Notification of Acceptance</th>

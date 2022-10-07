@@ -21,7 +21,7 @@
         <section>
             <div class="grid grid-cols-6 dark:">
                 <div class="col-span-6 flex justify-center p-5">
-                    <span class="dark: font-bold text-3xl capitalize">Guidline to authors</span>
+                    <span class="dark: font-bold text-3xl capitalize">Guidelines to authors</span>
                 </div>
                 <div class="col-span-6 lg:col-start-2 lg:col-span-3 lg:m-5">
                     <ul class="list-decimal text-justify p-5">
@@ -40,7 +40,7 @@
                             <span class="text-primary font-bold">
                                 Authors are instructed to submit their paper via EDAS submission system.
                                 Authors need to upload the details of all co-authors on the
-                                <a href='https://edas.info/N29278' target="_blank" class="underline">EDAS (https://edas.info/N29278)</a> portal in the same
+                                <a href='#' class="underline" style="color:gray">EDAS</a> portal in the same
                                 order as they appear in the paper. Failing so may lead to rejection of the paper.
                             </span>
                         </li><br>

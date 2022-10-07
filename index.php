@@ -81,7 +81,7 @@
                     </ol>
                 </div>
                 <div class="card-body text-justify">
-                    <h2 class="card-title text-2xl font-bold">Important Dates</h2>
+                    <h2 class="card-title text-2xl font-bold">Important Deadlines</h2>
                     <hr>
                     <table class="table table-compact w-full">
                         <tbody>
@@ -91,20 +91,20 @@
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 10, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 15, 2022</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Registration</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 25, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 31, 2022</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Camera Ready Paper Submission</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">November 1, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl">November 5, 2022</td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Link to paper submission</td>
                                 <td class="rounded text-primary font-bold text-sm md:text-xl">
-                                    <a href="https://edas.info/N29278" target="_blank"><span class="rounded text-primary font-bold">EDAS</span></a>
+                                    <span class="rounded font-bold" style="color:gray">EDAS</span>
                                 </td>
                             </tr>
                         </tbody>

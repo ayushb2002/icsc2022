@@ -25,12 +25,14 @@
 
                     <div class="grid grid-rows-2 lg:grid-cols-2">
                         <div class="flex justify-center my-2">
-                            <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
+                            <a class="btn btn-warning mx-auto" href="resources/Registration form 2022.pdf"
+                                download="Registration Form 2022">
                                 Registration Form Download
                             </a>
                         </div>
                         <div class="flex justify-center my-2">
-                            <a class="btn btn-warning mx-auto" href="https://forms.gle/VrqDoVzG9GVgqC3E9" disabled>
+                            <a class="btn btn-warning mx-auto" href="https://forms.gle/7XGbA6V29NQCMAEh7"
+                                target="_blank">
                                 Register Now
                             </a>
                         </div>
@@ -38,14 +40,16 @@
 
                     <div class="divider"></div>
 
-                    <span class="font-bold text-justify">It is mandatory for at least one author of an accepted paper to register for
+                    <span class="font-bold text-justify">It is mandatory for at least one author of an accepted paper to
+                        register for
                         the paper to appear in the proceedings and included in the Technical Program. The registered
                         author must present the paper in the conference for getting the paper to be published in IEEE
                         Xplore. Otherwise the paper will be removed from the conference proceedings. </span><br><br>
 
                     <div class="divider"></div>
 
-                    <span class="font-bold text-2xl text-primary text-center mx-auto uppercase animate-pulse">Conference will be held in online mode.</span>
+                    <span class="font-bold text-2xl text-primary text-center mx-auto uppercase animate-pulse">Conference
+                        will be held in online mode.</span>
                     <div class="divider"></div>
                     <div class="overflow-x-auto">
                         <table class="table table-normal table-compact mx-auto text-center table-zebra">
@@ -89,7 +93,8 @@
 
                             <tr>
                                 <td class="font-bold" colspan="5">
-                                    Co-Authors (If main author is already registered and Co-Author also wants to register)
+                                    Co-Authors (If main author is already registered and Co-Author also wants to
+                                    register)
                                 </td>
 
                             </tr>
@@ -170,64 +175,78 @@
                     </div>
                     <br>
 
-                    <!-- <span class="text-2xl font-bold py-12">Registration Instructions</span>
+                    <span class="text-2xl font-bold py-12">Registration Instructions</span>
                     <br> <br>
                     <div class="p-5">
                         <ul class="list-disc text-justify">
 
-                            <li class="my-2">Kindly download and fill the <b><a href="#" disabled>Registration Form</a></b> and
-                                complete your registration through <b><a href="#">Register Now</a></b>, irrespective of
+                            <li class="my-2">Kindly download and fill the <b><a
+                                        href="resources/Registration form 2022.pdf"
+                                        download="Registration Form 2022">Registration Form</a></b> and
+                                complete your registration through <b><a href="https://forms.gle/7XGbA6V29NQCMAEh7"
+                                        target="_blank">Register Now</a></b>, irrespective of
                                 the mode of payment. </li>
-                            <li class="my-2">Kindly ensure that the Remitter's (Participant/Author) name and the Purpose of
-                                remittance (Registration Fees) are clearly mentioned by the Remitter in the Funds
-                                Transfer Application.</li>
-                            <li class="my-2">All bank charges foreign/inland in connection with the registration fee remittance will
+                            <li class="my-2">Kindly ensure that the Remitter's (Participant/Author) name and the
+                                Purpose of remittance (Registration Fees) are clearly mentioned by the Remitter in the
+                                Funds Transfer Application.</li>
+                            <li class="my-2">All bank charges foreign/inland in connection with the registration fee
+                                remittance will
                                 be to the account of the Remitter. Shortage in the prescribed Fee amount (if any), on
                                 account of bank charges/short remittance received or credited to the Institute's account
                                 shall be borne by the Remitter. </li>
-                            <li class="my-2">Papers must be strictly checked through <b><a href="https://ieee-pdf-express.org">IEEE
-                                        PDF express (Conference ID: 53193X)</a></b></b>. Final paper checked through
-                                IEEE pdf express must be uploaded through <b><a href="#">Register Now</a></b>. </li>
-                            <li class="my-2">The electronic IEEE Copyright Form (eCF) will be used to transfer the copyright to IEEE.
+                            <li class="my-2">Papers must be strictly checked through <b><a
+                                        href="https://ieee-pdf-express.org">IEEE
+                                        PDF express (Conference ID: 56524X)</a></b></b>. Final paper checked through
+                                IEEE pdf express must be uploaded through <b><a href="https://forms.gle/7XGbA6V29NQCMAEh7" target="_blank">Register Now</a></b>. </li>
+                            <li class="my-2">The electronic IEEE Copyright Form (eCF) will be used to transfer the
+                                copyright to IEEE.
                                 <b>The corresponding author will receive the link of eCF on registered email ID. </b>
                             </li>
-                            <li class="my-2">For any query/help regarding registration, please feel free to contact <b>Dr. Ashish
+                            <li class="my-2">For any query/help regarding registration, please feel free to contact
+                                <b>Dr. Ashish
                                     Goel</b> at <b>ashish.goel@mail.jiit.ac.in.</b></li>
-                        </ul>
-
-                    </div> -->
-
-                    <span class="text-2xl text-center font-bold">Additional Instructions for Co-Authors/Non-Author participants:-</span>
-                    <div class="text-justify p-5">
-                        <ul class="list-disc">
-                            <li class="my-2">In a paper with more than one author, all authors cannot register as "Co-Authors". </li>
-                            <li class="my-2">One of the authors must pay full registration fee, while others can avail Co-Author
-                                discount.</li>
-                            <li class="my-2">Co-Author registration discount can be availed only after one of the authors has
-                                successfully registered with full registration fee. </li>
-                            <li class="my-2">Co-Authors who wish to avail registration discount have to compulsorily indicate fee
-                                payment details of first author. </li>
-                            <li class="my-2">Other interested participants can also attend the conference by registering them under
-                                separate category of non-author participants.</li>
-                            <li class="my-2">Authors claiming discounted registration fee must produce valid proof for availing the
-                                discounted fee (copy of student matriculation card, IEEE membership card/JIIT alumni
-                                card must be submitted). </li>
                         </ul>
 
                     </div>
 
-                    <p class="text-justify my-5 font-bold">REGISTRATION FEE DOES NOT INCLUDE ACCOMMODATION. PARTICIPANTS NEED
-                        TO MAKE THEIR OWN ACCOMMODATION ARRANGEMENTS. INFORMATION REGARDING NEARBY HOTELS AND THEIR
-                        CONTACT DETAILS ARE AVAILABLE ON THE WEBSITE.</p>
+                    <span class="text-2xl text-center font-bold">Additional Instructions for Co-Authors/Non-Author
+                        participants:-</span>
+                    <div class="text-justify p-5">
+                        <ul class="list-disc">
+                            <li class="my-2">In a paper with more than one author, all authors cannot register as
+                                "Co-Authors". </li>
+                            <li class="my-2">One of the authors must pay full registration fee, while others can avail
+                                Co-Author
+                                discount.</li>
+                            <li class="my-2">Co-Author registration discount can be availed only after one of the
+                                authors has
+                                successfully registered with full registration fee. </li>
+                            <li class="my-2">Co-Authors who wish to avail registration discount have to compulsorily
+                                indicate fee
+                                payment details of first author. </li>
+                            <li class="my-2">Other interested participants can also attend the conference by registering
+                                them under
+                                separate category of non-author participants.</li>
+                            <li class="my-2">Authors claiming discounted registration fee must produce valid proof for
+                                availing the
+                                discounted fee (copy of student matriculation card, IEEE membership card must be submitted). </li>
+                        </ul>
+
+                    </div>
 
                     <span class="text-2xl text-center font-bold">Instructions for Fee Payment</span>
                     <div class="p-5 text-justify">
                         <ul class="list-disc">
-                            <li class="my-2">Authors/Participants have to register in order to attend the conference. </li>
-                            <li class="my-2">For each accepted paper, it is mandatory for at least one author to register to include
+                            <li class="my-2">Authors/Participants have to register in order to attend the conference.
+                            </li>
+                            <li class="my-2">For each accepted paper, it is mandatory for at least one author to
+                                register to include
                                 their paper in conference.</li>
                             <li class="my-2">Authors/participants are also required to complete the registration through
-                                <a href="#" target="_blank" class="font-bold">Register Now</a></b>.
+                                <a href="https://forms.gle/7XGbA6V29NQCMAEh7" target="_blank" class="font-bold">Register Now</a></b>.
+                            </li>
+                            <li class="my-2">
+                            Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 31st October, 2022.
                             </li>
                         </ul>
 
@@ -304,8 +323,8 @@
                         </div>
                         <p class="font-bold">1. For ICICI Bank user, add payee under "Other Banks".</p>
                         <p class="font-bold">2. UPI payment through Wallet (Phonepe, paytm etc) not applicable. </p>
-                        <p class="font-bold">3. For any query mail to <a href="mailto:fees@jiit.ac.in">fees@jiit.ac.in</a></p>
-                        <!-- <div class="divider"></div>
+                        <p class="font-bold">3. For any query mail to fees@jiit.ac.in with a copy to icsc@jiit.ac.in</p>
+                        <div class="divider"></div>
                         <span class="font-bold text-2xl">Wire Transfer (outside India)</span>
                         <div class="divider"></div>
                         <span class="text-justify">The Participant/Author can pay the registration fee through Fund
@@ -346,11 +365,11 @@
                         <span class="text-xl text-justify font-bold my-2">Note:-</span>
                         <br><br>
                         <p class="text-justify my-2">• Swift Copy (Wire transfer advice/MT103) should be sent by email
-                            at <b>fees@jiit.ac.in </b> for information of the Institute.</p>
+                            at <b>fees@jiit.ac.in </b> with a copy to <b>icsc@jiit.ac.in</b> for information of the Institute.</p>
                         <p class="text-justify my-2">• All banks charges in foreign and in India, in connection with
                             the remittance will be charged to the account of the Remitter. Any shortage in the
                             prescribed fees amount, on account of bank charges credited to the Institute’s A/c shall be
-                            borne by the remitter.</p> -->
+                            borne by the remitter.</p>
 
                         <br><br>
 
@@ -364,4 +383,5 @@
             <?php include 'footer.php' ?>
         </section>
     </div>
+
 </html>

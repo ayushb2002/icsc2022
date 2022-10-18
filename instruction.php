@@ -75,10 +75,6 @@
                                 <td class="font-bold text-primary">October 31, 2022</td>
                             </tr>
                             <tr>
-                                <th>Camera Ready Paper Submission</th>
-                                <td class="font-bold text-primary">November 05, 2022</td>
-                            </tr>
-                            <tr>
                                 <th>Link for Paper Submission</th>
                                 <td class="font-bold" class="color:grey">
                                     Closed

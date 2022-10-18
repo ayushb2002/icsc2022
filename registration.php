@@ -40,11 +40,9 @@
 
                     <div class="divider"></div>
 
-                    <span class="font-bold text-justify">It is mandatory for at least one author of an accepted paper to
-                        register for
-                        the paper to appear in the proceedings and included in the Technical Program. The registered
-                        author must present the paper in the conference for getting the paper to be published in IEEE
-                        Xplore. Otherwise the paper will be removed from the conference proceedings. </span><br><br>
+                    <span class="font-bold text-justify">
+                    At least one author of every accepted paper is mandatorily required to register before given deadline. The registered author must present the paper in the Conference. All the registered and presented papers will be published in IEEE Xplore Digital Library (Indexed by Scopus).
+                    </span><br><br>
 
                     <div class="divider"></div>
 
@@ -55,10 +53,10 @@
                         <table class="table table-normal table-compact mx-auto text-center table-zebra">
                             <tr class="font-bold">
                                 <td></td>
-                                <td>
+                                <td colspan="2">
                                     Indian Participants
                                 </td>
-                                <td>
+                                <td colspan="2">
                                     Foreign Participants
                                 </td>
                             </tr>
@@ -137,7 +135,7 @@
                             </tr>
                             <tr>
                                 <td class="font-bold">
-                                    Academicians/<br />R&D Professionals <br>(1 Days Registration)
+                                    Academicians/<br />R&D Professionals <br>(1 Day Registration)
                                 </td>
                                 <td> INR 2000</td>
                                 <td> INR 2500</td>
@@ -166,17 +164,19 @@
                                     Sponsors
                                 </td>
                                 <td colspan="4">
-                                    INR 50000/- and more entitles for 4 free registrations.
+                                Sponsorship of INR 50000/- and more. <br/>
+                                Sponsors will be entitled for 4 free registrations under non-author participant category.
                                 </td>
                             </tr>
-
 
                         </table>
                     </div>
                     <br>
-
+                    <span class="text-lg font-bold py-2">
+                        NOTE: Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 31 October, 2022.
+                    </span><br/><br/>
                     <span class="text-2xl font-bold py-12">Registration Instructions</span>
-                    <br> <br>
+                    <br>
                     <div class="p-5">
                         <ul class="list-disc text-justify">
 
@@ -189,18 +189,16 @@
                             <li class="my-2">Kindly ensure that the Remitter's (Participant/Author) name and the
                                 Purpose of remittance (Registration Fees) are clearly mentioned by the Remitter in the
                                 Funds Transfer Application.</li>
-                            <li class="my-2">All bank charges foreign/inland in connection with the registration fee
-                                remittance will
-                                be to the account of the Remitter. Shortage in the prescribed Fee amount (if any), on
-                                account of bank charges/short remittance received or credited to the Institute's account
-                                shall be borne by the Remitter. </li>
+                            <li class="my-2">
+                            Authors claiming discounted registration fee must produce valid proof for availing the discounted fee (copy of student matriculation card, IEEE membership card must be submitted)
+                            </li>
                             <li class="my-2">Papers must be strictly checked through <b><a
                                         href="https://ieee-pdf-express.org">IEEE
                                         PDF express (Conference ID: 56524X)</a></b></b>. Final paper checked through
                                 IEEE pdf express must be uploaded through <b><a href="https://forms.gle/7XGbA6V29NQCMAEh7" target="_blank">Register Now</a></b>. </li>
                             <li class="my-2">The electronic IEEE Copyright Form (eCF) will be used to transfer the
                                 copyright to IEEE.
-                                <b>The corresponding author will receive the link of eCF on registered email ID. </b>
+                                <b>The corresponding author/registered author will receive the link of eCF on registered email ID. </b>
                             </li>
                             <li class="my-2">For any query/help regarding registration, please feel free to contact
                                 <b>Dr. Ashish
@@ -227,31 +225,15 @@
                             <li class="my-2">Other interested participants can also attend the conference by registering
                                 them under
                                 separate category of non-author participants.</li>
-                            <li class="my-2">Authors claiming discounted registration fee must produce valid proof for
+                            <li class="my-2">
+                                Co-Authors/Non-Author participants claiming discounted registration fee must produce valid proof for
                                 availing the
                                 discounted fee (copy of student matriculation card, IEEE membership card must be submitted). </li>
                         </ul>
 
                     </div>
 
-                    <span class="text-2xl text-center font-bold">Instructions for Fee Payment</span>
-                    <div class="p-5 text-justify">
-                        <ul class="list-disc">
-                            <li class="my-2">Authors/Participants have to register in order to attend the conference.
-                            </li>
-                            <li class="my-2">For each accepted paper, it is mandatory for at least one author to
-                                register to include
-                                their paper in conference.</li>
-                            <li class="my-2">Authors/participants are also required to complete the registration through
-                                <a href="https://forms.gle/7XGbA6V29NQCMAEh7" target="_blank" class="font-bold">Register Now</a></b>.
-                            </li>
-                            <li class="my-2">
-                            Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 31st October, 2022.
-                            </li>
-                        </ul>
-
-                    </div>
-                    <br>
+                    
 
                     <span class="text-3xl text-center font-bold">Payment Modes</span>
                     <br>
@@ -265,7 +247,7 @@
 
                     <div class="divider"></div>
 
-                    <h3 style="text-align:justify">The Participant/Author can pay the registration fee through Fund
+                    <h3 style="text-align:justify">The Participants/Authors can pay the registration fee through Fund
                         Transfer. The Fund Transfer must be made to the following Account details.
                         <br>
                         <br>
@@ -327,14 +309,14 @@
                         <div class="divider"></div>
                         <span class="font-bold text-2xl">Wire Transfer (outside India)</span>
                         <div class="divider"></div>
-                        <span class="text-justify">The Participant/Author can pay the registration fee through Fund
+                        <span class="text-justify">The Participants/Authors can pay the registration fee through Fund
                             Transfer. The Fund Transfer must be made to the following Account details.</span>
                         <br><br>
                         <table class="table table-normal table-zebra text-justify w-full break-all my-5">
                             <tr>
                                 <td>1.</td>
-                                <td class="break-all"> <p> Correspondent Bank Name & Address/Swift Code of the <br> Correspondent Bank (Field 56A of Swift) </p></td>
-                                <td class="break-all"> <p> CITI BANK NEW YORK, USA, SWIFT CODE: CITIUS33XXX </p></td>
+                                <td class="break-all"> <p> Correspondent Bank Name & Address/<br/>Swift Code of the Correspondent Bank (Field 56A of Swift) </p></td>
+                                <td class="break-all"> <p> CITI BANK NEW YORK, USA, <br/>SWIFT CODE: CITIUS33XXX </p></td>
 
                             </tr>
                             <tr>
@@ -342,21 +324,21 @@
                                 <td class="break-all"> <p> Swift Code & Account No. of IDBI Bank with <br>
                                     Correspondence Bank (Field 57A of Swift)</p>
                                 </td>
-                                <td> <p> IDBI Bank Ltd, SWIFT CODE: IBKLINBBA83, Pacific Business Park, 1st Floor, Plot No.
-                                    37/1, <br> Dr. Burman Marg, Sahibabad (U.P.), Ghaziabad-201010. </p></td>
+                                <td> <p> IDBI Bank Ltd, SWIFT CODE: IBKLINBBA83, Pacific<br> Business Park, 1st Floor, Plot No.
+                                    37/1, <br> Dr. Burman Marg, Sahibabad (U.P.), <br>Ghaziabad-201010. </p></td>
 
                             </tr>
                             <tr>
                                 <td>3.</td>
                                 <td> <p> Beneficiary Details (Field 59 of Swift) </p></td>
-                                <td> <p> Jaypee Institute of Information Technology, Account No:0200104000323550 <br> (IDBI Bank
+                                <td> <p> Jaypee Institute of Information Technology, <br/>Account No:0200104000323550 <br> (IDBI Bank
                                     Ltd., Sector-63, Noida, U.P., India) </p></td>
 
                             </tr>
                             <tr>
                                 <td>4.</td>
                                 <td> <p> Purpose (Field 70 of Swift) </p></td>
-                                <td> <p> Educational Fees, ICSE-2022 <br> (Mention Participant’s Name, Reference no. as well as
+                                <td> <p> Educational Fees, ICSC 2022 <br> (Mention Participant’s Name, Reference  no. <br/> as well as
                                     Remitter’s Name)</p></td>
 
                             </tr>

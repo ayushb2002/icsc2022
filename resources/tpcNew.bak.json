@@ -1,0 +1,734 @@
+[
+   {
+    "name": "Dr. Aashish Mathur, Indian Institute of Technology, Jodhpur"
+   },
+   {
+    "name": "Dr. Abhishek Kashyap, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Abu Nasar Ghazali, Kalinga Institute of Industrial Technology University,Bhubaneswar"
+   },
+   {
+    "name": "Dr. Adesh Kumar, University of Petroleum and Energy, Dehradun, India"
+   },
+   {
+    "name": "Dr. Aditya Jain,  Symbiosis International Deemed University, Pune"
+   },
+   {
+    "name": "Dr. Ajay Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Ajay Verma, Hindustan Institute of Technology and Management, Agra"
+   },
+   {
+    "name": "Dr. Akansha Bansal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Alok Joshi, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Amit Goyal, King Abdullah University of Science and Technology, Saudi Arabia"
+   },
+   {
+    "name": "Dr. Anand Nayyar, Duy Tan University, Vietnam"
+   },
+   {
+    "name": "Dr. Anil Bhardwaj, Shri Mata Vaishno Devi University, Katra, Jammu and Kashmir"
+   },
+   {
+    "name": "Dr. Anil Dubey, Greater Noida Institute of Technology, Greater Noida"
+   },
+   {
+    "name": "Dr. Anil Kumar, Chandigarh College of Engineering and Technology, Chandigarh"
+   },
+   {
+    "name": "Dr. Anil Shukla, Amity University, Noida"
+   },
+   {
+    "name": "Dr. Anitha J, Karunya Institute of Technology and Sciences,Coimbatore"
+   },
+   {
+    "name": "Dr. Anju Asokan, Karunya Institute of Technology and Sciences,  Coimbatore, Tamil Nadu"
+   },
+   {
+    "name": "Dr. Ankur Gupta, IIT Delhi, New Delhi"
+   },
+   {
+    "name": "Dr. Anshu Varshney, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Antriksh Goswami, Indian Institute of Information Technology Vadodara,Gandhinagar"
+   },
+   {
+    "name": "Dr. Anuradha Pughat, DST, Ministry of Science and Technology, New Delhi"
+   },
+   {
+    "name": "Dr. Anurag Baghel, Gautam Buddha University, Greater Noida, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Archana Pandey, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Arti Noor, Centre for Development of Advanced Computing, Noida"
+   },
+   {
+    "name": "Dr. Arun Kumar, National Institute of Technology, Rourkela"
+   },
+   {
+    "name": "Dr. Arun Sharma, Indira Gandhi Delhi Technical University for Women, Delhi"
+   },
+   {
+    "name": "Dr. Arun Sinha, Vellore Institute of Technology, Andhrapradesh"
+   },
+   {
+    "name": "Dr. Aruna Tyagi, Ajay Kumar Garg Engineering College,Ghaziabad"
+   },
+   {
+    "name": "Dr. Ashish Goel, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Ashish Gupta, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Ashish Pandey, National Institute of Technology, Silchar"
+   },
+   {
+    "name": "Dr. Ashutosh Sharma, Southern Federal University: Rostov-on-Don, RUSSIA"
+   },
+   {
+    "name": "Dr. Astha Sharma, GL Bajaj Institute of Technology and Management, Greater Noida"
+   },
+   {
+    "name": "Dr. Atul Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Baibaswata Mohapatra, Galgotias University, Noida"
+   },
+   {
+    "name": "Dr. Bajrang Bansal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Baljit Kaur,National Institute of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Balwinder Raj, NITTTR, Chandigarh"
+   },
+   {
+    "name": "Dr. Bhagirath Sahu, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Bharat Gupta, National Institute of Technology, Patna"
+   },
+   {
+    "name": "Dr. Bhartendu Chaturvedi, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Brahmjit Singh, National Institute of Technology, Kurukshetra"
+   },
+   {
+    "name": "Dr. Brijesh Kumbhani, IIT Ropar,Rupnagar, Punjab"
+   },
+   {
+    "name": "Dr. Buddha Singh, Jawaharlal Nehru University, New Delhi"
+   },
+   {
+    "name": "Dr. C Markan, Dayalbagh Educational Institute, Agra"
+   },
+   {
+    "name": "Dr. Chandan Kumar, IET, Dr. Ram Manohar Lohia Awadh University, Ayodhya"
+   },
+   {
+    "name": "Dr. Chandra Shankar, JSS Academy of Technical Education, Noida,"
+   },
+   {
+    "name": "Dr. Charu Gandhi, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Chhaya Dalela, J.S.S. Academy of Technical Education, Noida"
+   },
+   {
+    "name": "Dr. Chitrakant Sahu, Malaviya National Institute of Technology, Jaipur"
+   },
+   {
+    "name": "Dr. Danilo Pelusi, University of Teramo, Italy"
+   },
+   {
+    "name": "Dr. Deepak Agrawal, Aligarh Muslim University, Aligarh"
+   },
+   {
+    "name": "Dr. Deepali Sharma, Guru Tegh Bahadur Institute of Technology, New Delhi"
+   },
+   {
+    "name": "Dr. Dharmendra Jhariya, National Institute of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Dharmendra Kumar, M M M University of Technology, Gorakhpur"
+   },
+   {
+    "name": "Dr. Dharmveer Rajpoot, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Dilbag Singh, NIT Jalandhar,Jalandhar,Punjab"
+   },
+   {
+    "name": "Dr. Dinesh Bisht, Jaypee Institute of Information and Technology, Noida"
+   },
+   {
+    "name": "Dr. Dushantha Nalin K. Jayakody, Universidade Lusófona, Portugal"
+   },
+   {
+    "name": "Dr. Ekta Goel, National Institute of Technology, Warangal"
+   },
+   {
+    "name": "Dr. Emjee Puthooran, Jaypee University of Information Technology, Waknaghat"
+   },
+   {
+    "name": "Dr. Garima Kapur, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Gaurav Khanna, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Gaurav Verma, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Gayatri Sakya, JSS Academy of Technical Education,Noida"
+   },
+   {
+    "name": "Dr. Geetanjali Rathee, Netaji Subhas University of Technology, Delhi"
+   },
+   {
+    "name": "Dr. George Tsihrintzis, University of Piraeus, Piraeus"
+   },
+   {
+    "name": "Dr. Ghanshyam Singh, Malaviya National Institute of Technology, Jaipur"
+   },
+   {
+    "name": "Dr. Gopal Rawat, National Institute of Technology, Hamirpur"
+   },
+   {
+    "name": "Dr. Gurjit Kaur, Delhi Technological University, Delhi"
+   },
+   {
+    "name": "Dr. Harsh Sohal, Jaypee University of Information Technology, Waknaghat"
+   },
+   {
+    "name": "Dr. Hem Dutt Joshi, Thapar Institute of Engineering and Technology, Patiala"
+   },
+   {
+    "name": "Dr. Hemant Choubey, Maulana Azad National Institute of Technology, Bhopal"
+   },
+   {
+    "name": "Dr. Hemant Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Hemraj Saini,  DIT University, Dehradun"
+   },
+   {
+    "name": "Dr. Himani Garg, ABES Engineering College, Ghaziabad"
+   },
+   {
+    "name": "Dr. Himanshu Mittal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Imran Khan, Integral University, Lucknow"
+   },
+   {
+    "name": "Dr. Irshad Ansari, IIITDM, Jabalpur"
+   },
+   {
+    "name": "Dr. Jankiballabh Sharma, Rajasthan Technical University, Kota"
+   },
+   {
+    "name": "Dr. Jasmine Saini, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Jawad Ali, University of Technology - Iraq"
+   },
+   {
+    "name": "Dr. Jaynendra Kumar Rai, Amity University, Noida"
+   },
+   {
+    "name": "Dr. Jibendu Roy,  KIIT University,Bhubaneswar"
+   },
+   {
+    "name": "Dr. Jitendra Kanungo, Jaypee University of Engineering and Technology, Guna"
+   },
+   {
+    "name": "Dr. Jitendra Tamang, Sikkim Manipal Institute of Technology, Majitar, Sikkim"
+   },
+   {
+    "name": "Dr. Juhi Gupta, Jaypee Institute of Information and Technology, Noida"
+   },
+   {
+    "name": "Dr. K. Vimal Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Kalpana Chauhan, Central University of Haryana, Mahendergarh"
+   },
+   {
+    "name": "Dr. Kalpana Sharma, Sikkim Manipal University, Sikkim"
+   },
+   {
+    "name": "Dr. Kalyan Sasidhar, DA-IICT, Gujarat"
+   },
+   {
+    "name": "Dr. Kalyanbrat Medhi, Gauhati University, Gauhati"
+   },
+   {
+    "name": "Dr. Kamalaksha Baral, B V Raju Institute of Technology, Narsapur"
+   },
+   {
+    "name": "Dr. Kapil Dev Tyagi, Jaypee Institute of Information Technology,  Noida"
+   },
+   {
+    "name": "Dr. Kaushal Nigam, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Kirti Tripathi, Galgotias College of Engineering and Technology, Greater Noida"
+   },
+   {
+    "name": "Dr. Krishna Meel, B K Birla Institute of Engineering & Technology, Pilani"
+   },
+   {
+    "name": "Dr. Kuldeep Baderia, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Kumar Pradhan, IIITDM, Kancheepuram"
+   },
+   {
+    "name": "Dr. Kumud Jha, Shri Mata Vaishno Devi University, Jammu and Kashmir"
+   },
+   {
+    "name": "Dr. Kushmanda Saurav, Indian Institute of Technology, Jammu,"
+   },
+   {
+    "name": "Dr. M. Ansari, Gautam Buddha University, Greater Noida, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Madhu Jain, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Madhur Upadhayay, Shiv Nadar University, Greater Noida"
+   },
+   {
+    "name": "Dr. Mahima Pandey, Institute of Engineering and Technology, Lucknow"
+   },
+   {
+    "name": "Dr. Maneesh Kumar Singh, Jawaharlal Nehru University (JNU) Delhi"
+   },
+   {
+    "name": "Dr. Manish Goswami, Indian Institute of Information Technology, Allahabad"
+   },
+   {
+    "name": "Dr. Manish Gupta, Dass & Brown World School, Ferozpur"
+   },
+   {
+    "name": "Dr. Manish Tiwari, Manipal University, Jaipur"
+   },
+   {
+    "name": "Dr. Manoj Saxena, Deen Dayal Upadhyaya College, Delhi University, Delhi"
+   },
+   {
+    "name": "Dr. Manoj Singh, Banaras Hindu University, Varanasi, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Maruti Sinha, Medivators, USA"
+   },
+   {
+    "name": "Dr. Mayank Srivastava, National Institute of Technology Jamshedpur,Jamshedpur, Jharkhand"
+   },
+   {
+    "name": "Dr. Meenakshi Sood,NITTTR, Chandigarh"
+   },
+   {
+    "name": "Dr. Megha Agarwal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Mehjabeen Fatima, Sagar Institute of Research & Technology, Bhopal"
+   },
+   {
+    "name": "Dr. Mitul Ahirwal, Maulana Azad Natioanl Institute of Technology Bhopal"
+   },
+   {
+    "name": "Dr. Mohammad Junaid Khan, Mewat Engineering College, Nuh, Haryana"
+   },
+   {
+    "name": "Dr. Mohammed Ali, Osmania University, Hyderabad"
+   },
+   {
+    "name": "Dr. Mohd Ayyub Khan, Aligarh Muslim University, Aligarh, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Mohd Sharique, Aligarh Muslim University, Aligarh, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Mojtaba Noorallahzadeh, Islamic Azad University, Dezful"
+   },
+   {
+    "name": "Dr. Moonis Shakeel, Jamia Millia Islamia, New Delhi"
+   },
+   {
+    "name": "Dr. Mukesh Saraswat, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Muzammil Hussain, Indian Institute of Science, Bangalore"
+   },
+   {
+    "name": "Dr. Nagendra Gajjar, Nirma Univ, Ahmedabad, Gujarat"
+   },
+   {
+    "name": "Dr. Narbada Gupta, Jai Narain College of Technology, Bhopal"
+   },
+   {
+    "name": "Dr. Narendra Beniwal, Bundelkhand Institute of Engineering & Technology, Jhansi"
+   },
+   {
+    "name": "Dr. Narendra Singh, Jaypee University of Engineering and Technology, Guna"
+   },
+   {
+    "name": "Dr. Naushad Alam, Aligarh Muslim University, Aligarh"
+   },
+   {
+    "name": "Dr. Naveen Jaglan, Jaypee University of Information Technology,Waknaghat"
+   },
+   {
+    "name": "Dr. Navneet Sharma, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Neelesh Gupta, Ajay Kumar Garg Engineering College, Ghaziabad"
+   },
+   {
+    "name": "Dr. Neeraj Misra, Bharat Institute of Engineering and Technology, Hyderabad"
+   },
+   {
+    "name": "Dr. Neetu Singh, Bobble AI, Gurugram"
+   },
+   {
+    "name": "Dr. Nikhil Agrawal, IIIT, Nagpur"
+   },
+   {
+    "name": "Dr. Nilesh Srivastava, Madanapalle Institute of Technology, Andhra Pradesh"
+   },
+   {
+    "name": "Dr. Omar Farooq, Aligarh Muslim University, Aligarh"
+   },
+   {
+    "name": "Dr. Pankaj Pal, National Institute of Technology, Uttarakhand"
+   },
+   {
+    "name": "Dr. Pankaj Yadav, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Parul Arora, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Parul Puri, Netaji Subhas University of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Parvin Kaushik, KIET Group of Institutions,  Ghaziabad"
+   },
+   {
+    "name": "Dr. Pascal Lorenz, University of Haute Alsace,MULHOUSE Cedex, France"
+   },
+   {
+    "name": "Dr. Pawan Upadhyay, Jaypee Institute of Information Technology,Noida"
+   },
+   {
+    "name": "Dr. Pinki Dua, Amity University, Noida"
+   },
+   {
+    "name": "Dr. Prabhat Thakur, University of Johannesberg, Johannesburg, South Africa"
+   },
+   {
+    "name": "Dr. Pradeep Kumar Gupta, Jaypee University of Information Technology, Solan, Himachal Pradesh"
+   },
+   {
+    "name": "Dr. Pradeep Kumar, University of Kwazulu-Natal, South Africa"
+   },
+   {
+    "name": "Dr. Prakash Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Prashant Upadhyaya, Chandigarh University, Chandigarh "
+   },
+   {
+    "name": "Dr. Pravin Prajapati, Gujarat Technological University, Gujarat"
+   },
+   {
+    "name": "Dr. Pushpendra Singh, National Institute of Technology, Hamirpur"
+   },
+   {
+    "name": "Dr. Rachna Singh, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Raghvendra Sharma, Amity School of Engineering and Technology, Gwalior"
+   },
+   {
+    "name": "Dr. Rahul Bansal, Ajay Kumar Garg Engineering College, Ghaziabad"
+   },
+   {
+    "name": "Dr. Rahul Kaushik, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Raj Senani, Netaji Subhas University of Technology, New Delhi"
+   },
+   {
+    "name": "Dr. Rajendra Sharma, Faculty of Engineering and Technology Agra College, Agra"
+   },
+   {
+    "name": "Dr. Rajesh Vishwakarma, Jaypee University of Engineering and Technology, Guna"
+   },
+   {
+    "name": "Dr. Raju Pal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Ram Lal Yadava, Galgotias College of Engg. and Technology, Greater Noida"
+   },
+   {
+    "name": "Dr. Ranjeet Kumar, VIT Chennai Campus, Chennai"
+   },
+   {
+    "name": "Dr. Ranu Gupta, Jaypee University of Enginnering and Technology, Guna, MP"
+   },
+   {
+    "name": "Dr. Ravi Gangwar, Indian Institute of Technology(ISM), Dhanbad"
+   },
+   {
+    "name": "Dr. Ravi Panwar, Indian Institute of Information Technology Design and Manufacturing, Jabalpur"
+   },
+   {
+    "name": "Dr. Ravindra Yadav, Raj Kumar Goel Institute of Technology, Ghaziabad"
+   },
+   {
+    "name": "Dr. Reema Budhiraja, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Rehan Muzammil, Aligarh Muslim University, Aligarh"
+   },
+   {
+    "name": "Dr. Richa Gupta, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Richa Srivastava, KIET Group of Institutions, Ghaziabad"
+   },
+   {
+    "name": "Dr. Rinki Gupta, Amity University, Noida"
+   },
+   {
+    "name": "Dr. Rishikesh Pandey, Thapar University, Patiala"
+   },
+   {
+    "name": "Dr. Ritesh Badhai, Birla Institute of Technology, Mesra, Ranchi"
+   },
+   {
+    "name": "Dr. Ruby Beniwal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Ruchi Gupta, Kurukshetra University, Kurukshetra"
+   },
+   {
+    "name": "Dr. S Bonde, SGGS Institute of Engineering & Technology, Nanded"
+   },
+   {
+    "name": "Dr. S. PRATAP SINGH, Galgotia College of Engineering and Techolongy, Greater Noida"
+   },
+   {
+    "name": "Dr. Sajai Vir Singh, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Sajal Agarwal, Rajiv Gandhi Institute of Petroleum Technology,Amethi"
+   },
+   {
+    "name": "Dr. Sam Darshi, Indian Institute of Technology, Ropar"
+   },
+   {
+    "name": "Dr. Sameer Sharma, University of Toronto,Canada"
+   },
+   {
+    "name": "Dr. Samriti Kalia, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Sandeep Kakde, Y C College of Engineering,Nagpur"
+   },
+   {
+    "name": "Dr. Sandeep Kumar,National Institute of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Sandeep Kumar, Central Research Laboratory, Bharat Electronics Ltd.,"
+   },
+   {
+    "name": "Dr. Sandhya Save, University of Mumbai, Mumbai"
+   },
+   {
+    "name": "Dr. Sanjeet Kumar, Birla Institute of Technology, Mesra"
+   },
+   {
+    "name": "Dr. Sanjeev Patel, National Institute of Technology Rourkela"
+   },
+   {
+    "name": "Dr. Sapna Katiyar, ABESIT College Of Engineering, Ghaziabad"
+   },
+   {
+    "name": "Dr. Sarika Pal, National Institute of Technology, Uttrakhand"
+   },
+   {
+    "name": "Dr. Satish Chandra, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Satish Kumar Singh, Bundelkhand Institute of Engineering and Technology, Jhansi"
+   },
+   {
+    "name": "Dr. Satyendra Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Saurabh Chaturvedi, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Savitesh Sharma, Indian Institutes of Technology, Roorkee,"
+   },
+   {
+    "name": "Dr. Shailendra Tripathi, Madanapalle Institute of Technology & Science, Madanapalle"
+   },
+   {
+    "name": "Dr. Shamim Akhter, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Shefali Sharma, Jaypee University of Engineering And Technology, Guna"
+   },
+   {
+    "name": "Dr. Shekhar Verma, Indian Institute of Information Technology, Allahabad"
+   },
+   {
+    "name": "Dr. Shelly Sachdeva, National Institute of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Shikha Jain, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Shikha Tripathi, PES University, Bangalore"
+   },
+   {
+    "name": "Dr. Shivani Verma, Amity School of Engineering and Technology,Noida"
+   },
+   {
+    "name": "Dr. Shrivishal Tripathi, DSPM IIIT Nayaraipur,Atal Nagar,Chhattisgarh"
+   },
+   {
+    "name": "Dr. Shruti Jain, Jaypee University of Information Technology, Waknaghat"
+   },
+   {
+    "name": "Dr. Shruti Kalra, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Shubhankar Majumdar, National Institute of Technology, Meghalaya"
+   },
+   {
+    "name": "Dr. Snehlata Dongre, G. H. Raisoni College of Engineering, Nagpur"
+   },
+   {
+    "name": "Dr. Sonal Singhal, Shiv Nadar University, Greater Noida"
+   },
+   {
+    "name": "Dr. Sreehari Veeramachaneni, Gokaraju Rangaraju Institute of Engineering & Technology, Telangana"
+   },
+   {
+    "name": "Dr. Subodh Singhal,  Jaypee University of Engineering and Technology, Guna"
+   },
+   {
+    "name": "Dr. Subodh Wariya,  Institute of Engineering and Technology, Lucknow"
+   },
+   {
+    "name": "Dr. Suma Dawn, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Suman Kumar, Troy University,Troy, Alabama"
+   },
+   {
+    "name": "Dr. Sunil Pandey, Intel Corporation, Bengaluru"
+   },
+   {
+    "name": "Dr. Sunildatt Sharma, Jaypee University of Information Technology, Waknaghat"
+   },
+   {
+    "name": "Dr. Sunny Sharma,  Indian Institute of Information Technology, Allahabad"
+   },
+   {
+    "name": "Dr. Surya Deo Choudhary, Motihari College of Engineering, Motihari, Bihar"
+   },
+   {
+    "name": "Dr. Tajinder Arora, National Institute of Technology, Uttarakhand"
+   },
+   {
+    "name": "Dr. Tanmai Kulshreshtha, Pranveer Singh Institute of Technology, Kanpur"
+   },
+   {
+    "name": "Dr. Thangalakshmi S, Indian Maritime University Chennai Campus"
+   },
+   {
+    "name": "Dr. Tianhua Xu, Tianjin University, China"
+   },
+   {
+    "name": "Dr. Tribhuwan Tewari,  Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. V Koushick, Vel Tech Rangarajan Dr Sagunthala R&D Institute of Science and Technology Avadi, Chennai"
+   },
+   {
+    "name": "Dr. Vaithiyanathan D, National Institute of Technology, Delhi"
+   },
+   {
+    "name": "Dr. Vandana Niranjan, Indira Gandhi Delhi Technical University for Women, Delhi"
+   },
+   {
+    "name": "Dr. Vangmayee Sharda, Amity University,Noida"
+   },
+   {
+    "name": "Dr. Vedvyas Dwivedi, Indus University, Ahmedabad"
+   },
+   {
+    "name": "Dr. Vijay Khare, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Vikas Baghel, Jaypee University of Information Technology, Waknaghat"
+   },
+   {
+    "name": "Dr. Vikas Goel, Krishna Institute of Engineering and Technology Group of Institutions, Ghaziabad"
+   },
+   {
+    "name": "Dr. Vimal Kumar Mishra, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Vinay Mittal, Indian Institute of Information Technology, Chittoor"
+   },
+   {
+    "name": "Dr. Vineet Khandelwal, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Vineeta Khemchandani, JSS Academy of Technical Education"
+   },
+   {
+    "name": "Dr. Viswas Sadasivan, Amrita Vishwa Vidyapeetham, Amritapuri"
+   },
+   {
+    "name": "Dr. Vivek Dwivedi, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Wriddhi Bhowmik, Haldia Institute of Technology, Haldia, WB"
+   },
+   {
+    "name": "Dr. Yogendra Jain, Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal"
+   },
+   {
+    "name": "Dr. Yogendra Kumar Upadhyaya, Chandigarh University, Punjab"
+   },
+   {
+    "name": "Dr. Yogesh Chauhan, Gautam Buddha University, Greater Noida, Uttar Pradesh"
+   },
+   {
+    "name": "Dr. Yogesh Kumar, Jaypee Institute of Information Technology, Noida"
+   },
+   {
+    "name": "Dr. Yugnanda Malhotra, Bharati Vidyapeeth College of Engineering, Delhi"
+   }
+  ]

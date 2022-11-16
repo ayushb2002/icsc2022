@@ -19,7 +19,7 @@
             <?php include 'navbar.php' ?>
         </section>
         <section>
-            <h1 class="mt-10 mb-10 text-4xl text-center">Keynote Speakers</h1>
+            <h1 class="mt-10 mb-10 text-4xl text-center font-bold">Keynote Speakers</h1>
             <div id="speakerList" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mx-20 gap-4">
 
             </div>

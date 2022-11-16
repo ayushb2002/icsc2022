@@ -52,7 +52,11 @@
                     <h2 class="text-2xl font-bold card-title">Latest News and Announcements</h2>
                     <ol class="flex flex-col space-y-4 mx-8 mt-4 list-decimal">
                     <li class="flex flex-col space-y-1 animate-pulse">
-                            <span class="text-red-500 font-bold">All accepted papers will be included in ICSC 2022 Conference Proceedings. <br> All presented papers will be published in IEEE Xplore Digital Library (Indexed by Scopus).</span>
+                            <span class="text-red-500 font-bold">All accepted papers will be included in ICSC 2022 Conference Proceedings. <br>All the registered and presented papers will be published in IEEE Xplore Digital Library (Indexed by Scopus)</span>
+                        </li>
+                        <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Latest Updates</h6>
+                            <span>Visit our facebook page for latest updates! <a class="text-primary" href="https://www.facebook.com/profile.php?id=100079333816857" target="_blank">HERE</a></span>
                         </li>
                         <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">IEEE Conference Calender</h6>
@@ -91,7 +95,7 @@
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Notification of acceptance</td>
-                                <td class="rounded text-primary font-bold text-sm md:text-xl">October 15, 2022</td>
+                                <td class="rounded text-primary font-bold text-sm md:text-xl"><s>October 15, 2022</s></td>
                             </tr>
                             <tr>
                                 <td class="text-sm md:text-xl">Registration</td>

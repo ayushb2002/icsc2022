@@ -171,10 +171,8 @@
 
                         </table>
                     </div>
-                    <br>
-                    <span class="text-lg font-bold py-2">
-                        NOTE: Late fees of INR 1000/ USD 35 will be applicable additionally for registration done after 31 October, 2022.
-                    </span><br/><br/>
+                    <br/>
+                    <br/>
                     <span class="text-2xl font-bold py-12">Registration Instructions</span>
                     <br>
                     <div class="p-5">

@@ -60,7 +60,7 @@
         </li>
         <li><a href="registration.php">Registration</a></li>
         <li><a href="speakers.php">Speakers</a></li>
-        <li><a href="exhibitors.php">Exhibitors</a></li>
+        <!-- <li><a href="exhibitors.php">Exhibitors</a></li> -->
         <li class="w-[185px] p-0"><a class="w-full" href="tpc.php">Track Chair/TPC</a></li>
         <li><a href="message.php">Message</a></li>
         <li><a href="contact.php">Contact</a></li>
@@ -98,7 +98,7 @@
     </li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="registration.php">Registration</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="speakers.php">Speakers</a></li>
-    <li class="border-l border-white text-xs w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li>
+    <!-- <li class="border-l border-white text-xs w-auto p-0 font-bold uppercase"><a class="w-full" href="exhibitors.php">Exhibitors</a></li> -->
     <li class="border-l border-white text-xs font-bold uppercase"><a href="tpc.php">Track Chairs/TPC</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="message.php">Message</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="contact.php">Contact</a></li>

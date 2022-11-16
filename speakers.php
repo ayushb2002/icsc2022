@@ -9,7 +9,7 @@
     <?php include 'includes.php' ?>
 </head>
 
-<body>
+<body onload="getSpeakerTable();">
     <!-- Navbar begins -->
 
     <!-- Navbar ends -->
@@ -19,10 +19,9 @@
             <?php include 'navbar.php' ?>
         </section>
         <section>
-            <div class="grid grid-cols-4 mx-20 my-36">
-                <div class="col-span-4 text-center">
-                    <span class="dark: text-3xl font-bold animate-pulse">To be updated soon...</span>
-                </div>
+            <h1 class="mt-10 mb-10 text-4xl text-center">Keynote Speakers</h1>
+            <div id="speakerList" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mx-20 gap-4">
+
             </div>
         </section>
         <hr class="w-full" />

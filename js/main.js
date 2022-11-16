@@ -74,11 +74,11 @@ function getOrganizingCommitteeTable() {
       tr.appendChild(td);
 
       var td = document.createElement("td");
-      td.innerHTML = data[i+1][heads[0]];
+      td.innerHTML = data[i + 1][heads[0]];
       tr.appendChild(td);
 
       var td = document.createElement("td");
-      td.innerHTML = data[i+2][heads[0]];
+      td.innerHTML = data[i + 2][heads[0]];
       tr.appendChild(td);
 
       tbody.appendChild(tr);
@@ -87,6 +87,26 @@ function getOrganizingCommitteeTable() {
     table.appendChild(tbody);
     tableContainer.appendChild(table);
   });
+}
+
+function getSpeakerTable() {
+  const speakerContainer = document.getElementById("speakerList");
+  for (let i = 1; i <= 7; i+=2) {
+    let filename1 = `s${i}.jpg`;
+    let filename2 = `s${i+1}.jpg`;
+    const elem1 = document.createElement("img");
+    elem1.src = `img/keynote/${filename1}`;
+    elem1.onclick = (e) => {
+      console.log(e.target.src);
+    };
+    const elem2 = document.createElement("img");
+    elem2.src = `img/keynote/${filename2}`;
+    elem2.onclick = (e) => {
+      console.log(e.target.src);
+    };
+    speakerContainer.appendChild(elem1);
+    speakerContainer.appendChild(elem2);
+  }
 }
 
 function getAdvisoryCommitteeTable() {

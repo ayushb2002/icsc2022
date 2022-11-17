@@ -91,21 +91,31 @@ function getOrganizingCommitteeTable() {
 
 function getSpeakerTable() {
   const speakerContainer = document.getElementById("speakerList");
-  for (let i = 1; i <= 6; i+=2) {
+  for (let i = 1; i <= 6; i += 2) {
     let filename1 = `s${i}.jpg`;
-    let filename2 = `s${i+1}.jpg`;
+    let filename2 = `s${i + 1}.jpg`;
     const elem1 = document.createElement("img");
+    const modal = document.getElementById("imgModal");
+    const modalImg = document.getElementById("img01");
     elem1.src = `img/keynote/${filename1}`;
-    elem1.onclick = (e) => {
-      console.log(e.target.src);
+    elem1.id = i;
+    elem1.onclick = () => {
+      modal.style.display = "block";
+      modalImg.src = elem1.src;
     };
     const elem2 = document.createElement("img");
     elem2.src = `img/keynote/${filename2}`;
-    elem2.onclick = (e) => {
-      console.log(e.target.src);
+    elem2.onclick = () => {
+      modal.style.display = "block";
+      modalImg.src = elem2.src;
     };
     speakerContainer.appendChild(elem1);
     speakerContainer.appendChild(elem2);
+
+    const span = document.getElementsByClassName("close")[0];
+    span.onclick = () => {
+      modal.style.display = "none";
+    };
   }
 }
 
@@ -138,51 +148,3 @@ function getAdvisoryCommitteeTable() {
     tableContainer.appendChild(table);
   });
 }
-
-// function beer() {
-//   return {
-//     seconds: "00",
-//     minutes: "00",
-//     hours: "00",
-//     days: "00",
-//     distance: 0,
-//     countdown: null,
-//     beerTime: new Date("July 31, 2022 00:00:00").getTime(),
-//     now: new Date().getTime(),
-//     start: function () {
-//       this.countdown = setInterval(() => {
-//         // Calculate time
-//         this.now = new Date().getTime();
-//         this.distance = this.beerTime - this.now;
-//         // Set Times
-//         this.days = this.padNum(
-//           Math.floor(this.distance / (1000 * 60 * 60 * 24))
-//         );
-//         this.hours = this.padNum(
-//           Math.floor((this.distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))
-//         );
-//         this.minutes = this.padNum(
-//           Math.floor((this.distance % (1000 * 60 * 60)) / (1000 * 60))
-//         );
-//         this.seconds = this.padNum(
-//           Math.floor((this.distance % (1000 * 60)) / 1000)
-//         );
-//         // Stop
-//         if (this.distance < 0) {
-//           clearInterval(this.countdown);
-//           this.days = "00";
-//           this.hours = "00";
-//           this.minutes = "00";
-//           this.seconds = "00";
-//         }
-//       }, 100);
-//     },
-//     padNum: function (num) {
-//       var zero = "";
-//       for (var i = 0; i < 2; i++) {
-//         zero += "0";
-//       }
-//       return (zero + num).slice(-2);
-//     },
-//   };
-// }

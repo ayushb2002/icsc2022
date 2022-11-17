@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
 <link rel="stylesheet" href="styles/owl.carousel.min.css" />
 <link rel="stylesheet" href="styles/owl.theme.default.min.css" />
+<link rel="stylesheet" href="styles/modalStyle.css" />
 <script src="https://cdn.tailwindcss.com"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <style>

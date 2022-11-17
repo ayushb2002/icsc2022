@@ -23,6 +23,10 @@
             <div id="speakerList" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 mx-20 gap-4">
 
             </div>
+            <div id="imgModal" class="img-modal">
+                <span class="close">&times;</span>
+                <img class="modal-content" id="img01" />
+            </div>
         </section>
         <hr class="w-full" />
         <section>

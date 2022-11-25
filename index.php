@@ -19,9 +19,11 @@
             <!--The conference is technically co-sponsored by IEEE UP Section + Logo-->
             <img src="img/IEEE_up_transparent.png" class="ml-8 w-[16rem] h-[10rem] bg-transparent object-contain" />
         </section>
-        <section class="bg-[url('img/heroImg.jpg')] bg-cover">
-            <div class="owl-carousel owl-theme owl-loaded mx-auto my-auto">
-                <div class="owl-stage-outer">
+        <section class="bg-cover">
+            <img src="img/keynote/allspeakers.jpg" class="object-fit h-full w-full"></img>
+            <!-- <div class=" owl-loaded mx-auto my-auto">  -->
+                <!-- <img src="img/keynote/allspeakers.jpg" class="h-[20vh] lg:h-[40vh] w-full object-fit" /> -->
+                <!-- <div class="owl-stage-outer">
                     <div class="owl-stage">
                         <div class="owl-item"><img src="img/slider/1.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                         <div class="owl-item"><img src="img/slider/2.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
@@ -43,7 +45,8 @@
                         <div class="owl-item"><img src="img/slider/18.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                         <div class="owl-item"><img src="img/slider/19.jpg" class="h-[20vh] lg:h-[40vh] w-full object-cover" /></div>
                     </div>
-                </div>
+                </div> -->
+                <img />
             </div>
         </section>
         <section class="border-b border-gray-300">

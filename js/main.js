@@ -91,7 +91,7 @@ function getOrganizingCommitteeTable() {
 
 function getSpeakerTable() {
   const speakerContainer = document.getElementById("speakerList");
-  for (let i = 1; i <= 6; i += 2) {
+  for (let i = 1; i <= 9; i += 2) {
     let filename1 = `s${i}.jpg`;
     let filename2 = `s${i + 1}.jpg`;
     const elem1 = document.createElement("img");

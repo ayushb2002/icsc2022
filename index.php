@@ -58,6 +58,10 @@
                             <span class="text-red-500 font-bold">All accepted papers will be included in ICSC 2022 Conference Proceedings. <br>All the registered and presented papers will be published in IEEE Xplore Digital Library (Indexed by Scopus)</span>
                         </li>
                         <li class="flex flex-col space-y-1">
+                            <h6 class="font-bold text-lg">Program Plan</h6>
+                            <span>For more details, please click <a href="resources/17-22 Session  plan_ICSC 2022.pdf" download="17-22_Session_plan_ICSC_2022.pdf" class="text-primary">here</a></span>
+                        </li>
+                        <li class="flex flex-col space-y-1">
                             <h6 class="font-bold text-lg">Latest Updates</h6>
                             <span>Visit our facebook page for latest updates! <a class="text-primary" href="https://www.facebook.com/profile.php?id=100079333816857" target="_blank">HERE</a></span>
                         </li>

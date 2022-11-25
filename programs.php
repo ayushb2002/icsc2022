@@ -21,7 +21,7 @@
         <section>
             <div class="grid grid-cols-4 mx-20 my-36">
                 <div class="col-span-4 text-center">
-                    <span class="dark: text-3xl font-bold animate-pulse">To be updated soon...</span>
+                    <span class="text-2xl">Download Program Plan <a href="resources/17-22 Session  plan_ICSC 2022.pdf" download="17-22_Session_plan_ICSC_2022.pdf" class="text-blue-600 hover:underline">here</a></span>
                 </div>
             </div>
         </section>

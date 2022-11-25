@@ -48,15 +48,11 @@
             <ul class="bg-blue-600 p-2">
                 <li><a href="advisory.php">Advisory <br> Committee</a></li>
                 <li><a href="organizing.php">Organizing <br> Committee</a></li>
-                <!-- <li><a href="tpc.php">Technical Program <br> Committee</a></li> -->
+                <li><a href="oversight.php">IEEE Oversight <br> Committee</a></li>
             </ul>
         </li>
         <li tabindex="0">
             <a href="programs.php">Program</a>
-            <!-- <ul class="bg-blue-600 p-2">
-                <li><a>Submenu 1</a></li>
-                <li><a>Submenu 2</a></li>
-            </ul> -->
         </li>
         <li><a href="registration.php">Registration</a></li>
         <li><a href="speakers.php">Speakers</a></li>
@@ -86,15 +82,11 @@
         <ul class="bg-blue-600 p-0 rounded-none">
             <li class="text-xs font-bold uppercase"><a href="advisory.php">Advisory Committee</a></li>
             <li class="test-xs font-bold uppercase"><a href="organizing.php">Organizing Committee</a></li>
-            <!-- <li class="text-sm font-bold uppercase"><a href="tpc.php">Technical Program Committee</a></li> -->
+            <li class="text-xs font-bold uppercase"><a href="oversight.php">IEEE Oversight Committee</a></li>
         </ul>
     </li>
     <li class="border-l border-white text-xs font-bold uppercase rounded-none" tabindex="0">
         <a href="programs.php">Program</a>
-        <!-- <ul class="bg-blue-600 p-0 rounded-none">
-            <li class="font-bold uppercase"><a>Coming Soon</a></li>
-            <li class="font-bold uppercase"><a>Submenu 2</a></li>
-        </ul> -->
     </li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="registration.php">Registration</a></li>
     <li class="border-l border-white text-xs font-bold uppercase"><a href="speakers.php">Speakers</a></li>
